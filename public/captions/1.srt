@@ -1,0 +1,5549 @@
+1
+00:00:00,670 --> 00:00:03,980
+[Music]
+
+[BREAK]
+
+2
+00:00:04,430 --> 00:00:07,520
+Stanford University
+
+[BREAK]
+
+3
+00:00:08,570 --> 00:00:13,380
+This is BIO 150 isn't it? Okay, I just
+
+4
+00:00:13,380 --> 00:00:17,220
+wanted to make sure. [BREAK] Okay, so we start off
+
+5
+00:00:17,220 --> 00:00:21,090
+with a scenario. 40 year old guy — quiet
+
+6
+00:00:21,090 --> 00:00:25,080
+suburban life. Married 15 years, two
+
+7
+00:00:25,080 --> 00:00:27,359
+kids, three and a half dogs, everything
+
+8
+00:00:27,359 --> 00:00:29,429
+standard, everything's going wonderfully.
+
+[BREAK]
+
+9
+00:00:29,429 --> 00:00:33,149
+And one day out of nowhere, he punches
+
+10
+00:00:33,149 --> 00:00:35,940
+somebody in the face at work. Totally
+
+11
+00:00:35,940 --> 00:00:37,920
+bizarre, out of character. The guy is
+
+12
+00:00:37,920 --> 00:00:40,559
+standing there by the water cooler and
+
+13
+00:00:40,559 --> 00:00:42,540
+makes some comment on some baseball team,
+
+14
+00:00:42,540 --> 00:00:44,850
+takes exception to it punches him in the
+
+15
+00:00:44,850 --> 00:00:45,360
+face.
+
+16
+00:00:45,360 --> 00:00:49,379
+Utterly strange. [BREAK] Things are quiet. Three
+
+17
+00:00:49,379 --> 00:00:51,960
+months later, his wife of 15 years, happy
+
+18
+00:00:51,960 --> 00:00:53,850
+marriage, discovers he's having an affair
+
+19
+00:00:53,850 --> 00:00:56,250
+with a 16 year old checkout kid down at
+
+20
+00:00:56,250 --> 00:00:59,730
+the Safeway. Really weird. [BREAK] Then, three
+
+21
+00:00:59,730 --> 00:01:02,579
+months after that, he absconds with all
+
+22
+00:01:02,579 --> 00:01:03,960
+the money at work, embezzles it,
+
+23
+00:01:03,960 --> 00:01:07,140
+disappears, and is never seen again.
+
+[BREAK]
+
+24
+00:01:07,140 --> 00:01:10,680
+Three possibilities. First one, this guy is a
+
+25
+00:01:10,680 --> 00:01:14,130
+truly deep creep. Second, he is having the
+
+26
+00:01:14,130 --> 00:01:16,409
+most immature midlife crisis you could
+
+27
+00:01:16,409 --> 00:01:17,189
+ever imagine.
+
+28
+00:01:17,189 --> 00:01:20,400
+Third possibility, he has a mutation than
+
+29
+00:01:20,400 --> 00:01:23,939
+one gene in his head. [BREAK] And what we'll be
+
+30
+00:01:23,939 --> 00:01:26,250
+seeing is this is exactly the profile
+
+31
+00:01:26,250 --> 00:01:27,960
+that you get in a certain neurological
+
+32
+00:01:27,960 --> 00:01:30,840
+disease where it's one gene that's out
+
+33
+00:01:30,840 --> 00:01:34,020
+of whack. First demonstration of that.
+
+[BREAK]
+
+34
+00:01:34,020 --> 00:01:36,689
+Okay, just to get a sense of who's here... how
+
+35
+00:01:36,689 --> 00:01:39,420
+many of you think there is a genetic
+
+36
+00:01:39,420 --> 00:01:43,040
+influence on sexual orientation?
+
+[BREAK]
+
+37
+00:01:43,280 --> 00:01:46,380
+Okay, how many think it is possible for
+
+38
+00:01:46,380 --> 00:01:48,960
+prenatal events to influence your
+
+39
+00:01:48,960 --> 00:01:52,909
+political opinions thirty years later?
+
+[BREAK]
+
+40
+00:01:52,909 --> 00:01:56,009
+Okay, how many think that there is a
+
+41
+00:01:56,009 --> 00:01:58,860
+valid way of using biology to understand
+
+42
+00:01:58,860 --> 00:02:02,369
+who's religious and who isn't? Yeah,
+
+43
+00:02:02,369 --> 00:02:03,899
+not quite as many hands there.
+
+[BREAK]
+
+44
+00:02:03,899 --> 00:02:05,370
+Okay, as long as we're in that
+
+45
+00:02:05,370 --> 00:02:08,539
+terrain, how many people believe in God?
+
+[BREAK]
+
+46
+00:02:08,539 --> 00:02:13,020
+How many people believe in souls? 
+
+47
+00:02:13,020 --> 00:02:19,350
+How many people believe in evil? How many
+
+48
+00:02:19,350 --> 00:02:24,720
+people believe in free will? That's gonna change.
+
+[BREAK]
+
+49
+00:02:24,720 --> 00:02:30,000
+Okay, oh, I might as well ask, is there
+
+50
+00:02:30,000 --> 00:02:32,100
+anybody in this room who actually does
+
+51
+00:02:32,100 --> 00:02:36,270
+believe in evolution? Just wanted to make
+
+52
+00:02:36,270 --> 00:02:37,800
+sure, see what we're dealing with here...
+
+[BREAK]
+
+53
+00:02:37,800 --> 00:02:40,260
+Okay, how many think that there is a
+
+54
+00:02:40,260 --> 00:02:42,450
+genetic influence and that there's a
+
+55
+00:02:42,450 --> 00:02:45,030
+basic biological difference, a sex
+
+56
+00:02:45,030 --> 00:02:49,170
+difference, in levels of aggression? How
+
+57
+00:02:49,170 --> 00:02:51,300
+many think there's biological basis of
+
+58
+00:02:51,300 --> 00:02:56,430
+sex differences in intelligence? 
+
+[BREAK]
+
+59
+00:02:56,430 --> 00:03:00,210
+Okay, who thinks is all explained by nature? Who
+
+60
+00:03:00,210 --> 00:03:03,120
+thinks it's all explained by nuture?
+
+[BREAK]
+
+61
+00:03:03,120 --> 00:03:06,090
+Who think there's a magnificent, fascinating,
+
+62
+00:03:06,090 --> 00:03:10,190
+nuanced interaction between nature and nurture?
+
+[BREAK]
+
+63
+00:03:10,210 --> 00:03:13,570
+Yay! Okay, well everybody's gonna get an
+
+64
+00:03:13,570 --> 00:03:15,130
+A+ then. You already have the course
+
+65
+00:03:15,130 --> 00:03:15,750
+under control.
+
+[BREAK]
+
+66
+00:03:15,750 --> 00:03:22,180
+Okay, so we start off trying to find something in common. Look
+
+67
+00:03:22,180 --> 00:03:27,160
+at these four events here... or not... in
+
+68
+00:03:27,160 --> 00:03:28,840
+terms of being scraped out there, but
+
+69
+00:03:28,840 --> 00:03:30,670
+these are four circumstances that have
+
+70
+00:03:30,670 --> 00:03:33,760
+something surprising in common.
+
+[BREAK]
+
+71
+00:03:33,760 --> 00:03:35,070
+Having your period,
+
+72
+00:03:35,070 --> 00:03:37,750
+having a brain tumor,
+
+72
+00:03:37,750 --> 00:03:39,750
+eating a lot of junk food,
+
+73
+00:03:39,750 --> 00:03:42,610
+taking anabolic steroids.
+
+[BREAK]
+
+74
+00:03:42,610 --> 00:03:44,380
+Those of you were not oriented to it, that's
+
+75
+00:03:44,380 --> 00:03:46,240
+the ones that build up your muscle, like
+
+76
+00:03:46,240 --> 00:03:48,670
+testosterone derivatives. [BREAK] Okay, these all
+
+77
+00:03:48,670 --> 00:03:50,440
+have something in common. [BREAK] Having your
+
+78
+00:03:50,440 --> 00:03:52,960
+period, having a brain tumor, eating a lot
+
+79
+00:03:52,960 --> 00:03:55,030
+of junk food, and taking a lot of
+
+80
+00:03:55,030 --> 00:03:58,240
+anabolic steroids. [BREAK] Anybody want to fathom
+
+81
+00:03:58,240 --> 00:03:59,980
+a guess what's the commonality amongst
+
+82
+00:03:59,980 --> 00:04:05,050
+the four of them? [BREAK] Yeah? [Audience]: Hormones. [BREAK] Hormones good okay
+
+83
+00:04:05,050 --> 00:04:07,300
+we're off and running with hormones, good.
+
+84
+00:04:07,300 --> 00:04:09,690
+Even more specific than that.
+
+85
+00:04:09,690 --> 00:04:13,930
+Something they all have in common. Come
+
+86
+00:04:13,930 --> 00:04:18,459
+on, somebody want to guess? I see these
+
+87
+00:04:18,459 --> 00:04:20,440
+brief movements of hands, there's people
+
+88
+00:04:20,440 --> 00:04:24,070
+change their mind. [BREAK] Okay, it all has to do
+
+89
+00:04:24,070 --> 00:04:26,440
+with hormones. "They all have hormones in
+
+90
+00:04:26,440 --> 00:04:27,730
+common," I say, trying to facilitate
+
+91
+00:04:27,730 --> 00:04:30,580
+somebody making the next guess. [BREAK] Oh c'mon,
+
+92
+00:04:30,580 --> 00:04:33,010
+they all have something... okay, we've got
+
+93
+00:04:33,010 --> 00:04:34,330
+to get out of here at some point. These
+
+94
+00:04:34,330 --> 00:04:36,340
+all have four things in common. [BREAK] All of
+
+95
+00:04:36,340 --> 00:04:39,040
+these have been used successfully in
+
+96
+00:04:39,040 --> 00:04:41,950
+courts of law to explain the behavior of
+
+97
+00:04:41,950 --> 00:04:47,340
+a murderer. [BREAK] In the first case...
+
+98
+00:04:47,340 --> 00:04:51,440
+in the first case, a number of cases,
+
+99
+00:04:51,440 --> 00:04:54,960
+where the fact that a woman was having
+
+100
+00:04:54,960 --> 00:04:56,850
+her period at the time of killing
+
+101
+00:04:56,850 --> 00:04:59,970
+someone was part of what a jury said led
+
+102
+00:04:59,970 --> 00:05:01,620
+them to exonerate the person. [BREAK] A
+
+103
+00:05:01,620 --> 00:05:03,270
+literature showing that a
+
+104
+00:05:03,270 --> 00:05:05,070
+disproportionate share of female
+
+105
+00:05:05,070 --> 00:05:07,380
+aggression comes around the time of
+
+106
+00:05:07,380 --> 00:05:10,950
+menses. [BREAK] Next one. There is an area of the
+
+107
+00:05:10,950 --> 00:05:13,230
+brain you will know so much about over
+
+108
+00:05:13,230 --> 00:05:14,430
+the next three months called the
+
+109
+00:05:14,430 --> 00:05:16,790
+amygdala, that has something to do with
+
+110
+00:05:16,790 --> 00:05:19,260
+aggression and has something to do with
+
+111
+00:05:19,260 --> 00:05:22,230
+fear... and you get a brain tumor there, and
+
+112
+00:05:22,230 --> 00:05:24,360
+in a number of cases, you get someone who
+
+113
+00:05:24,360 --> 00:05:27,960
+is uncontrollably violent... and this has
+
+114
+00:05:27,960 --> 00:05:29,669
+also been used successfully in a court
+
+115
+00:05:29,669 --> 00:05:30,290
+of law.
+
+[BREAK]
+
+116
+00:05:30,290 --> 00:05:33,090
+Junk food. Any of you who are San
+
+117
+00:05:33,090 --> 00:05:35,790
+Francisco history buffs will know 20
+
+118
+00:05:35,790 --> 00:05:39,260
+years ago, 30 years ago, at Dan White, a
+
+119
+00:05:39,260 --> 00:05:41,970
+dissappointed office seeker assassinated
+
+120
+00:05:41,970 --> 00:05:44,130
+the American Francisco, along with Harvey
+
+121
+00:05:44,130 --> 00:05:47,190
+Milk. [BREAK] And as part of his remarkably
+
+122
+00:05:47,190 --> 00:05:49,470
+successful defense for a double murderer
+
+123
+00:05:49,470 --> 00:05:51,660
+that led to a remarkably short jail
+
+124
+00:05:51,660 --> 00:05:54,020
+sentence, was the famed Twinkie defense.
+
+[BREAK]
+
+125
+00:05:54,020 --> 00:05:57,840
+The argument that his addiction to junk
+
+126
+00:05:57,840 --> 00:06:00,450
+food caused wild fluctuations in his
+
+127
+00:06:00,450 --> 00:06:02,370
+blood sugar levels, which caused him to
+
+128
+00:06:02,370 --> 00:06:03,419
+do that.
+
+[BREAK]
+
+129
+00:06:03,419 --> 00:06:06,720
+Finally, anabolic steroids. Any number of
+
+130
+00:06:06,720 --> 00:06:08,640
+cases of people having uncontrolled
+
+131
+00:06:08,640 --> 00:06:10,890
+violence arguing, because they were
+
+132
+00:06:10,890 --> 00:06:13,110
+weight lifters, and a wildly abusive
+
+133
+00:06:13,110 --> 00:06:15,180
+range of taking this stuff, had something
+
+134
+00:06:15,180 --> 00:06:17,580
+to do with violence. [BREAK] Put all four of
+
+135
+00:06:17,580 --> 00:06:19,830
+these together and we get the first of
+
+136
+00:06:19,830 --> 00:06:21,810
+the two points of this entire course...
+
+[BREAK]
+
+137
+00:06:21,810 --> 00:06:25,050
+Which is... sometimes the stuff that's
+
+138
+00:06:25,050 --> 00:06:27,539
+going on in your body can dramatically
+
+139
+00:06:27,539 --> 00:06:30,260
+influence what goes on in your brain.
+
+[BREAK]
+
+140
+00:06:30,260 --> 00:06:33,270
+Second critical point: tonight when
+
+141
+00:06:33,270 --> 00:06:34,560
+you've settled back down and you're
+
+142
+00:06:34,560 --> 00:06:36,419
+ready to go to sleep and you're nice and
+
+143
+00:06:36,419 --> 00:06:38,460
+relaxed and your hearts beating nice and
+
+144
+00:06:38,460 --> 00:06:41,010
+slow, think the following thought:
+
+[BREAK]
+
+145
+00:06:41,010 --> 00:06:43,020
+You know, that heart isn't going to beat
+
+146
+00:06:43,020 --> 00:06:45,189
+forever.
+
+[BREAK]
+
+147
+00:06:45,189 --> 00:06:47,559
+Think about... think about your lips
+
+148
+00:06:47,559 --> 00:06:49,659
+turning blue after the- think about the
+
+149
+00:06:49,659 --> 00:06:52,059
+blood flow slowing down. Think about your
+
+150
+00:06:52,059 --> 00:06:54,429
+feet and your toes getting cold and at
+
+151
+00:06:54,429 --> 00:06:56,580
+that point you will probably be
+
+152
+00:06:56,580 --> 00:06:58,689
+increasing the rate at which that heart
+
+153
+00:06:58,689 --> 00:07:00,550
+beats and you will have just seen the
+
+154
+00:07:00,550 --> 00:07:03,099
+second key thing in this course. [BREAK] Which is,
+
+155
+00:07:03,099 --> 00:07:05,589
+sometimes what's going on in your head
+
+156
+00:07:05,589 --> 00:07:08,259
+will affect every single outpost in your
+
+157
+00:07:08,259 --> 00:07:10,689
+body. [BREAK] And what this course is about is
+
+158
+00:07:10,689 --> 00:07:13,479
+the intertwining, the interconnections,
+
+159
+00:07:13,479 --> 00:07:16,419
+between your physiology and your
+
+160
+00:07:16,419 --> 00:07:18,669
+behavior. The underlying emotions,
+
+161
+00:07:18,669 --> 00:07:20,949
+thoughts, memories all of that, and the
+
+162
+00:07:20,949 --> 00:07:23,800
+capacity of each to deeply influence the
+
+163
+00:07:23,800 --> 00:07:26,339
+others under all sorts of circumstances.
+
+[BREAK]
+
+164
+00:07:26,339 --> 00:07:28,449
+Now, what we're going to be doing with
+
+165
+00:07:28,449 --> 00:07:30,939
+this is trying to understand this under
+
+166
+00:07:30,939 --> 00:07:32,879
+fairly difficult circumstances.
+
+[BREAK]
+
+167
+00:07:32,879 --> 00:07:35,649
+If everybody here was here because they
+
+168
+00:07:35,649 --> 00:07:38,319
+really wanted to understand why all the
+
+169
+00:07:38,319 --> 00:07:40,209
+wildebeest on earth mate in the same
+
+170
+00:07:40,209 --> 00:07:42,579
+week each year, we'd have a fighting
+
+171
+00:07:42,579 --> 00:07:44,739
+chance of figuring that one out, but
+
+172
+00:07:44,739 --> 00:07:46,719
+that's not what we want to understand.
+
+[BREAK]
+
+173
+00:07:46,719 --> 00:07:48,339
+We don't want to understand why birds
+
+174
+00:07:48,339 --> 00:07:50,860
+migrate and don't get lost. We want
+
+175
+00:07:50,860 --> 00:07:53,949
+to understand human behavior. [BREAK] Worse than
+
+176
+00:07:53,949 --> 00:07:55,929
+that, harder than that, human social
+
+177
+00:07:55,929 --> 00:07:58,479
+behavior. [BREAK] And hardest of all in some
+
+178
+00:07:58,479 --> 00:08:01,149
+cases, some grossly abnormal human
+
+179
+00:08:01,149 --> 00:08:03,699
+behavior. [BREAK] And if you're going to try to
+
+180
+00:08:03,699 --> 00:08:06,039
+do that there's a problem, which is,
+
+181
+00:08:06,039 --> 00:08:09,129
+officially, it's complicated. [BREAK] It is a huge,
+
+182
+00:08:09,129 --> 00:08:11,349
+messy process trying to make sense of
+
+183
+00:08:11,349 --> 00:08:14,459
+the biology of human social behavior.
+
+[BREAK]
+
+184
+00:08:14,459 --> 00:08:17,409
+And just as all sorts of realms when one
+
+185
+00:08:17,409 --> 00:08:19,809
+deals with messy, complicated problems
+
+186
+00:08:19,809 --> 00:08:21,909
+that you need to think about in some
+
+187
+00:08:21,909 --> 00:08:24,759
+wildly, interacting way, we all have a
+
+188
+00:08:24,759 --> 00:08:27,669
+strategy that we come up with. [BREAK] A strategy
+
+189
+00:08:27,669 --> 00:08:30,999
+to make things easier. [BREAK] Which is that we
+
+190
+00:08:30,999 --> 00:08:33,639
+think in categories. We think in
+
+191
+00:08:33,639 --> 00:08:35,649
+categories, we take things that are
+
+192
+00:08:35,649 --> 00:08:36,578
+continua,
+
+193
+00:08:36,578 --> 00:08:39,339
+and we break them into categories. 
+
+[BREAK]
+
+194
+00:08:39,339 --> 00:08:42,698
+And we label those categories and we do that in
+
+195
+00:08:42,698 --> 00:08:44,410
+various settings because it could be
+
+196
+00:08:44,410 --> 00:08:48,790
+extremely useful.
+
+[BREAK]
+
+197
+00:08:48,790 --> 00:08:51,139
+For example, somebody give me an estimate on how long
+
+198
+00:08:51,139 --> 00:08:56,899
+this line is. A foot? Okay.
+
+[BREAK]
+
+199
+00:08:56,899 --> 00:08:59,209
+People who said a foot, what is it that
+
+200
+00:08:59,209 --> 00:09:01,480
+went through your head to figure it out?
+
+[BREAK]
+
+201
+00:09:01,480 --> 00:09:06,110
+You imagined how long a... ruler is. This is
+
+202
+00:09:06,110 --> 00:09:08,569
+11 1/2 inches because it's an eight and a...
+
+203
+00:09:08,569 --> 00:09:10,970
+and it's 11 inches an 8 and a half by 11.
+
+[BREAK]
+
+204
+00:09:10,970 --> 00:09:14,180
+But everybody in here has this category
+
+205
+00:09:14,180 --> 00:09:16,610
+in their head. Things that are kind of
+
+206
+00:09:16,610 --> 00:09:19,910
+the same length as a ruler. [BREAK] A continua of
+
+207
+00:09:19,910 --> 00:09:22,009
+length and there's a category for that.
+
+[BREAK]
+
+208
+00:09:22,009 --> 00:09:24,170
+Suppose I'm telling you I have some
+
+209
+00:09:24,170 --> 00:09:26,569
+friend who's a runner, he runs the mile.
+
+210
+00:09:26,569 --> 00:09:29,060
+He's incredibly fast, in fact he's one of
+
+211
+00:09:29,060 --> 00:09:30,709
+the best runners in the country. At this
+
+212
+00:09:30,709 --> 00:09:33,110
+point, how fast does he have to have run
+
+213
+00:09:33,110 --> 00:09:35,360
+the mile, or better, for you to be deeply
+
+214
+00:09:35,360 --> 00:09:38,630
+impressed? [BREAK] Under four minutes. [BREAK] And thus we
+
+215
+00:09:38,630 --> 00:09:40,910
+have another categorical boundary there,
+
+216
+00:09:40,910 --> 00:09:43,910
+of, there's an infinite variety of speeds
+
+217
+00:09:43,910 --> 00:09:46,339
+with which you can run a mile, yet we
+
+218
+00:09:46,339 --> 00:09:48,889
+have in our heads this boundary... people
+
+219
+00:09:48,889 --> 00:09:51,440
+who are under 4 minute milers, you are
+
+220
+00:09:51,440 --> 00:09:54,589
+very impressed with. [BREAK] Okay, now I want to
+
+221
+00:09:54,589 --> 00:09:55,970
+impress you with another friend of mine
+
+222
+00:09:55,970 --> 00:09:56,930
+who's a painter
+
+223
+00:09:56,930 --> 00:09:59,540
+and this person is such a great painter
+
+224
+00:09:59,540 --> 00:10:02,680
+that they paint with 11 different colors.
+
+[BREAK]
+
+225
+00:10:02,680 --> 00:10:05,360
+That doesn't work. Because that's not a
+
+226
+00:10:05,360 --> 00:10:07,370
+category that we have. We don't classify
+
+227
+00:10:07,370 --> 00:10:10,279
+the quality of it - hopefully not -
+
+228
+00:10:10,279 --> 00:10:13,040
+we don't classify quality of paintings
+
+229
+00:10:13,040 --> 00:10:14,149
+along those lines.
+
+[BREAK]
+
+230
+00:10:14,149 --> 00:10:16,579
+But what we begin to see here is in the
+
+231
+00:10:16,579 --> 00:10:19,910
+right areas, we have categories that we
+
+232
+00:10:19,910 --> 00:10:21,790
+impose on things that are not
+
+233
+00:10:21,790 --> 00:10:25,100
+categorical. [BREAK] Here's an example. Why should
+
+234
+00:10:25,100 --> 00:10:27,649
+you do this when the example go here's
+
+235
+00:10:27,649 --> 00:10:30,079
+one of the classic continua that we ever
+
+236
+00:10:30,079 --> 00:10:32,540
+deal with, which is the continua of color,
+
+237
+00:10:32,540 --> 00:10:34,850
+the varying wavelengths that take the
+
+238
+00:10:34,850 --> 00:10:36,949
+rainbow from violet to red, and there's
+
+239
+00:10:36,949 --> 00:10:38,990
+an infinite number of spaces in between.
+
+[BREAK]
+
+240
+00:10:38,990 --> 00:10:41,930
+And what do we do? We have rules in
+
+241
+00:10:41,930 --> 00:10:44,389
+English that you divide the continua
+
+242
+00:10:44,389 --> 00:10:45,230
+here,
+
+243
+00:10:45,230 --> 00:10:48,410
+and here, or whatever and that's what you
+
+244
+00:10:48,410 --> 00:10:50,870
+call a color. And this is red, everything
+
+245
+00:10:50,870 --> 00:10:52,880
+from here is red, everything here is
+
+246
+00:10:52,880 --> 00:10:55,700
+orange, so on. You take a continua
+
+247
+00:10:55,700 --> 00:10:58,160
+and you break it into boundaries. [BREAK] Why do
+
+248
+00:10:58,160 --> 00:11:00,890
+we do that? Because it makes it easier to
+
+249
+00:11:00,890 --> 00:11:03,620
+store the information away. [BREAK] Instead of
+
+250
+00:11:03,620 --> 00:11:05,540
+remembering the absolute features of
+
+251
+00:11:05,540 --> 00:11:08,900
+something you simply say "it's a." [BREAK] It's a
+
+252
+00:11:08,900 --> 00:11:11,330
+sub four-minute miler. It's a line
+
+253
+00:11:11,330 --> 00:11:12,800
+that's almost the length that's about
+
+254
+00:11:12,800 --> 00:11:15,350
+the length of the ruler. It's the color
+
+255
+00:11:15,350 --> 00:11:17,480
+orange. [BREAK] How do you know that's the case?
+
+[BREAK]
+
+256
+00:11:17,480 --> 00:11:19,610
+Because go and take people from other
+
+257
+00:11:19,610 --> 00:11:21,950
+language groups where their language
+
+258
+00:11:21,950 --> 00:11:24,560
+arbitrarily divides the rainbow and
+
+259
+00:11:24,560 --> 00:11:26,270
+other points with completely different
+
+260
+00:11:26,270 --> 00:11:28,940
+color terms, and they remember different
+
+261
+00:11:28,940 --> 00:11:32,090
+profiles of colors differently than an
+
+262
+00:11:32,090 --> 00:11:34,700
+English speaker might. [BREAK] Take a color and
+
+263
+00:11:34,700 --> 00:11:37,100
+if the color comes right in the center
+
+264
+00:11:37,100 --> 00:11:40,990
+of somebody's a color categorization,
+
+265
+00:11:40,990 --> 00:11:43,310
+it comes right in the middle of the
+
+266
+00:11:43,310 --> 00:11:45,170
+range of what counts as that color,
+
+267
+00:11:45,170 --> 00:11:47,690
+people remember whether they saw that
+
+268
+00:11:47,690 --> 00:11:50,000
+color or not far better than if you
+
+269
+00:11:50,000 --> 00:11:51,800
+show them a color at the boundary.
+
+[BREAK]
+
+270
+00:11:51,800 --> 00:11:54,440
+And people will show that as a function
+
+271
+00:11:54,440 --> 00:11:55,910
+of what language they speak.
+
+[BREAK]
+
+272
+00:11:55,910 --> 00:11:58,130
+Taking a continua and you break it into
+
+273
+00:11:58,130 --> 00:12:00,650
+pieces because it's easier to deal with
+
+274
+00:12:00,650 --> 00:12:03,020
+the facts. [BREAK] Another example of it. Here we
+
+275
+00:12:03,020 --> 00:12:06,530
+have four objects and, as drawn here,
+
+276
+00:12:06,530 --> 00:12:09,350
+simply because we have categories to
+
+277
+00:12:09,350 --> 00:12:11,570
+describe the first three, do one of those
+
+278
+00:12:11,570 --> 00:12:13,820
+tests of "show people a bunch of shapes"
+
+279
+00:12:13,820 --> 00:12:15,740
+and they come back an hour later and ask
+
+280
+00:12:15,740 --> 00:12:17,510
+them have you seen the shape before and
+
+281
+00:12:17,510 --> 00:12:19,220
+people are going to be far more accurate
+
+282
+00:12:19,220 --> 00:12:21,980
+with this, than whether they saw this [odd shape], or
+
+283
+00:12:21,980 --> 00:12:24,200
+not because we don't have a word for it.
+
+[BREAK]
+
+284
+00:12:24,200 --> 00:12:26,150
+We don't have a word that's at all sort
+
+285
+00:12:26,150 --> 00:12:28,070
+of analytical with some squiggly
+
+286
+00:12:28,070 --> 00:12:30,140
+whatever we don't have a clear-cut
+
+287
+00:12:30,140 --> 00:12:33,560
+category. Thinking in categories makes it
+
+288
+00:12:33,560 --> 00:12:36,350
+easier for us to remember stuff. And it
+
+289
+00:12:36,350 --> 00:12:38,480
+makes it easier for us to evaluate stuff.
+
+[BREAK]
+
+290
+00:12:38,480 --> 00:12:40,940
+So that's a classic sort of response
+
+291
+00:12:40,940 --> 00:12:43,370
+that we have cognitively, to complicated
+
+292
+00:12:43,370 --> 00:12:46,490
+things. [BREAK] But there's a bunch of problems
+
+293
+00:12:46,490 --> 00:12:49,850
+with categorical thinking. [BREAK] First example,
+
+294
+00:12:49,850 --> 00:12:52,690
+and first one you can see from a realm of
+
+295
+00:12:52,690 --> 00:12:54,880
+language differences and that, not only
+
+296
+00:12:54,880 --> 00:12:57,130
+is there a continua of infinite number
+
+297
+00:12:57,130 --> 00:12:59,500
+of wavelengths, there's a continua of
+
+298
+00:12:59,500 --> 00:13:02,100
+sounds that humans can make.
+
+[BREAK]
+
+299
+00:13:02,100 --> 00:13:05,020
+And different languages draw boundaries at
+
+300
+00:13:05,020 --> 00:13:06,850
+different points as to what count as
+
+301
+00:13:06,850 --> 00:13:08,800
+similar sounds or different sounds
+
+302
+00:13:08,800 --> 00:13:11,680
+There's like two different th sounds in
+
+303
+00:13:11,680 --> 00:13:13,750
+English which apparently we're not very
+
+304
+00:13:13,750 --> 00:13:15,520
+good at hearing but there's other ones
+
+305
+00:13:15,520 --> 00:13:18,850
+we are. [BREAK] And that will affect your ability
+
+306
+00:13:18,850 --> 00:13:20,980
+to remember stuff... what word it was?
+
+[BREAK]
+
+307
+00:13:20,980 --> 00:13:23,170
+Depending on whether it is on a
+
+308
+00:13:23,170 --> 00:13:24,970
+dramatically different boundary, whether
+
+309
+00:13:24,970 --> 00:13:27,220
+it is sound that sounds different to you
+
+310
+00:13:27,220 --> 00:13:29,220
+or not. [BREAK] Example of this:
+
+311
+00:13:29,220 --> 00:13:32,770
+Apparently in Finnish, people do not
+
+312
+00:13:32,770 --> 00:13:34,900
+differentiate between the sound of a B
+
+313
+00:13:34,900 --> 00:13:37,330
+and the sound of the P, whereas we have
+
+314
+00:13:37,330 --> 00:13:39,010
+no trouble with that. But people from
+
+315
+00:13:39,010 --> 00:13:40,840
+Finland do not make that differentiation.
+
+316
+00:13:40,840 --> 00:13:43,030
+And I discovered this one day a number
+
+317
+00:13:43,030 --> 00:13:45,610
+of years ago where, for reasons I don't
+
+318
+00:13:45,610 --> 00:13:47,830
+even understand, I found myself needing
+
+319
+00:13:47,830 --> 00:13:51,510
+to take testicular biopsies on baboons.
+
+[BREAK]
+
+320
+00:13:51,510 --> 00:13:53,980
+Not having, sort of, learned that in
+
+321
+00:13:53,980 --> 00:13:55,780
+junior high, how you do, that I called up
+
+322
+00:13:55,780 --> 00:13:57,700
+this guide urology at the med school who
+
+323
+00:13:57,700 --> 00:14:00,190
+happened to be Finnish and I explained
+
+324
+00:14:00,190 --> 00:14:02,380
+to him what I wanted to do and he sort
+
+325
+00:14:02,380 --> 00:14:03,970
+of took me through the paces and told me
+
+326
+00:14:03,970 --> 00:14:06,910
+what thingy I needed to buy and that
+
+327
+00:14:06,910 --> 00:14:09,220
+sort of stuff and holiday packages of
+
+328
+00:14:09,220 --> 00:14:11,500
+those where you can get a dozen. [BREAK] And sort
+
+329
+00:14:11,500 --> 00:14:13,480
+of telling me how to do that. And once we
+
+330
+00:14:13,480 --> 00:14:15,400
+went through, he said, what I want you to
+
+331
+00:14:15,400 --> 00:14:17,800
+do, the thing to do at this point is, get
+
+332
+00:14:17,800 --> 00:14:19,480
+some practice. [BREAK] I want you to practice on
+
+333
+00:14:19,480 --> 00:14:25,720
+a bear. [BREAK] What? [BREAK] He said yeah
+
+334
+00:14:25,720 --> 00:14:28,840
+practice on a bear. And I said, are you
+
+335
+00:14:28,840 --> 00:14:30,940
+kidding me? [BREAK] He said, I know, I know it
+
+336
+00:14:30,940 --> 00:14:32,740
+sounds crazy, but we have all the
+
+337
+00:14:32,740 --> 00:14:34,150
+residents do that, it's a very good
+
+338
+00:14:34,150 --> 00:14:35,600
+learning device, you know,
+
+339
+00:14:35,600 --> 00:14:38,180
+either... either practice on a bear or an
+
+340
+00:14:38,180 --> 00:14:40,540
+apple.
+
+[BREAK]
+
+341
+00:14:41,920 --> 00:14:45,100
+Here we see the dangers of making
+
+342
+00:14:45,100 --> 00:14:47,110
+mistakes about differences between B and
+
+343
+00:14:47,110 --> 00:14:50,440
+P under certain circumstances.
+
+[BREAK]
+
+344
+00:14:50,440 --> 00:14:53,560
+So, we see one of the dangers there, which is,
+
+345
+00:14:53,560 --> 00:14:55,389
+when you are paying too much attention
+
+346
+00:14:55,389 --> 00:14:57,970
+to categories, you can't differentiate
+
+347
+00:14:57,970 --> 00:15:00,160
+two facts that fall within the same
+
+348
+00:15:00,160 --> 00:15:03,760
+category. [BREAK] Next example: remember back at
+
+349
+00:15:03,760 --> 00:15:05,889
+various points of anxiety during exams
+
+350
+00:15:05,889 --> 00:15:08,440
+and such back-when, where there was a
+
+351
+00:15:08,440 --> 00:15:11,410
+world of difference between getting a 65
+
+352
+00:15:11,410 --> 00:15:14,500
+on a test and a 66 on a test, not
+
+353
+00:15:14,500 --> 00:15:16,209
+particularly different but because
+
+354
+00:15:16,209 --> 00:15:18,100
+there's this boundary drawn there
+
+355
+00:15:18,100 --> 00:15:20,529
+between passing and failing, there is
+
+356
+00:15:20,529 --> 00:15:22,899
+this dramatic differentiating we make.
+
+[BREAK]
+
+357
+00:15:22,899 --> 00:15:24,850
+When you put a boundaries, you have
+
+358
+00:15:24,850 --> 00:15:27,279
+trouble seeing how similar things are on
+
+359
+00:15:27,279 --> 00:15:31,060
+either side of it. [BREAK] Next example: one
+
+360
+00:15:31,060 --> 00:15:32,920
+additional problem that you get when you
+
+361
+00:15:32,920 --> 00:15:34,779
+think categorically. [BREAK] And for this,
+
+362
+00:15:34,779 --> 00:15:37,089
+everybody needs to turn over one of the
+
+363
+00:15:37,089 --> 00:15:38,470
+pieces of paper, the paper you're gonna
+
+364
+00:15:38,470 --> 00:15:40,360
+hand in, the questionnaire, and what I'm
+
+365
+00:15:40,360 --> 00:15:42,430
+going to do is read you a series of
+
+366
+00:15:42,430 --> 00:15:45,040
+phone numbers, and I want you to write
+
+367
+00:15:45,040 --> 00:15:48,390
+them down as accurately as possible.
+
+[BREAK]
+
+368
+00:15:49,730 --> 00:15:54,199
+Okay, ready. [BREAK] 2 4 3 2 6 4
+
+369
+00:15:54,199 --> 00:15:56,809
+9. [BREAK] 6 5 0 3 2 6 0.
+
+[BREAK]
+
+370
+00:15:56,809 --> 00:15:59,779
+2 5 6 5 7 7 9. 
+
+[BREAK]
+
+371
+00:15:59,779 --> 00:16:03,619
+8 3 2 2 4 4 9 [BREAK] 2 [BREAK] 9
+
+372
+00:16:03,619 --> 00:16:06,619
+1 3 [BREAK] 1 7 1 [BREAK] 2 3 1 4
+
+[BREAK]
+
+373
+00:16:06,619 --> 00:16:09,949
+0 2 6 [BREAK] 5 9 3 2 4
+
+374
+00:16:09,949 --> 00:16:12,649
+4 9 [BREAK] 7 4 3 8 8
+
+375
+00:16:12,649 --> 00:16:15,669
+4 0 [BREAK] 8 3 1 5 2 [BREAK] 8
+
+376
+00:16:15,669 --> 00:16:22,259
+7 [BREAK] Okay, now what that exercise is -
+
+377
+00:16:22,259 --> 00:16:24,359
+no that doesn't count towards the grade -
+
+378
+00:16:24,359 --> 00:16:27,419
+what that will show, I'm sure, when, in some
+
+379
+00:16:27,419 --> 00:16:29,699
+obsessive burst of procrastination, I
+
+380
+00:16:29,699 --> 00:16:31,199
+actually look through the answers
+
+381
+00:16:31,199 --> 00:16:33,660
+tonight. [BREAK] What it's going to show is the
+
+382
+00:16:33,660 --> 00:16:36,839
+accuracy is going to tank the second you
+
+383
+00:16:36,839 --> 00:16:38,549
+go from the phone number pattern of
+
+384
+00:16:38,549 --> 00:16:41,189
+three digits followed by four, break up
+
+385
+00:16:41,189 --> 00:16:43,559
+that pattern, and suddenly we all get
+
+386
+00:16:43,559 --> 00:16:45,239
+screwed up because we're saying, wait a
+
+387
+00:16:45,239 --> 00:16:46,499
+second, I thought it was a phone number,
+
+388
+00:16:46,499 --> 00:16:48,689
+that was one digit, now two digits. I
+
+389
+00:16:48,689 --> 00:16:50,579
+can't... and it's gone, and you're on to the
+
+390
+00:16:50,579 --> 00:16:53,220
+next one. [BREAK] And, what we see there is the
+
+391
+00:16:53,220 --> 00:16:55,949
+third example, which is when you pay too
+
+392
+00:16:55,949 --> 00:16:58,319
+much attention to boundaries, you don't
+
+393
+00:16:58,319 --> 00:16:59,759
+see the big picture,
+
+394
+00:16:59,759 --> 00:17:03,449
+all you see are categories. [BREAK] All you see
+
+395
+00:17:03,449 --> 00:17:05,339
+are... wait a second, phone numbers are
+
+396
+00:17:05,339 --> 00:17:06,449
+supposed to come with three digits
+
+397
+00:17:06,449 --> 00:17:09,510
+followed by four. [BREAK] Another example of
+
+398
+00:17:09,510 --> 00:17:11,459
+where we use categorical thinking.
+
+[BREAK]
+
+399
+00:17:11,459 --> 00:17:15,289
+Okay, I'm putting up a number series here.
+
+400
+00:17:19,880 --> 00:17:27,179
+Okay, what's... oh my God, okay what's the
+
+401
+00:17:27,179 --> 00:17:35,100
+next number in this series, and why? [BREAK] 42?
+
+[BREAK]
+
+402
+00:17:35,100 --> 00:17:38,149
+How come?
+
+[BREAK]
+
+403
+00:17:41,930 --> 00:17:44,850
+Okay, so we're kind of oscillating all
+
+404
+00:17:44,850 --> 00:17:49,950
+over the place there. [BREAK] Okay, so that's is
+
+405
+00:17:49,950 --> 00:17:52,080
+valid as anybody else's. [BREAK] Who else has a
+
+406
+00:17:52,080 --> 00:17:54,800
+next number in line there? What's that?
+
+407
+00:17:54,800 --> 00:18:04,230
+45? [BREAK] How come? [BREAK] Okay, are you going
+
+408
+00:18:04,230 --> 00:18:08,010
+to take that? 45? That's very... okay,
+
+409
+00:18:08,010 --> 00:18:09,720
+what else? [BREAK] Let me make it a little bit
+
+410
+00:18:09,720 --> 00:18:19,260
+easier here. [BREAK] Okay, so what's the next
+
+411
+00:18:19,260 --> 00:18:21,120
+number in that series? [BREAK] And what I'm
+
+412
+00:18:21,120 --> 00:18:23,820
+telling you is, if you think about the
+
+413
+00:18:23,820 --> 00:18:26,100
+world with a certain set of categories
+
+414
+00:18:26,100 --> 00:18:28,650
+in your head, you will know the next
+
+415
+00:18:28,650 --> 00:18:30,090
+number in the sequence. [BREAK] So what's the
+
+416
+00:18:30,090 --> 00:18:40,250
+next one? Seven billion. [BREAK] Okay, that one.
+
+417
+00:18:40,250 --> 00:18:42,660
+Okay, seven billion. [BREAK] That's another
+
+418
+00:18:42,660 --> 00:18:45,150
+possibility, although presumably it would
+
+419
+00:18:45,150 --> 00:18:46,640
+be seven billionth.
+
+[BREAK]
+
+420
+00:18:46,640 --> 00:18:49,590
+Anything else? Any other guesses here as
+
+421
+00:18:49,590 --> 00:18:51,600
+to what happens next?
+
+[BREAK]
+
+422
+00:18:51,600 --> 00:18:54,060
+4th, 14th, 23rd, 34th.
+
+[BREAK]
+
+423
+00:18:54,060 --> 00:18:55,410
+What's the next one in the sequence?
+
+[BREAK]
+
+424
+00:18:55,410 --> 00:19:00,200
+Yes, 44. How come?
+
+[BREAK]
+
+00:19:10,960 --> 00:19:15,100
+Okay, but remember, it's got to be 44th.
+
+[BREAK]
+
+426
+00:19:15,100 --> 00:19:17,660
+What's that ordinal, cardinal whatever it is.
+
+[BREAK]
+
+427
+00:19:17,660 --> 00:19:22,580
+What? [BREAK] [Audience]: 42nd? [BREAK] How come? [BREAK] [Audience]: Subway? You were right!
+
+428
+00:19:22,580 --> 00:19:28,010
+You were right! Anybody who's a New Yorker will
+
+429
+00:19:28,010 --> 00:19:30,440
+know what the next one is. These are the
+
+430
+00:19:30,440 --> 00:19:32,990
+subway stops. And you get a bagel with
+
+431
+00:19:32,990 --> 00:19:35,530
+cream cheese.
+
+432
+00:19:36,730 --> 00:19:39,090
+Just head it on back.
+
+433
+00:19:42,910 --> 00:19:45,580
+So, you get New Yorkers, and while
+
+434
+00:19:45,580 --> 00:19:47,350
+everybody else is thinking logical
+
+435
+00:19:47,350 --> 00:19:50,770
+things like 43 and 41 and 45 and 7
+
+436
+00:19:50,770 --> 00:19:53,170
+billion and all of that, you've got this
+
+437
+00:19:53,170 --> 00:19:55,270
+whole world of dividing numbers by
+
+438
+00:19:55,270 --> 00:19:58,570
+subway stops. [BREAK] We think in categories. We
+
+439
+00:19:58,570 --> 00:20:00,820
+think in categories. [BREAK] But as you just saw,
+
+440
+00:20:00,820 --> 00:20:03,340
+there are these problems. First one being...
+
+441
+00:20:03,340 --> 00:20:05,640
+when you think in categories, you
+
+442
+00:20:05,640 --> 00:20:07,990
+underestimate how different two facts
+
+443
+00:20:07,990 --> 00:20:10,170
+are when they fall in the same category.
+
+[BREAK]
+
+444
+00:20:10,170 --> 00:20:12,840
+When you think in categories, you
+
+445
+00:20:12,840 --> 00:20:15,370
+overestimate how different they are when
+
+446
+00:20:15,370 --> 00:20:16,870
+there happens to be a boundary in
+
+447
+00:20:16,870 --> 00:20:18,730
+between them. [BREAK] And when you pay attention
+
+448
+00:20:18,730 --> 00:20:21,400
+to categorical boundaries, you don't see
+
+449
+00:20:21,400 --> 00:20:24,250
+big pictures. [BREAK] Now, what our goal in this
+
+450
+00:20:24,250 --> 00:20:26,770
+class is going to be is... think about this
+
+451
+00:20:26,770 --> 00:20:28,870
+big, complex issue of the biology of
+
+452
+00:20:28,870 --> 00:20:31,510
+behavior without falling into thinking
+
+453
+00:20:31,510 --> 00:20:33,790
+in categories. [BREAK] What do I mean in this
+
+454
+00:20:33,790 --> 00:20:35,530
+regard? Thinking categorically about a
+
+455
+00:20:35,530 --> 00:20:39,040
+subject like this. [BREAK] There's some chicken,
+
+456
+00:20:39,040 --> 00:20:41,590
+and the chicken is standing somewhere,
+
+457
+00:20:41,590 --> 00:20:43,450
+and there's some rooster over there
+
+458
+00:20:43,450 --> 00:20:46,110
+that does some sexually solicited,
+
+459
+00:20:46,110 --> 00:20:49,090
+exciting thing for the female. And in
+
+460
+00:20:49,090 --> 00:20:50,920
+response to that, the female picks up and
+
+461
+00:20:50,920 --> 00:20:53,620
+goes running over to the rooster. And thus,
+
+462
+00:20:53,620 --> 00:20:55,690
+we have our first behavioral biology
+
+463
+00:20:55,690 --> 00:20:57,940
+question here: why did that chicken cross
+
+464
+00:20:57,940 --> 00:20:58,450
+the road?
+
+[BREAK]
+
+465
+00:20:58,450 --> 00:21:00,850
+To get to that rooster. [BREAK] So, you could
+
+466
+00:21:00,850 --> 00:21:03,280
+answer that like an endocrinologist and
+
+467
+00:21:03,280 --> 00:21:05,140
+say, well the female had certain levels
+
+468
+00:21:05,140 --> 00:21:06,730
+of estrogen in her bloodstream which
+
+469
+00:21:06,730 --> 00:21:08,530
+made its key hypothalamic areas
+
+470
+00:21:08,530 --> 00:21:10,600
+responsive to the stimulus. Or you could
+
+471
+00:21:10,600 --> 00:21:12,880
+answer it like an anatomist of saying,
+
+472
+00:21:12,880 --> 00:21:15,520
+well, because the fulcrum of a pelvis, or
+
+473
+00:21:15,520 --> 00:21:17,320
+whatever, it is chickens have that allow
+
+474
+00:21:17,320 --> 00:21:19,660
+them to run. Or you could answer it in
+
+475
+00:21:19,660 --> 00:21:21,280
+the category of an evolutionary
+
+476
+00:21:21,280 --> 00:21:24,070
+biologist that, over the millennia,
+
+477
+00:21:24,070 --> 00:21:26,230
+chickens that didn't respond to sexually
+
+478
+00:21:26,230 --> 00:21:28,270
+solicited gestures females left fewer
+
+479
+00:21:28,270 --> 00:21:30,490
+copies of their genes, and there's all
+
+480
+00:21:30,490 --> 00:21:32,320
+these different categories that we can
+
+481
+00:21:32,320 --> 00:21:35,620
+use to explain what's going on. All of
+
+482
+00:21:35,620 --> 00:21:37,660
+these different buckets. All of these
+
+483
+00:21:37,660 --> 00:21:39,610
+different buckets which begin to
+
+484
+00:21:39,610 --> 00:21:41,500
+pull you towards all of the problems we
+
+485
+00:21:41,500 --> 00:21:44,470
+just saw. [BREAK] Now having trouble telling how
+
+486
+00:21:44,470 --> 00:21:46,720
+different or similar two facts are,
+
+487
+00:21:46,720 --> 00:21:49,270
+having trouble seeing big pictures,
+
+488
+00:21:49,270 --> 00:21:51,580
+over emphasizing the importance of the
+
+489
+00:21:51,580 --> 00:21:53,890
+bucket you happen to live inside of, and
+
+490
+00:21:53,890 --> 00:21:56,860
+thus, suddenly everything about this
+
+491
+00:21:56,860 --> 00:21:59,830
+behavior is explained by a gene, a
+
+492
+00:21:59,830 --> 00:22:03,460
+neurotransmitter, a childhood trauma, a..., a...
+
+493
+00:22:03,460 --> 00:22:06,429
+living inside one bucket. [BREAK] What we're
+
+494
+00:22:06,429 --> 00:22:08,289
+going to be doing over and over in here
+
+495
+00:22:08,289 --> 00:22:09,669
+is the main point of the course, is
+
+496
+00:22:09,669 --> 00:22:11,770
+looking at how what goes on your body
+
+497
+00:22:11,770 --> 00:22:14,230
+influences behavior, emotions, memories.
+
+498
+00:22:14,230 --> 00:22:16,480
+How what goes on there influences your
+
+499
+00:22:16,480 --> 00:22:18,460
+body looping over, and at every one of
+
+500
+00:22:18,460 --> 00:22:21,370
+those points, resisting the pull to think
+
+501
+00:22:21,370 --> 00:22:25,270
+categorically: "Oh this is the explanation
+
+502
+00:22:25,270 --> 00:22:27,970
+for where this behavior came from." [BREAK] Here's
+
+503
+00:22:27,970 --> 00:22:29,110
+what we're going to be doing instead,
+
+504
+00:22:29,110 --> 00:22:30,880
+throughout, in terms of the structure of
+
+505
+00:22:30,880 --> 00:22:32,679
+the class. When we get to actual
+
+506
+00:22:32,679 --> 00:22:35,190
+behaviors for each behavioral category,
+
+507
+00:22:35,190 --> 00:22:38,200
+we will start off by looking at what the
+
+508
+00:22:38,200 --> 00:22:40,809
+behavior looks like, because often that
+
+509
+00:22:40,809 --> 00:22:42,970
+takes a lot more objectivity than we
+
+510
+00:22:42,970 --> 00:22:44,799
+initially assumed. [BREAK] What does the behavior
+
+511
+00:22:44,799 --> 00:22:47,860
+look like? Then we will say, well, what
+
+512
+00:22:47,860 --> 00:22:50,470
+went on in that organism a half second
+
+513
+00:22:50,470 --> 00:22:52,929
+before that behavior occurred, to occur?
+
+514
+00:22:52,929 --> 00:22:55,539
+To cause it to occur, which is the world
+
+515
+00:22:55,539 --> 00:22:57,850
+of what's going on with neurons... what's
+
+516
+00:22:57,850 --> 00:23:00,610
+going on with circuitry... where's the
+
+517
+00:23:00,610 --> 00:23:03,159
+explanation for the behavior? Aha, this
+
+518
+00:23:03,159 --> 00:23:05,679
+behavior happened because this part of
+
+519
+00:23:05,679 --> 00:23:08,230
+the brain got activated, but just as
+
+520
+00:23:08,230 --> 00:23:09,909
+we're about to settle happily into
+
+521
+00:23:09,909 --> 00:23:12,279
+that bucket, we push back a bit and say,
+
+522
+00:23:12,279 --> 00:23:15,850
+well, what smell, what sound, what sensory
+
+523
+00:23:15,850 --> 00:23:18,429
+stimulation in the environment caused
+
+524
+00:23:18,429 --> 00:23:20,230
+those neurons to get activated and
+
+525
+00:23:20,230 --> 00:23:22,960
+produce that behavior. [BREAK] And then, pushing
+
+526
+00:23:22,960 --> 00:23:25,779
+one step further behind, okay, well what
+
+527
+00:23:25,779 --> 00:23:28,570
+do hormone levels, various hormones in
+
+528
+00:23:28,570 --> 00:23:30,279
+the bloodstream of that animal or
+
+529
+00:23:30,279 --> 00:23:32,409
+individual for the past few hours,
+
+530
+00:23:32,409 --> 00:23:34,390
+how do those hormones change how
+
+531
+00:23:34,390 --> 00:23:37,149
+sensitive you are to those sounds, smells,
+
+532
+00:23:37,149 --> 00:23:39,490
+etc., that caused those neurons to get
+
+533
+00:23:39,490 --> 00:23:41,140
+activated and produce the behavior. [BREAK] And
+
+534
+00:23:41,140 --> 00:23:43,240
+all we're going to be doing is working
+
+535
+00:23:43,240 --> 00:23:46,080
+our way back all the way through early
+
+536
+00:23:46,080 --> 00:23:48,419
+development, fetal life, the genetic makeup
+
+537
+00:23:48,419 --> 00:23:50,970
+of an individual, the genetic makeup of
+
+538
+00:23:50,970 --> 00:23:53,100
+entire population, species, the
+
+539
+00:23:53,100 --> 00:23:55,559
+evolutionary pressure, on all the way
+
+540
+00:23:55,559 --> 00:23:57,960
+back to there... [BREAK] How do you explain each
+
+541
+00:23:57,960 --> 00:24:00,360
+one of these behaviors in the context of
+
+542
+00:24:00,360 --> 00:24:02,399
+those outposts? And, how are they not
+
+543
+00:24:02,399 --> 00:24:05,279
+really outposts? All they are are
+
+543
+00:24:05,279 --> 00:24:07,370
+different ways of expressing the same
+
+545
+00:24:07,370 --> 00:24:10,399
+biological influences. If you say ooh
+
+546
+00:24:10,399 --> 00:24:13,110
+here's a hormone that explains this
+
+547
+00:24:13,110 --> 00:24:15,059
+behavior, this behavior is caused by
+
+548
+00:24:15,059 --> 00:24:18,690
+hormone X. Hormone X is coded for by a
+
+549
+00:24:18,690 --> 00:24:20,850
+gene, so suddenly you're not just talking
+
+550
+00:24:20,850 --> 00:24:22,950
+about endocrinology, you're talking about
+
+551
+00:24:22,950 --> 00:24:25,500
+genetics, and if there's a gene there, it
+
+552
+00:24:25,500 --> 00:24:27,840
+has been the subject to selection, so
+
+553
+00:24:27,840 --> 00:24:29,159
+suddenly you're talking about evolution.
+
+[BREAK]
+
+554
+00:24:29,159 --> 00:24:32,220
+If you were talking about what smell,
+
+555
+00:24:32,220 --> 00:24:34,799
+sights, etc, are the cue triggers for
+
+556
+00:24:34,799 --> 00:24:37,230
+behavior, by definition, you're also
+
+557
+00:24:37,230 --> 00:24:39,330
+talking about fetal development that
+
+558
+00:24:39,330 --> 00:24:41,639
+determined how sensitive those systems
+
+559
+00:24:41,639 --> 00:24:44,070
+were to those sorts of stimuli. [BREAK] What
+
+560
+00:24:44,070 --> 00:24:45,750
+we're going to be having over and over
+
+561
+00:24:45,750 --> 00:24:48,149
+again is any one of these buckets that
+
+562
+00:24:48,149 --> 00:24:50,760
+we spend some time in, all we're going
+
+563
+00:24:50,760 --> 00:24:53,760
+to do is think of that bucket is, at that
+
+564
+00:24:53,760 --> 00:24:56,100
+point, the most convenient way of
+
+565
+00:24:56,100 --> 00:24:59,070
+describing all of the influences that
+
+566
+00:24:59,070 --> 00:25:01,440
+came beforehand. [BREAK] And in that regard,
+
+567
+00:25:01,440 --> 00:25:04,320
+there's no buckets. All there are... are,
+
+568
+00:25:04,320 --> 00:25:07,289
+temporary platforms, and each platform is
+
+569
+00:25:07,289 --> 00:25:10,470
+simply the easiest, most convenient way
+
+570
+00:25:10,470 --> 00:25:13,409
+of describing the outcome of everything
+
+571
+00:25:13,409 --> 00:25:15,419
+that came beforehand, starting with
+
+572
+00:25:15,419 --> 00:25:18,899
+millennia back and evolution, okay.
+
+[BREAK]
+
+573
+00:25:18,899 --> 00:25:20,940
+So that sounds great, that's what we're
+
+574
+00:25:20,940 --> 00:25:22,830
+gonna do. We're gonna do this, and we're
+
+575
+00:25:22,830 --> 00:25:25,590
+gonna be very sophisticated and fancy in
+
+576
+00:25:25,590 --> 00:25:26,970
+our thinking about it. And we're not going
+
+577
+00:25:26,970 --> 00:25:28,919
+to fall for categorical thinking, all
+
+578
+00:25:28,919 --> 00:25:31,740
+that. [BREAK] Okay, this is a complicated subject
+
+579
+00:25:31,740 --> 00:25:33,389
+and we're smart so we're gonna try to
+
+580
+00:25:33,389 --> 00:25:35,639
+think about that smartly. That's great,
+
+581
+00:25:35,639 --> 00:25:37,440
+but like, maybe this is just an
+
+582
+00:25:37,440 --> 00:25:39,480
+irritating song-and-dance here of "ooh
+
+583
+00:25:39,480 --> 00:25:41,880
+we're not gonna fall for categorical
+
+584
+00:25:41,880 --> 00:25:44,580
+thinking like people out there," obviously
+
+585
+00:25:44,580 --> 00:25:46,080
+when people are thinking about stuff
+
+586
+00:25:46,080 --> 00:25:47,909
+like behavior and they do this
+
+587
+00:25:47,909 --> 00:25:49,789
+professionally, professional biologist
+
+588
+00:25:49,789 --> 00:25:52,350
+/biology/behavior type... yes and they
+
+589
+00:25:52,350 --> 00:25:54,960
+understand also. [BREAK] This is just the strawman
+
+590
+00:25:54,960 --> 00:25:55,710
+"ooh,
+
+591
+00:25:55,710 --> 00:25:57,029
+we're going to be more sophisticated in
+
+592
+00:25:57,029 --> 00:25:59,279
+our thinking than endocrinologists and
+
+593
+00:25:59,279 --> 00:26:01,500
+geneticists and all of those." [BREAK] They
+
+594
+00:26:01,500 --> 00:26:03,299
+obviously know that these things
+
+595
+00:26:03,299 --> 00:26:05,130
+interact and there's not just one
+
+596
+00:26:05,130 --> 00:26:07,470
+explanation and it's just the area they
+
+597
+00:26:07,470 --> 00:26:10,289
+focus on. They understand that. Let me
+
+598
+00:26:10,289 --> 00:26:13,140
+read you a few quotes to show just how
+
+599
+00:26:13,140 --> 00:26:14,760
+much some of these folks don't
+
+600
+00:26:14,760 --> 00:26:19,890
+understand that. [BREAK] First quote: Give me a
+
+601
+00:26:19,890 --> 00:26:22,559
+child at birth, from any background, and
+
+602
+00:26:22,559 --> 00:26:24,899
+let me control the total environment in
+
+603
+00:26:24,899 --> 00:26:27,120
+which he is raised, and I will turn him
+
+604
+00:26:27,120 --> 00:26:29,429
+into anything I wish him to be, whether
+
+605
+00:26:29,429 --> 00:26:33,330
+doctor, lawyer, beggar, or thief. [BREAK] This was
+
+606
+00:26:33,330 --> 00:26:36,419
+John Watson in 1912. One of the founding
+
+607
+00:26:36,419 --> 00:26:37,740
+fathers of the school of psychology
+
+608
+00:26:37,740 --> 00:26:41,100
+called Behaviorism. [BREAK] Behaviorism, that sort
+
+609
+00:26:41,100 --> 00:26:43,289
+of reached its apogee with this guy B.F.
+
+610
+00:26:43,289 --> 00:26:46,380
+Skinner in the 1950s, this notion that if
+
+611
+00:26:46,380 --> 00:26:48,510
+you could control the rewards, the
+
+612
+00:26:48,510 --> 00:26:50,340
+punishments, the positive, the negative
+
+613
+00:26:50,340 --> 00:26:52,590
+reinforcement, you could turn anybody
+
+614
+00:26:52,590 --> 00:26:55,020
+into anything you want, whether doctor,
+
+615
+00:26:55,020 --> 00:26:58,289
+lawyer, beggar, or thief. [BREAK] And we know that
+
+616
+00:26:58,289 --> 00:27:00,600
+isn't the case. We know that's not
+
+617
+00:27:00,600 --> 00:27:01,440
+possible.
+
+618
+00:27:01,440 --> 00:27:03,750
+We know that all you have to do is throw
+
+619
+00:27:03,750 --> 00:27:06,299
+in one other factor, like a lot of
+
+620
+00:27:06,299 --> 00:27:08,549
+protein malnutrition during fetal life,
+
+621
+00:27:08,549 --> 00:27:10,500
+and you're not going to be able to do
+
+622
+00:27:10,500 --> 00:27:13,169
+that, that being a crude example of just
+
+623
+00:27:13,169 --> 00:27:16,200
+how wrong this guy was. [BREAK] You cannot have
+
+624
+00:27:16,200 --> 00:27:18,390
+all the control over the environment and
+
+625
+00:27:18,390 --> 00:27:20,190
+turn somebody into whatever you want
+
+626
+00:27:20,190 --> 00:27:23,070
+here's a guy living pathologically in
+
+627
+00:27:23,070 --> 00:27:25,080
+this bucket that behavior could be
+
+628
+00:27:25,080 --> 00:27:27,929
+explained solely by understanding reward
+
+629
+00:27:27,929 --> 00:27:29,000
+and punishment.
+
+[BREAK]
+
+630
+00:27:29,000 --> 00:27:31,409
+Interesting factoid. This John Watson
+
+631
+00:27:31,409 --> 00:27:33,000
+guy, shortly after that, he was driven
+
+632
+00:27:33,000 --> 00:27:36,090
+out of academia for a wild scandal, but
+
+633
+00:27:36,090 --> 00:27:38,190
+he was involved in and he spent the rest
+
+634
+00:27:38,190 --> 00:27:40,529
+of his career apparently as an extremely
+
+635
+00:27:40,529 --> 00:27:43,860
+successful advertising executive going
+
+636
+00:27:43,860 --> 00:27:44,880
+to show you something he may not have
+
+637
+00:27:44,880 --> 00:27:46,440
+been able to turn people into anything
+
+638
+00:27:46,440 --> 00:27:47,850
+he wanted but apparently he could make
+
+639
+00:27:47,850 --> 00:27:50,100
+them buy all sorts of geegaw nonsense
+
+[BREAK]
+
+640
+00:27:50,100 --> 00:27:54,330
+Okay, next quote. [BREAK] Normal psychic life
+
+641
+00:27:54,330 --> 00:27:56,669
+depends upon the good functioning of
+
+642
+00:27:56,669 --> 00:27:59,010
+brain synapses. If you don't know what
+
+643
+00:27:59,010 --> 00:28:01,080
+synapses are, don't panic at this point.
+
+644
+00:28:01,080 --> 00:28:01,809
+They're ways
+
+645
+00:28:01,809 --> 00:28:04,059
+brain cells that connect with each other. Okay.
+
+[BREAK]
+
+646
+00:28:04,059 --> 00:28:06,190
+Normal psychic life depends on the good
+
+647
+00:28:06,190 --> 00:28:08,889
+functioning of brain synapses and mental
+
+648
+00:28:08,889 --> 00:28:11,559
+disorders appear as a result of synaptic
+
+649
+00:28:11,559 --> 00:28:15,340
+derangements. Synaptic adjustments will
+
+650
+00:28:15,340 --> 00:28:17,590
+then modify the corresponding ideas and
+
+651
+00:28:17,590 --> 00:28:19,629
+force them into different channels. Using
+
+652
+00:28:19,629 --> 00:28:22,029
+this approach, we obtain cures and
+
+653
+00:28:22,029 --> 00:28:26,320
+improvements, but no failures. Synaptic
+
+654
+00:28:26,320 --> 00:28:28,239
+adjustments. Synaptic ... what do
+
+655
+00:28:28,239 --> 00:28:30,309
+you suppose those little old synaptic
+
+656
+00:28:30,309 --> 00:28:31,719
+adjustments are that this guy is
+
+657
+00:28:31,719 --> 00:28:37,119
+referring to? Any guesses? [BREAK] Yes, somebody
+
+658
+00:28:37,119 --> 00:28:40,289
+shout it out. [BREAK] Electroshock therapy.
+
+659
+00:28:40,289 --> 00:28:43,059
+Electroshock therapy. You know... a little
+
+660
+00:28:43,059 --> 00:28:45,789
+synaptic... you wish it were as gentle as
+
+661
+00:28:45,789 --> 00:28:48,580
+electroshock therapy. This is even more
+
+662
+00:28:48,580 --> 00:28:50,979
+dramatic synaptic adjustments. [BREAK] Any other
+
+663
+00:28:50,979 --> 00:28:51,899
+guesses?
+
+[BREAK]
+
+664
+00:28:51,899 --> 00:28:55,029
+Yeah, frontal lobotomies. You know, you
+
+665
+00:28:55,029 --> 00:28:57,580
+want to adjust somebody's synapses, so you
+
+666
+00:28:57,580 --> 00:28:59,559
+just like, slice off the front third
+
+667
+00:28:59,559 --> 00:29:02,710
+of their brain or so. [BREAK] This was Egas
+
+668
+00:29:02,710 --> 00:29:05,349
+Moniz, a Portuguese neurologist who
+
+669
+00:29:05,349 --> 00:29:07,389
+invented frontal lobotomies. It had a
+
+670
+00:29:07,389 --> 00:29:09,309
+different name at the time, but was the
+
+671
+00:29:09,309 --> 00:29:11,469
+person who started this and something
+
+672
+00:29:11,469 --> 00:29:14,139
+that was done to tens and hundreds of
+
+673
+00:29:14,139 --> 00:29:16,749
+thousands of people who had absolutely
+
+674
+00:29:16,749 --> 00:29:18,729
+nothing wrong with them. [BREAK] One of the
+
+675
+00:29:18,729 --> 00:29:21,669
+darkest chapters of where psychiatry
+
+676
+00:29:21,669 --> 00:29:24,759
+gets in bed with ideology. Massive
+
+677
+00:29:24,759 --> 00:29:26,710
+criminal destruction of people's brains.
+
+678
+00:29:26,710 --> 00:29:28,839
+This is what he had to say about the
+
+679
+00:29:28,839 --> 00:29:31,719
+procedure on his acceptance of his Nobel
+
+680
+00:29:31,719 --> 00:29:33,639
+Prize in Physiology and Medicine for
+
+681
+00:29:33,639 --> 00:29:35,979
+having invented it. [BREAK] So here we have
+
+682
+00:29:35,979 --> 00:29:38,469
+somebody pathologically living in a
+
+683
+00:29:38,469 --> 00:29:41,289
+world of "understand how synapses are
+
+684
+00:29:41,289 --> 00:29:44,320
+working, adjust them, and with that we
+
+685
+00:29:44,320 --> 00:29:46,869
+obtain cures and improvements but no
+
+686
+00:29:46,869 --> 00:29:51,059
+failures." [BREAK] Final quote, worst one of all.
+
+[BREAK]
+
+687
+00:29:51,059 --> 00:29:55,029
+The selection for social utility must be
+
+688
+00:29:55,029 --> 00:29:57,279
+accomplished by some social institution
+
+689
+00:29:57,279 --> 00:29:59,559
+if mankind is not to be ruined by
+
+690
+00:29:59,559 --> 00:30:02,499
+domestication induced degeneracy the
+
+691
+00:30:02,499 --> 00:30:04,599
+racial idea as the basis of our state
+
+692
+00:30:04,599 --> 00:30:06,279
+has already accomplished much in this
+
+693
+00:30:06,279 --> 00:30:08,530
+respect we may and
+
+694
+00:30:08,530 --> 00:30:11,110
+we must rely on the healthy instincts of
+
+695
+00:30:11,110 --> 00:30:12,880
+the best of our people for the
+
+696
+00:30:12,880 --> 00:30:14,590
+extermination of elements of the
+
+697
+00:30:14,590 --> 00:30:17,920
+population loaded with Drake's anybody
+
+698
+00:30:17,920 --> 00:30:21,220
+want to guess who that was Hitler not a
+
+699
+00:30:21,220 --> 00:30:23,440
+Hitler that behavioral biologist he was
+
+700
+00:30:23,440 --> 00:30:25,330
+a little bit busy at the time this was
+
+701
+00:30:25,330 --> 00:30:28,290
+instead one of Hitler's main scientific
+
+702
+00:30:28,290 --> 00:30:31,260
+propagandists this was somebody living
+
+703
+00:30:31,260 --> 00:30:33,550
+pathologically in a box a box that
+
+704
+00:30:33,550 --> 00:30:34,690
+doesn't even exist
+
+705
+00:30:34,690 --> 00:30:39,280
+having notion of race and ethnicity and
+
+706
+00:30:39,280 --> 00:30:42,100
+genetics and all of that saying let me
+
+707
+00:30:42,100 --> 00:30:44,830
+fix that one let me exterminate the
+
+708
+00:30:44,830 --> 00:30:46,540
+elements of the population loaded with
+
+709
+00:30:46,540 --> 00:30:48,460
+dregs and I'll fix up that little
+
+710
+00:30:48,460 --> 00:30:50,050
+problem with fixing something that ain't
+
+711
+00:30:50,050 --> 00:30:52,840
+broken who was this this was a scientist
+
+712
+00:30:52,840 --> 00:30:56,350
+named Konrad Lorenz. Konrad Lorenz he
+
+713
+00:30:56,350 --> 00:30:57,790
+probably a lot of us are familiar with
+
+714
+00:30:57,790 --> 00:30:59,980
+Konrad Lorenz was one of the founding
+
+715
+00:30:59,980 --> 00:31:01,870
+fathers of ethology we'll learn all
+
+716
+00:31:01,870 --> 00:31:04,750
+about that but he like everybody knows
+
+717
+00:31:04,750 --> 00:31:06,430
+him winding up in all the little kid
+
+718
+00:31:06,430 --> 00:31:08,560
+nature books Konrad Lorenz discovered
+
+719
+00:31:08,560 --> 00:31:10,900
+imprinting and birds and he'd be going
+
+720
+00:31:10,900 --> 00:31:13,030
+on he was this little Austrian guy with
+
+721
+00:31:13,030 --> 00:31:15,190
+this two big white beard and he'd always
+
+722
+00:31:15,190 --> 00:31:16,990
+have these little Austrian shorts and
+
+723
+00:31:16,990 --> 00:31:18,850
+suspenders and there would be a whole
+
+724
+00:31:18,850 --> 00:31:20,710
+bunch of duckies following him because
+
+725
+00:31:20,710 --> 00:31:22,150
+they thought he was mom and he was
+
+726
+00:31:22,150 --> 00:31:24,910
+totally charming and irresistible of
+
+727
+00:31:24,910 --> 00:31:27,490
+this sort of imprinting with his ducky
+
+728
+00:31:27,490 --> 00:31:30,610
+kids and he also happened to be a rabbit
+
+729
+00:31:30,610 --> 00:31:33,820
+Nazi propagandist who went to his grave
+
+730
+00:31:33,820 --> 00:31:35,950
+saying that there was nothing wrong with
+
+731
+00:31:35,950 --> 00:31:38,920
+what he did these are not crappy
+
+732
+00:31:38,920 --> 00:31:41,740
+fourth-rate scientists these are not
+
+733
+00:31:41,740 --> 00:31:43,810
+people working at you know the
+
+734
+00:31:43,810 --> 00:31:46,540
+University of the desert of podem or
+
+735
+00:31:46,540 --> 00:31:48,970
+whatever these are among the most
+
+736
+00:31:48,970 --> 00:31:51,130
+influential scientists of the last
+
+737
+00:31:51,130 --> 00:31:54,040
+century these are people who influenced
+
+738
+00:31:54,040 --> 00:31:56,080
+how people were educated and when we
+
+739
+00:31:56,080 --> 00:31:57,970
+decided it wasn't worth the effort of
+
+740
+00:31:57,970 --> 00:32:00,400
+doing it these are people whose
+
+741
+00:32:00,400 --> 00:32:02,560
+influence led to the brains being
+
+742
+00:32:02,560 --> 00:32:04,780
+destroyed of hundreds of thousands of
+
+743
+00:32:04,780 --> 00:32:06,550
+people who have nothing wrong with them
+
+744
+00:32:06,550 --> 00:32:08,440
+these are the people who led to the
+
+745
+00:32:08,440 --> 00:32:10,600
+notion that you fix up a problem that
+
+746
+00:32:10,600 --> 00:32:12,850
+doesn't exist by exterminating 9 million
+
+747
+00:32:12,850 --> 00:32:16,300
+people these are not minor scientists
+
+748
+00:32:16,300 --> 00:32:17,620
+these are the most
+
+749
+00:32:17,620 --> 00:32:19,540
+influential people in the last century
+
+750
+00:32:19,540 --> 00:32:21,040
+coming out of science in many ways
+
+751
+00:32:21,040 --> 00:32:24,340
+living pathologically inside their own
+
+752
+00:32:24,340 --> 00:32:26,530
+buckets and how they could explain the
+
+753
+00:32:26,530 --> 00:32:30,430
+entire world and thus again our goal is
+
+754
+00:32:30,430 --> 00:32:33,309
+going to be to not fall for that to
+
+755
+00:32:33,309 --> 00:32:35,260
+think about human behaviors and in some
+
+756
+00:32:35,260 --> 00:32:37,180
+cases to think about some of the most
+
+757
+00:32:37,180 --> 00:32:38,920
+disturbed motives some of the most
+
+758
+00:32:38,920 --> 00:32:41,130
+frightening damaged human behaviors and
+
+759
+00:32:41,130 --> 00:32:44,380
+resist the temptation to think inside a
+
+760
+00:32:44,380 --> 00:32:47,680
+bucket and find the explanation again
+
+761
+00:32:47,680 --> 00:32:49,900
+every level we're going to talk about
+
+762
+00:32:49,900 --> 00:32:52,929
+genes hormones neurons and fire mental
+
+763
+00:32:52,929 --> 00:32:55,510
+influence whatever it is that point will
+
+764
+00:32:55,510 --> 00:32:57,730
+simply be the easiest way of describing
+
+765
+00:32:57,730 --> 00:33:00,520
+all of the influences that came before
+
+766
+00:33:00,520 --> 00:33:03,250
+they're not even temporary buckets
+
+767
+00:33:03,250 --> 00:33:05,880
+there's no buckets that will be our goal
+
+768
+00:33:05,880 --> 00:33:08,650
+now thinking about this in approaching
+
+769
+00:33:08,650 --> 00:33:10,750
+human behavior the biology of human
+
+770
+00:33:10,750 --> 00:33:12,670
+social behavior often the biology of
+
+771
+00:33:12,670 --> 00:33:14,679
+abnormal humans human social behavior
+
+772
+00:33:14,679 --> 00:33:16,960
+we're gonna have three intellectual
+
+773
+00:33:16,960 --> 00:33:19,260
+challenges and the first one is
+
+774
+00:33:19,260 --> 00:33:22,090
+recognizing circumstances where there is
+
+775
+00:33:22,090 --> 00:33:25,270
+nothing fancy about us whatsoever we're
+
+776
+00:33:25,270 --> 00:33:27,460
+just like every other animal out there
+
+777
+00:33:27,460 --> 00:33:30,250
+and where the challenge is to accept
+
+778
+00:33:30,250 --> 00:33:33,550
+that let me give you an example you are
+
+779
+00:33:33,550 --> 00:33:36,460
+a hamster you are a female hamster and
+
+780
+00:33:36,460 --> 00:33:38,890
+you're sitting in your chair cage and as
+
+781
+00:33:38,890 --> 00:33:40,510
+a female hamster what you do is you
+
+782
+00:33:40,510 --> 00:33:42,940
+ovulate every 5 days or so and you're
+
+783
+00:33:42,940 --> 00:33:44,110
+going about your business and
+
+784
+00:33:44,110 --> 00:33:46,600
+everything's great now somebody puts
+
+785
+00:33:46,600 --> 00:33:49,330
+another female hamster in the cage with
+
+786
+00:33:49,330 --> 00:33:51,700
+you and over the subsequent month or so
+
+787
+00:33:51,700 --> 00:33:54,670
+what happens is both of you will begin
+
+788
+00:33:54,670 --> 00:33:57,250
+to lengthen your cycles and eventually
+
+789
+00:33:57,250 --> 00:33:59,650
+synchronize them so that you were both
+
+790
+00:33:59,650 --> 00:34:02,230
+ovulating the same afternoon on a
+
+791
+00:34:02,230 --> 00:34:05,710
+regular basis amazing this actually
+
+792
+00:34:05,710 --> 00:34:08,860
+works this way and menstrual ovulatory
+
+793
+00:34:08,860 --> 00:34:10,659
+synchrony people understand how this
+
+794
+00:34:10,659 --> 00:34:12,610
+works in hamsters it is done with
+
+795
+00:34:12,610 --> 00:34:15,460
+olfaction with pheromones with chemical
+
+796
+00:34:15,460 --> 00:34:18,100
+airborne signals from one female to
+
+797
+00:34:18,100 --> 00:34:20,139
+another and you can prove this by
+
+798
+00:34:20,139 --> 00:34:22,480
+electrically recording from olfactory
+
+799
+00:34:22,480 --> 00:34:24,250
+systems or if you don't have much
+
+800
+00:34:24,250 --> 00:34:25,960
+funding you could take like a paper clip
+
+801
+00:34:25,960 --> 00:34:26,599
+over the
+
+802
+00:34:26,599 --> 00:34:28,460
+female hamsters nose and she doesn't
+
+803
+00:34:28,460 --> 00:34:30,109
+synchronize then it's all done with
+
+804
+00:34:30,109 --> 00:34:32,359
+olfaction and what seemed most amazing
+
+805
+00:34:32,359 --> 00:34:34,668
+is you put the two females together and
+
+806
+00:34:34,668 --> 00:34:37,728
+there's a way of disrupting it put a
+
+807
+00:34:37,728 --> 00:34:40,639
+male hamster in there and suddenly the
+
+808
+00:34:40,639 --> 00:34:42,799
+cycles desynchronized and shortened and
+
+809
+00:34:42,799 --> 00:34:45,649
+you break it up with male pheromones and
+
+810
+00:34:45,649 --> 00:34:47,929
+what's even more remarkable is you put
+
+811
+00:34:47,929 --> 00:34:50,029
+the two females together and it's not
+
+812
+00:34:50,029 --> 00:34:52,998
+random who synchronizes the other one
+
+813
+00:34:52,998 --> 00:34:55,579
+the dominant female synchronizes the
+
+814
+00:34:55,579 --> 00:34:58,430
+subordinate one totally understood
+
+815
+00:34:58,430 --> 00:34:59,869
+people have been working on this for
+
+816
+00:34:59,869 --> 00:35:02,539
+years and it works this way in-line
+
+817
+00:35:02,539 --> 00:35:06,619
+goats and sheep and dogs and cats and
+
+818
+00:35:06,619 --> 00:35:09,349
+pigs apparently you could go to a
+
+819
+00:35:09,349 --> 00:35:12,380
+7-eleven somewhere in Iowa and you could
+
+820
+00:35:12,380 --> 00:35:14,710
+buy a can of pig ovulatory
+
+821
+00:35:14,710 --> 00:35:17,450
+synchronization spray and take it home
+
+822
+00:35:17,450 --> 00:35:19,339
+and just run why I have no idea why you
+
+823
+00:35:19,339 --> 00:35:21,769
+would want to do that but nonetheless
+
+824
+00:35:21,769 --> 00:35:24,650
+that's how you like it's up there with
+
+825
+00:35:24,650 --> 00:35:26,930
+the cans of Cheez Whiz or whatever and
+
+826
+00:35:26,930 --> 00:35:29,989
+it's that well understood and what's
+
+827
+00:35:29,989 --> 00:35:32,630
+remarkable is it works exactly the same
+
+828
+00:35:32,630 --> 00:35:36,019
+way in us as humans where it is known as
+
+829
+00:35:36,019 --> 00:35:39,650
+the Wellesley effect the fact that over
+
+830
+00:35:39,650 --> 00:35:42,140
+the course of freshman year this was
+
+831
+00:35:42,140 --> 00:35:45,079
+first shown in Wellesley 1970 over the
+
+832
+00:35:45,079 --> 00:35:47,930
+course of freshman year women freshman
+
+833
+00:35:47,930 --> 00:35:49,940
+year roommate tended to lengthen and
+
+834
+00:35:49,940 --> 00:35:52,849
+synchronize their cycles and it was done
+
+835
+00:35:52,849 --> 00:35:55,039
+with olfaction women who had olfactory
+
+836
+00:35:55,039 --> 00:35:57,140
+deficits didn't synchronize with their
+
+837
+00:35:57,140 --> 00:35:59,329
+roommates they would synchronize unless
+
+838
+00:35:59,329 --> 00:36:01,069
+they were having close intimate
+
+839
+00:36:01,069 --> 00:36:03,440
+relationships with a male in which case
+
+840
+00:36:03,440 --> 00:36:06,229
+they D synchronize and what's most cool
+
+841
+00:36:06,229 --> 00:36:08,509
+of all is it's not random who
+
+842
+00:36:08,509 --> 00:36:11,150
+synchronizes to who the studies tend to
+
+843
+00:36:11,150 --> 00:36:13,640
+show is the individual who is more
+
+844
+00:36:13,640 --> 00:36:16,640
+socially outgoing extroverted dominating
+
+845
+00:36:16,640 --> 00:36:18,559
+is the one who synchronizes the other
+
+846
+00:36:18,559 --> 00:36:20,150
+one and this is well enough understood
+
+847
+00:36:20,150 --> 00:36:22,489
+that when Iowan in college people would
+
+848
+00:36:22,489 --> 00:36:23,989
+sit around the dinner table and say
+
+849
+00:36:23,989 --> 00:36:25,969
+stuff like oh when we roomed together in
+
+850
+00:36:25,969 --> 00:36:27,739
+the summer I had her synchronized by
+
+851
+00:36:27,739 --> 00:36:29,819
+August 1st
+
+852
+00:36:29,819 --> 00:36:31,930
+this is what happens if you hang out
+
+853
+00:36:31,930 --> 00:36:34,690
+with biologists but we're exactly the
+
+854
+00:36:34,690 --> 00:36:36,999
+same the challenge there is recognizing
+
+855
+00:36:36,999 --> 00:36:39,009
+there's nothing fancy about us at
+
+856
+00:36:39,009 --> 00:36:41,259
+various points in the class we will look
+
+857
+00:36:41,259 --> 00:36:43,900
+at comparisons between the human and the
+
+858
+00:36:43,900 --> 00:36:46,900
+chimp genome and it's virtually the same
+
+859
+00:36:46,900 --> 00:36:48,910
+some of the time we are just a plain old
+
+860
+00:36:48,910 --> 00:36:52,479
+off-the-rack animal second challenge is
+
+861
+00:36:52,479 --> 00:36:54,640
+going to be circumstances where we
+
+862
+00:36:54,640 --> 00:36:57,220
+appear to be just like everybody else
+
+863
+00:36:57,220 --> 00:37:00,190
+all the other organisms out there but we
+
+864
+00:37:00,190 --> 00:37:02,380
+do something very different with the
+
+865
+00:37:02,380 --> 00:37:04,450
+similarity let me give you an example
+
+866
+00:37:04,450 --> 00:37:07,779
+here you have two humans two individuals
+
+867
+00:37:07,779 --> 00:37:10,479
+who are going through a ritual they are
+
+868
+00:37:10,479 --> 00:37:12,609
+sitting at a table here absolutely
+
+869
+00:37:12,609 --> 00:37:15,729
+silent they're making no eye contact and
+
+870
+00:37:15,729 --> 00:37:17,559
+they do nothing more physically taxing
+
+871
+00:37:17,559 --> 00:37:20,710
+and every now and then one of them picks
+
+872
+00:37:20,710 --> 00:37:22,569
+up their hand and moves a little piece
+
+873
+00:37:22,569 --> 00:37:25,059
+of wood on the table and if these happen
+
+874
+00:37:25,059 --> 00:37:27,460
+to be the right two individuals in the
+
+875
+00:37:27,460 --> 00:37:29,739
+middle of a chess grandmaster tournament
+
+876
+00:37:29,739 --> 00:37:32,499
+these people are maintaining blood
+
+877
+00:37:32,499 --> 00:37:34,869
+pressure for six hours running that you
+
+878
+00:37:34,869 --> 00:37:37,839
+only see in a marathon runner these
+
+879
+00:37:37,839 --> 00:37:39,999
+people are going through thousands of
+
+880
+00:37:39,999 --> 00:37:42,969
+calories a day doing nothing more than
+
+881
+00:37:42,969 --> 00:37:46,150
+thinking and this is outrageous because
+
+882
+00:37:46,150 --> 00:37:47,920
+you look at one of these chess
+
+883
+00:37:47,920 --> 00:37:50,200
+grandmasters who's just taken down an
+
+884
+00:37:50,200 --> 00:37:51,880
+opponent and took their queen or
+
+885
+00:37:51,880 --> 00:37:53,769
+whatever and they will have the exact
+
+886
+00:37:53,769 --> 00:37:56,469
+same physiology as some male baboon on
+
+887
+00:37:56,469 --> 00:37:58,059
+the Savannah who's just to rip the
+
+888
+00:37:58,059 --> 00:38:00,099
+stomach open of his worst rival and
+
+889
+00:38:00,099 --> 00:38:02,769
+we're doing it there just with thought
+
+890
+00:38:02,769 --> 00:38:05,019
+and some of the time which mark allowed
+
+891
+00:38:05,019 --> 00:38:08,460
+us is we have absolutely typical boring
+
+892
+00:38:08,460 --> 00:38:11,859
+physiology but we use it in ways that no
+
+893
+00:38:11,859 --> 00:38:14,950
+other animal could we get stressed by
+
+894
+00:38:14,950 --> 00:38:18,099
+the inevitability of our mortality we
+
+895
+00:38:18,099 --> 00:38:20,380
+get stressed by reading something awful
+
+896
+00:38:20,380 --> 00:38:22,599
+let us happen to a child on the other
+
+897
+00:38:22,599 --> 00:38:25,299
+side of the planet we get stressed by
+
+898
+00:38:25,299 --> 00:38:28,180
+somebody zooming past us in some sports
+
+899
+00:38:28,180 --> 00:38:29,739
+car and we decide that we are now
+
+900
+00:38:29,739 --> 00:38:31,630
+economically inadequate and you never
+
+901
+00:38:31,630 --> 00:38:33,789
+even see the person's face you just see
+
+902
+00:38:33,789 --> 00:38:35,799
+the car we get stressed reading about
+
+903
+00:38:35,799 --> 00:38:36,810
+something awful
+
+904
+00:38:36,810 --> 00:38:39,750
+happening to a character and a novel
+
+905
+00:38:39,750 --> 00:38:43,110
+this is a whole realm of things that we
+
+906
+00:38:43,110 --> 00:38:44,910
+could do that nobody else does and on
+
+907
+00:38:44,910 --> 00:38:47,640
+the flip side we can feel compassion and
+
+908
+00:38:47,640 --> 00:38:50,610
+empathy for a loved one but we can also
+
+909
+00:38:50,610 --> 00:38:52,080
+do the same for someone on the other
+
+910
+00:38:52,080 --> 00:38:54,600
+side of a planet and a refugee camp we
+
+911
+00:38:54,600 --> 00:38:56,670
+can feel compassion for a member of
+
+912
+00:38:56,670 --> 00:38:59,580
+another species we feel badly when our
+
+913
+00:38:59,580 --> 00:39:02,160
+pets are injured this is another realm
+
+914
+00:39:02,160 --> 00:39:05,250
+where the physiology of the response the
+
+915
+00:39:05,250 --> 00:39:07,770
+empathy the emotional bonding all of
+
+916
+00:39:07,770 --> 00:39:10,320
+that it's the same boring physiology as
+
+917
+00:39:10,320 --> 00:39:12,390
+every other animal out there and we are
+
+918
+00:39:12,390 --> 00:39:15,350
+using it in a way that is unrecognizable
+
+919
+00:39:15,350 --> 00:39:18,090
+now some of the time the challenge is
+
+920
+00:39:18,090 --> 00:39:20,610
+the third category which is when we are
+
+921
+00:39:20,610 --> 00:39:22,950
+doing something that no other animal out
+
+922
+00:39:22,950 --> 00:39:25,470
+there has anything remotely similar to
+
+923
+00:39:25,470 --> 00:39:27,630
+let me give you an example here a
+
+924
+00:39:27,630 --> 00:39:31,200
+shocking example you have a couple they
+
+925
+00:39:31,200 --> 00:39:33,240
+live together they come back at the end
+
+926
+00:39:33,240 --> 00:39:35,340
+of the day from work they talk the
+
+927
+00:39:35,340 --> 00:39:37,650
+dinner they talk some more they go to
+
+928
+00:39:37,650 --> 00:39:39,330
+bed and they have sex they talk some
+
+929
+00:39:39,330 --> 00:39:42,000
+more they fall asleep the next day they
+
+930
+00:39:42,000 --> 00:39:44,880
+do the same exact thing they come home
+
+931
+00:39:44,880 --> 00:39:46,830
+from work they talk they eat they talk
+
+932
+00:39:46,830 --> 00:39:48,330
+they go to bed they have sex they talk
+
+933
+00:39:48,330 --> 00:39:50,730
+some more they do this every single
+
+934
+00:39:50,730 --> 00:39:52,710
+night for 30 days running
+
+935
+00:39:52,710 --> 00:39:56,490
+hippos would be repulsed by this because
+
+936
+00:39:56,490 --> 00:39:58,920
+hardly anybody out there in the animal
+
+937
+00:39:58,920 --> 00:40:01,500
+kingdom has non-reproductive sex let
+
+938
+00:40:01,500 --> 00:40:03,510
+alone day after day and nobody else out
+
+939
+00:40:03,510 --> 00:40:06,309
+there talks about it afterward
+
+940
+00:40:06,309 --> 00:40:08,799
+what we've got here is a whole novel
+
+941
+00:40:08,799 --> 00:40:11,529
+domain of human being language use
+
+942
+00:40:11,529 --> 00:40:14,709
+aspects of our sexuality this profoundly
+
+943
+00:40:14,709 --> 00:40:17,170
+damaging human uniqueness of some
+
+944
+00:40:17,170 --> 00:40:19,089
+individuals confusing aspects of
+
+945
+00:40:19,089 --> 00:40:21,729
+sexuality with aggression in some cases
+
+946
+00:40:21,729 --> 00:40:23,549
+we are going to be out there on our own
+
+947
+00:40:23,549 --> 00:40:26,829
+trying to understand what's up okay so
+
+948
+00:40:26,829 --> 00:40:28,869
+that would be the general strategy for
+
+949
+00:40:28,869 --> 00:40:31,359
+the course we will resist categorical
+
+950
+00:40:31,359 --> 00:40:32,799
+thinking over and over and over and not
+
+951
+00:40:32,799 --> 00:40:34,930
+just because that's cool and nuanced and
+
+952
+00:40:34,930 --> 00:40:37,209
+subtle all of that but fall into
+
+953
+00:40:37,209 --> 00:40:39,160
+categorical thinking and you can do
+
+954
+00:40:39,160 --> 00:40:42,099
+unspeakable damage and a realm of silent
+
+955
+00:40:42,099 --> 00:40:44,229
+science that makes a difference we will
+
+956
+00:40:44,229 --> 00:40:45,939
+do so thinking constantly about
+
+957
+00:40:45,939 --> 00:40:49,180
+ourselves as a boring species just like
+
+958
+00:40:49,180 --> 00:40:51,130
+all the others out there as a species
+
+959
+00:40:51,130 --> 00:40:53,709
+that has the same boring physiology but
+
+960
+00:40:53,709 --> 00:40:56,349
+uses in ways that are unrecognizable as
+
+961
+00:40:56,349 --> 00:40:58,509
+a species that does some things that are
+
+962
+00:40:58,509 --> 00:41:00,809
+simply without precedent out there and
+
+963
+00:41:00,809 --> 00:41:03,609
+constantly struggling with what does
+
+964
+00:41:03,609 --> 00:41:06,459
+biology have to do with it okay general
+
+965
+00:41:06,459 --> 00:41:08,709
+structure of the course the first half
+
+966
+00:41:08,709 --> 00:41:11,619
+of the course is going to be an overview
+
+967
+00:41:11,619 --> 00:41:14,439
+and introduction to the various buckets
+
+968
+00:41:14,439 --> 00:41:16,929
+the various categories and what we're
+
+969
+00:41:16,929 --> 00:41:19,599
+going to go through is understanding
+
+970
+00:41:19,599 --> 00:41:22,119
+sort of an introduction to evolutionary
+
+971
+00:41:22,119 --> 00:41:25,239
+theory an introduction to what molecular
+
+972
+00:41:25,239 --> 00:41:27,609
+genetics has to do with behavior the
+
+973
+00:41:27,609 --> 00:41:31,109
+behavioral genetics ethology the brain
+
+974
+00:41:31,109 --> 00:41:33,699
+endocrinology each of these buckets and
+
+975
+00:41:33,699 --> 00:41:36,069
+you know what happens next which is in
+
+976
+00:41:36,069 --> 00:41:37,420
+the second half of the course
+
+977
+00:41:37,420 --> 00:41:39,640
+we will look at specific behaviors and
+
+978
+00:41:39,640 --> 00:41:42,339
+in each case rip apart the buckets and
+
+979
+00:41:42,339 --> 00:41:45,130
+in each case do the strategy of what
+
+980
+00:41:45,130 --> 00:41:47,140
+does the behavior look like what
+
+981
+00:41:47,140 --> 00:41:49,390
+happened to second before the world of
+
+982
+00:41:49,390 --> 00:41:51,429
+neurons what happened with the sensory
+
+983
+00:41:51,429 --> 00:41:53,859
+stimuli that trigger those neurons etc
+
+984
+00:41:53,859 --> 00:41:55,959
+all the way back to the evolutionary
+
+985
+00:41:55,959 --> 00:41:58,839
+selective pressures so the first half of
+
+986
+00:41:58,839 --> 00:42:00,189
+the course is going to be the
+
+987
+00:42:00,189 --> 00:42:02,079
+introduction to the bucket and I will
+
+988
+00:42:02,079 --> 00:42:04,150
+tell you right off the bat it is a total
+
+989
+00:42:04,150 --> 00:42:05,769
+pain in the rear because of what we're
+
+990
+00:42:05,769 --> 00:42:07,059
+going to be doing is like every
+
+991
+00:42:07,059 --> 00:42:09,189
+two-and-a-half lectures just when you
+
+992
+00:42:09,189 --> 00:42:10,869
+were getting the vocabulary down we're
+
+993
+00:42:10,869 --> 00:42:12,459
+going to jump to a completely different
+
+994
+00:42:12,459 --> 00:42:15,619
+bucket it is going to be dizzying and
+
+995
+00:42:15,619 --> 00:42:17,329
+unpleasant and all of that and then
+
+996
+00:42:17,329 --> 00:42:18,619
+second half of the course
+
+997
+00:42:18,619 --> 00:42:21,109
+oh the rewards finally come of then
+
+998
+00:42:21,109 --> 00:42:23,329
+putting all the pieces together looking
+
+999
+00:42:23,329 --> 00:42:25,960
+at individual categories of behavior
+
+1000
+00:42:25,960 --> 00:42:29,589
+sexual behavior aggressive behavior
+
+1001
+00:42:29,589 --> 00:42:32,839
+parental behavior schizophrenia
+
+1002
+00:42:32,839 --> 00:42:35,359
+depression personality disorders
+
+1003
+00:42:35,359 --> 00:42:37,460
+language use in each of these cases
+
+1004
+00:42:37,460 --> 00:42:40,369
+what's going on a second before what's
+
+1005
+00:42:40,369 --> 00:42:42,920
+going on ten million years before where
+
+1006
+00:42:42,920 --> 00:42:45,319
+do all these buckets disappear in the
+
+1007
+00:42:45,319 --> 00:42:47,930
+interactions so that's going to be the
+
+1008
+00:42:47,930 --> 00:42:50,569
+strategy for the course something
+
+1009
+00:42:50,569 --> 00:42:52,339
+critical about how the course was
+
+1010
+00:42:52,339 --> 00:42:54,829
+designed is it's got no prerequisites
+
+1011
+00:42:54,829 --> 00:42:57,650
+because I really think this is a subject
+
+1012
+00:42:57,650 --> 00:42:59,450
+that everybody on earth should be forced
+
+1013
+00:42:59,450 --> 00:43:01,400
+to learn about at a gunpoint and thus
+
+1014
+00:43:01,400 --> 00:43:03,559
+like it's a good thing I think to have
+
+1015
+00:43:03,559 --> 00:43:05,539
+this not be one of those upper level bio
+
+1016
+00:43:05,539 --> 00:43:07,160
+classes let me just get a sense of who's
+
+1017
+00:43:07,160 --> 00:43:09,469
+here how many of you are bio types bio
+
+1018
+00:43:09,469 --> 00:43:15,140
+majors hum bio psychology anthro
+
+1019
+00:43:15,140 --> 00:43:18,140
+are there any English Lit grad students
+
+1020
+00:43:18,140 --> 00:43:24,440
+in here okay good for you thank you for
+
+1021
+00:43:24,440 --> 00:43:27,589
+coming see what you think in three
+
+1022
+00:43:27,589 --> 00:43:29,900
+months but nonetheless the class has
+
+1023
+00:43:29,900 --> 00:43:32,239
+been designed explicitly to have no
+
+1024
+00:43:32,239 --> 00:43:34,640
+background whatsoever how are we going
+
+1025
+00:43:34,640 --> 00:43:36,769
+to do that we're gonna do the usual song
+
+1026
+00:43:36,769 --> 00:43:39,319
+and dance of weekly sections and reviews
+
+1027
+00:43:39,319 --> 00:43:41,150
+and all that sort of thing but in
+
+1028
+00:43:41,150 --> 00:43:43,219
+addition during this first half of the
+
+1029
+00:43:43,219 --> 00:43:45,200
+course when we're jumping from category
+
+1030
+00:43:45,200 --> 00:43:47,180
+to category we're going to have each
+
+1031
+00:43:47,180 --> 00:43:49,309
+week additional sections a catch-up
+
+1032
+00:43:49,309 --> 00:43:51,859
+section which is for people who have no
+
+1033
+00:43:51,859 --> 00:43:54,140
+background in that area getting you
+
+1034
+00:43:54,140 --> 00:43:56,119
+through the basics and getting you up to
+
+1035
+00:43:56,119 --> 00:43:58,430
+speed so that you will be able to then
+
+1036
+00:43:58,430 --> 00:44:00,229
+know what's up during the lectures so
+
+1037
+00:44:00,229 --> 00:44:02,660
+those will be posted the first one of
+
+1038
+00:44:02,660 --> 00:44:05,239
+these is let me make sure I've got this
+
+1039
+00:44:05,239 --> 00:44:08,450
+yes it will be this Thursday at 7:30 in
+
+1040
+00:44:08,450 --> 00:44:11,119
+the room next door and this is going to
+
+1041
+00:44:11,119 --> 00:44:12,980
+be the introduction to of
+
+1042
+00:44:12,980 --> 00:44:15,230
+canary theory and getting you ready for
+
+1043
+00:44:15,230 --> 00:44:17,630
+what will be the evolution lectures
+
+1044
+00:44:17,630 --> 00:44:20,090
+Wednesday and Friday of this week if you
+
+1045
+00:44:20,090 --> 00:44:22,160
+don't have a strong background go to
+
+1046
+00:44:22,160 --> 00:44:24,380
+these catch-up sections the TAS who will
+
+1047
+00:44:24,380 --> 00:44:26,930
+be giving it are really expert in those
+
+1048
+00:44:26,930 --> 00:44:29,930
+areas lots of background and this will
+
+1049
+00:44:29,930 --> 00:44:31,910
+be your chance to catch up look through
+
+1050
+00:44:31,910 --> 00:44:33,350
+the handout I think I have a bunch of
+
+1051
+00:44:33,350 --> 00:44:35,510
+terms there or something where if you're
+
+1052
+00:44:35,510 --> 00:44:37,280
+not terribly familiar with those terms
+
+1053
+00:44:37,280 --> 00:44:39,200
+and some discipline that's a sign that
+
+1054
+00:44:39,200 --> 00:44:41,000
+you should probably go for some of the
+
+1055
+00:44:41,000 --> 00:44:43,220
+catch-up stuff if you really are just
+
+1056
+00:44:43,220 --> 00:44:45,109
+doing this sort of being very
+
+1057
+00:44:45,109 --> 00:44:47,000
+adventurous with no background if you
+
+1058
+00:44:47,000 --> 00:44:49,310
+can take it pass/fail that will take off
+
+1059
+00:44:49,310 --> 00:44:51,350
+a lot of the pressure as well because
+
+1060
+00:44:51,350 --> 00:44:52,880
+you could then actually pay attention to
+
+1061
+00:44:52,880 --> 00:44:55,340
+stuff here and the whole point here is
+
+1062
+00:44:55,340 --> 00:44:57,740
+to be able to do this even if you don't
+
+1063
+00:44:57,740 --> 00:44:59,810
+have a science background because the
+
+1064
+00:44:59,810 --> 00:45:01,609
+obvious argument I would make is
+
+1065
+00:45:01,609 --> 00:45:03,500
+everybody has to learn behavioral
+
+1066
+00:45:03,500 --> 00:45:05,480
+biology because we're being behavioral
+
+1067
+00:45:05,480 --> 00:45:08,570
+biologists every time we serve on a jury
+
+1068
+00:45:08,570 --> 00:45:11,570
+every time we vote whether or not money
+
+1069
+00:45:11,570 --> 00:45:13,970
+should be spent on solving some problem
+
+1070
+00:45:13,970 --> 00:45:15,500
+whether it's a problem whether it's
+
+1071
+00:45:15,500 --> 00:45:17,869
+solvable or not every time we try to
+
+1072
+00:45:17,869 --> 00:45:19,820
+make sense of a family member
+
+1073
+00:45:19,820 --> 00:45:22,280
+sunk in depression are they having a
+
+1074
+00:45:22,280 --> 00:45:24,530
+biochemical disorder or are they just
+
+1075
+00:45:24,530 --> 00:45:25,970
+indulging themselves
+
+1076
+00:45:25,970 --> 00:45:28,070
+we were behavior biologists all the time
+
+1077
+00:45:28,070 --> 00:45:29,869
+so it's a probably good thing that we'd
+
+1078
+00:45:29,869 --> 00:45:32,150
+be informed once so they catch up with
+
+1079
+00:45:32,150 --> 00:45:34,490
+these sections there take advantage of
+
+1080
+00:45:34,490 --> 00:45:36,950
+them what else we will have weekly
+
+1081
+00:45:36,950 --> 00:45:39,170
+sections the usual type people are not
+
+1082
+00:45:39,170 --> 00:45:40,790
+assigned to sections there's going to be
+
+1083
+00:45:40,790 --> 00:45:43,190
+I don't know 18 of them or so a week at
+
+1084
+00:45:43,190 --> 00:45:45,800
+various times go to whichever works for
+
+1085
+00:45:45,800 --> 00:45:48,650
+you there will be in midterm in the
+
+1086
+00:45:48,650 --> 00:45:50,810
+middle the midterm coming as we finish
+
+1087
+00:45:50,810 --> 00:45:53,570
+the last of those categories last of
+
+1088
+00:45:53,570 --> 00:45:55,340
+those buckets there will be a final
+
+1089
+00:45:55,340 --> 00:45:57,530
+there's no paper or anything like that
+
+1090
+00:45:57,530 --> 00:46:00,290
+so that will be the pattern what else
+
+1091
+00:46:00,290 --> 00:46:03,020
+other stuff here office hours my office
+
+1092
+00:46:03,020 --> 00:46:05,720
+hours are up on the handout other things
+
+1093
+00:46:05,720 --> 00:46:08,750
+breaks we will with any luck be able to
+
+1094
+00:46:08,750 --> 00:46:11,270
+we I with any luck we'll be able to be
+
+1095
+00:46:11,270 --> 00:46:12,830
+organized enough so that during each
+
+1096
+00:46:12,830 --> 00:46:14,510
+stretch of class there will be a
+
+1097
+00:46:14,510 --> 00:46:16,100
+five-minute break in the middle so you
+
+1098
+00:46:16,100 --> 00:46:17,930
+could stand up and just get to the front
+
+1099
+00:46:17,930 --> 00:46:18,660
+of the line for the
+
+1100
+00:46:18,660 --> 00:46:20,430
+Froome and then we will resume promptly
+
+1101
+00:46:20,430 --> 00:46:23,070
+before you get in there so just to let
+
+1102
+00:46:23,070 --> 00:46:25,590
+you clear your heads a bit assignments
+
+1103
+00:46:25,590 --> 00:46:27,540
+books reading there are two books that I
+
+1104
+00:46:27,540 --> 00:46:30,960
+have assigned for the course one is by
+
+1105
+00:46:30,960 --> 00:46:33,720
+me and you don't even have to read it
+
+1106
+00:46:33,720 --> 00:46:37,080
+just go buy a bunch of copies and bring
+
+1107
+00:46:37,080 --> 00:46:38,850
+me the receipt and you got a great grade
+
+1108
+00:46:38,850 --> 00:46:40,350
+in there okay so that's one's gonna be
+
+1109
+00:46:40,350 --> 00:46:41,760
+pertinent to the second half of the
+
+1110
+00:46:41,760 --> 00:46:45,120
+course we're going to give you a list of
+
+1111
+00:46:45,120 --> 00:46:46,980
+the chapters that make the most sense to
+
+1112
+00:46:46,980 --> 00:46:49,500
+read the other book is a book by an
+
+1113
+00:46:49,500 --> 00:46:51,780
+author named James Glick called chaos
+
+1114
+00:46:51,780 --> 00:46:54,870
+chaos year after year after year in this
+
+1115
+00:46:54,870 --> 00:46:57,540
+class provokes the strongest opinions a
+
+1116
+00:46:57,540 --> 00:46:59,760
+quarter of the people decided is the
+
+1117
+00:46:59,760 --> 00:47:01,950
+most irritating irrelevant thing that
+
+1118
+00:47:01,950 --> 00:47:03,840
+could possibly have been assigned in the
+
+1119
+00:47:03,840 --> 00:47:06,090
+class and hate it but half the people
+
+1120
+00:47:06,090 --> 00:47:08,100
+never quite figure out what's up with it
+
+1121
+00:47:08,100 --> 00:47:10,740
+and 1/4 of the people their life is
+
+1122
+00:47:10,740 --> 00:47:13,260
+transformed they no longer have to
+
+1123
+00:47:13,260 --> 00:47:15,960
+meditate they no longer have to have a
+
+1124
+00:47:15,960 --> 00:47:19,830
+book just they are at peace at peace I
+
+1125
+00:47:19,830 --> 00:47:22,260
+tell you because what this book does is
+
+1126
+00:47:22,260 --> 00:47:25,200
+introduce this whole radically different
+
+1127
+00:47:25,200 --> 00:47:28,350
+way of thinking about biology taking
+
+1128
+00:47:28,350 --> 00:47:31,650
+apart a world of reductionism for 500
+
+1129
+00:47:31,650 --> 00:47:31,980
+years
+
+1130
+00:47:31,980 --> 00:47:34,110
+we all have been using a very simple
+
+1131
+00:47:34,110 --> 00:47:36,810
+model for thinking about living systems
+
+1132
+00:47:36,810 --> 00:47:39,150
+which is if you want to understand
+
+1133
+00:47:39,150 --> 00:47:41,670
+something that's complicated you break
+
+1134
+00:47:41,670 --> 00:47:44,310
+it apart into its little pieces and once
+
+1135
+00:47:44,310 --> 00:47:46,260
+you understand the little pieces and put
+
+1136
+00:47:46,260 --> 00:47:48,750
+it back together you will understand the
+
+1137
+00:47:48,750 --> 00:47:51,480
+complex thing and what chaos as an
+
+1138
+00:47:51,480 --> 00:47:53,820
+entire field is about and this was
+
+1139
+00:47:53,820 --> 00:47:55,320
+pretty much the first book that was
+
+1140
+00:47:55,320 --> 00:47:57,540
+meant for the lay public about it what
+
+1141
+00:47:57,540 --> 00:48:00,390
+chaos shows is that's how you fix clocks
+
+1142
+00:48:00,390 --> 00:48:02,940
+that's not how you fix behaviors that's
+
+1143
+00:48:02,940 --> 00:48:04,500
+not how you understand behaviors
+
+1144
+00:48:04,500 --> 00:48:07,650
+behavior is not like a clock behavior is
+
+1145
+00:48:07,650 --> 00:48:09,810
+like a cloud and you don't understand
+
+1146
+00:48:09,810 --> 00:48:12,090
+rainfall by breaking a cloud down into
+
+1147
+00:48:12,090 --> 00:48:14,190
+its component pieces and gluing them
+
+1148
+00:48:14,190 --> 00:48:16,410
+back together so read through that book
+
+1149
+00:48:16,410 --> 00:48:18,600
+a lot of it is from physical sciences
+
+1150
+00:48:18,600 --> 00:48:20,820
+rather than biological so we'll just be
+
+1151
+00:48:20,820 --> 00:48:22,940
+suggesting the chapters you should read
+
+1152
+00:48:22,940 --> 00:48:25,069
+I will tell you it is the first book
+
+1153
+00:48:25,069 --> 00:48:28,099
+since like baby Beluga where I've gotten
+
+1154
+00:48:28,099 --> 00:48:30,260
+to the last page and immediately started
+
+1155
+00:48:30,260 --> 00:48:31,910
+reading it over again from the front
+
+1156
+00:48:31,910 --> 00:48:34,730
+because along with baby belugas had the
+
+1157
+00:48:34,730 --> 00:48:36,920
+greatest influence of my life I found
+
+1158
+00:48:36,920 --> 00:48:39,319
+this to be the most influential book in
+
+1159
+00:48:39,319 --> 00:48:41,990
+my thinking about science since college
+
+1160
+00:48:41,990 --> 00:48:43,940
+so that is a sign there will also be a
+
+1161
+00:48:43,940 --> 00:48:46,069
+bunch of lectures in the second half of
+
+1162
+00:48:46,069 --> 00:48:47,960
+the course covering these fields of
+
+1163
+00:48:47,960 --> 00:48:51,140
+chaos and complexity and if you really
+
+1164
+00:48:51,140 --> 00:48:53,270
+think about it it is going to force a
+
+1165
+00:48:53,270 --> 00:48:55,160
+change in everything else that you bring
+
+1166
+00:48:55,160 --> 00:48:57,079
+to thinking about this subject in
+
+1167
+00:48:57,079 --> 00:49:00,230
+addition at this moment there is not a
+
+1168
+00:49:00,230 --> 00:49:02,060
+reader because I'm trying to avoid
+
+1169
+00:49:02,060 --> 00:49:03,829
+having to get you guys to have to buy a
+
+1170
+00:49:03,829 --> 00:49:06,290
+reader I'm trying to redo all the
+
+1171
+00:49:06,290 --> 00:49:08,300
+assigned readings so that will just be
+
+1172
+00:49:08,300 --> 00:49:10,400
+from papers that are available online
+
+1173
+00:49:10,400 --> 00:49:12,619
+that you'll be able to download I'm
+
+1174
+00:49:12,619 --> 00:49:14,240
+about halfway through getting them there
+
+1175
+00:49:14,240 --> 00:49:15,920
+with any luck there will not have to be
+
+1176
+00:49:15,920 --> 00:49:18,290
+a reader but if it does exist it's not
+
+1177
+00:49:18,290 --> 00:49:19,460
+going to be big it won't be terribly
+
+1178
+00:49:19,460 --> 00:49:22,040
+expensive but there will be a bunch of
+
+1179
+00:49:22,040 --> 00:49:25,130
+readings online to download and it will
+
+1180
+00:49:25,130 --> 00:49:27,800
+vary in some cases it will be reading
+
+1181
+00:49:27,800 --> 00:49:30,200
+the whole paper in some cases I'll be
+
+1182
+00:49:30,200 --> 00:49:32,300
+suggesting you just read the abstract in
+
+1183
+00:49:32,300 --> 00:49:34,670
+some cases it will be to understand
+
+1184
+00:49:34,670 --> 00:49:36,230
+what's happening in the behave in the
+
+1185
+00:49:36,230 --> 00:49:39,170
+paper in detail in some cases this is an
+
+1186
+00:49:39,170 --> 00:49:41,240
+example of how people in this bucket
+
+1187
+00:49:41,240 --> 00:49:43,700
+think about this problem just read the
+
+1188
+00:49:43,700 --> 00:49:46,369
+abstract so all of that will be assigned
+
+1189
+00:49:46,369 --> 00:49:48,470
+and made clear what other stuff there's
+
+1190
+00:49:48,470 --> 00:49:50,420
+going to be a huge amount of information
+
+1191
+00:49:50,420 --> 00:49:53,180
+online the coursework is going to be set
+
+1192
+00:49:53,180 --> 00:49:55,790
+up for the class there will be copies of
+
+1193
+00:49:55,790 --> 00:49:58,550
+the handouts there will be lecture notes
+
+1194
+00:49:58,550 --> 00:50:01,010
+lecture notes that I have that will be
+
+1195
+00:50:01,010 --> 00:50:03,470
+about five to ten pages covering each
+
+1196
+00:50:03,470 --> 00:50:05,420
+lecture which will get to about the
+
+1197
+00:50:05,420 --> 00:50:07,099
+middle of the course and I suspect I
+
+1198
+00:50:07,099 --> 00:50:09,470
+will run out of steam by then so they
+
+1199
+00:50:09,470 --> 00:50:10,940
+won't care for the second half
+
+1200
+00:50:10,940 --> 00:50:13,579
+there will be commonly asked questions
+
+1201
+00:50:13,579 --> 00:50:15,680
+there will be a Q&A there will be course
+
+1202
+00:50:15,680 --> 00:50:18,319
+logistics some of the slides will be put
+
+1203
+00:50:18,319 --> 00:50:20,599
+up in there make use of that there will
+
+1204
+00:50:20,599 --> 00:50:23,119
+be announcements about time changing for
+
+1205
+00:50:23,119 --> 00:50:25,550
+office hours and things like that make
+
+1206
+00:50:25,550 --> 00:50:27,680
+you make use of that and people who are
+
+1207
+00:50:27,680 --> 00:50:29,420
+not formally enrolled we are figuring
+
+1208
+00:50:29,420 --> 00:50:31,370
+out a way for you to get access to it as
+
+1209
+00:50:31,370 --> 00:50:33,590
+well we've also made the decision that
+
+1210
+00:50:33,590 --> 00:50:36,740
+after this lecture the handouts will not
+
+1211
+00:50:36,740 --> 00:50:40,730
+be on paper and that is because by
+
+1212
+00:50:40,730 --> 00:50:42,770
+roughly for each lecture we will go
+
+1213
+00:50:42,770 --> 00:50:45,440
+through about 5,000 pieces of paper even
+
+1214
+00:50:45,440 --> 00:50:47,900
+double-sided all of the stuff will get
+
+1215
+00:50:47,900 --> 00:50:50,450
+posted on coursework the day before and
+
+1216
+00:50:50,450 --> 00:50:52,070
+if that's going to make it impossible
+
+1217
+00:50:52,070 --> 00:50:54,440
+for you to follow what happens in class
+
+1218
+00:50:54,440 --> 00:50:56,510
+because you are the last human on
+
+1219
+00:50:56,510 --> 00:50:58,370
+Stanford who is not living off of the
+
+1220
+00:50:58,370 --> 00:51:00,380
+computer screen come and talk to me and
+
+1221
+00:51:00,380 --> 00:51:03,200
+we will slip you an actual paper copy of
+
+1222
+00:51:03,200 --> 00:51:06,050
+the handouts most of them with any luck
+
+1223
+00:51:06,050 --> 00:51:07,910
+we can avoid using paper just because of
+
+1224
+00:51:07,910 --> 00:51:09,800
+how many people there are in here let's
+
+1225
+00:51:09,800 --> 00:51:14,660
+see other stuff sections sections will
+
+1226
+00:51:14,660 --> 00:51:17,030
+start this Thursday the regular sections
+
+1227
+00:51:17,030 --> 00:51:18,890
+all of those will be posted the times
+
+1228
+00:51:18,890 --> 00:51:21,680
+for that office hours won't start until
+
+1229
+00:51:21,680 --> 00:51:25,760
+next week a midterm will be in an
+
+1230
+00:51:25,760 --> 00:51:27,680
+evening rather than during a class time
+
+1231
+00:51:27,680 --> 00:51:29,720
+and if we're on schedule the class time
+
+1232
+00:51:29,720 --> 00:51:31,940
+that day it will be used for review and
+
+1233
+00:51:31,940 --> 00:51:34,400
+anything else Oh a very good suggestion
+
+1234
+00:51:34,400 --> 00:51:36,410
+just now given that the class before
+
+1235
+00:51:36,410 --> 00:51:39,020
+here is humongous and thus we have the
+
+1236
+00:51:39,020 --> 00:51:41,270
+impossible problem of a lot of people
+
+1237
+00:51:41,270 --> 00:51:42,890
+trying to get out of that while a lot of
+
+1238
+00:51:42,890 --> 00:51:44,510
+people are trying to get into that it
+
+1239
+00:51:44,510 --> 00:51:46,640
+might work best for everybody to come in
+
+1240
+00:51:46,640 --> 00:51:49,190
+from the top so that you flow down the
+
+1241
+00:51:49,190 --> 00:51:51,650
+stairs seamlessly and drive out those
+
+1242
+00:51:51,650 --> 00:51:53,690
+other people before us out the door
+
+1243
+00:51:53,690 --> 00:51:55,660
+there that might work a whole lot better
+
+1244
+00:51:55,660 --> 00:51:58,790
+final thing is we have a team of TAS
+
+1245
+00:51:58,790 --> 00:52:01,880
+here and they are great here they are
+
+1246
+00:52:01,880 --> 00:52:04,370
+TAS stand up and be embarrassed okay
+
+1247
+00:52:04,370 --> 00:52:10,220
+stand up those there they are there's
+
+1248
+00:52:10,220 --> 00:52:13,040
+all but one of them who is in transit
+
+1249
+00:52:13,040 --> 00:52:15,230
+there they are these guys are great they
+
+1250
+00:52:15,230 --> 00:52:17,150
+have either taken the course before in
+
+1251
+00:52:17,150 --> 00:52:18,860
+some cases they have T aid the course
+
+1252
+00:52:18,860 --> 00:52:21,680
+before their grad students in various of
+
+1253
+00:52:21,680 --> 00:52:24,410
+the bucket specialties I would strongly
+
+1254
+00:52:24,410 --> 00:52:26,510
+suggest taking advantage of the sections
+
+1255
+00:52:26,510 --> 00:52:28,790
+what will evolve after the first few
+
+1256
+00:52:28,790 --> 00:52:30,730
+weeks is there will be the regular
+
+1257
+00:52:30,730 --> 00:52:33,230
+sections going over the course material
+
+1258
+00:52:33,230 --> 00:52:34,789
+sort of the usual way
+
+1259
+00:52:34,789 --> 00:52:36,380
+there will also be more advanced
+
+1260
+00:52:36,380 --> 00:52:38,179
+sections for people who have stronger
+
+1261
+00:52:38,179 --> 00:52:40,699
+backgrounds take advantage okay you guys
+
+1262
+00:52:40,699 --> 00:52:43,729
+can sit down leaving them standing there
+
+1263
+00:52:43,729 --> 00:52:45,979
+awkwardly for hours afterward take
+
+1264
+00:52:45,979 --> 00:52:48,859
+advantage of the sections really greatly
+
+1265
+00:52:48,859 --> 00:52:52,219
+skill TAS okay so that's basically what
+
+1266
+00:52:52,219 --> 00:52:53,749
+we got going here are there any
+
+1267
+00:52:53,749 --> 00:52:55,989
+questions
+
+1268
+00:52:58,239 --> 00:53:00,650
+units okay somebody emailed without
+
+1269
+00:53:00,650 --> 00:53:04,219
+units the class is five units and it's
+
+1270
+00:53:04,219 --> 00:53:06,319
+because we are meeting for so many hours
+
+1271
+00:53:06,319 --> 00:53:09,259
+a week actually for a while the class
+
+1272
+00:53:09,259 --> 00:53:11,359
+was the sixth unit course and that was
+
+1273
+00:53:11,359 --> 00:53:13,699
+because of Condoleezza Rice because when
+
+1274
+00:53:13,699 --> 00:53:16,069
+she is the Provost here she totally
+
+1275
+00:53:16,069 --> 00:53:18,349
+screwed the biology department by upping
+
+1276
+00:53:18,349 --> 00:53:20,989
+our teaching requirements under really
+
+1277
+00:53:20,989 --> 00:53:24,349
+nasty conditions so what we all decided
+
+1278
+00:53:24,349 --> 00:53:27,109
+was to find ways every single sleazy
+
+1279
+00:53:27,109 --> 00:53:29,089
+trick we could do to puff up the number
+
+1280
+00:53:29,089 --> 00:53:31,249
+of units we were supposedly teaching so
+
+1281
+00:53:31,249 --> 00:53:33,109
+for a while the five unit class here we
+
+1282
+00:53:33,109 --> 00:53:35,509
+did do six units but eventually they
+
+1283
+00:53:35,509 --> 00:53:37,339
+caught us so we stopped doing that so
+
+1284
+00:53:37,339 --> 00:53:40,369
+first first she did that and then
+
+1285
+00:53:40,369 --> 00:53:42,380
+weapons of mass destruction so it's a
+
+1286
+00:53:42,380 --> 00:53:45,439
+five minute class at the moment say hi
+
+1287
+00:53:45,439 --> 00:53:48,349
+from me if you run into her on campus so
+
+1288
+00:53:48,349 --> 00:53:52,130
+five units the workload I think will be
+
+1289
+00:53:52,130 --> 00:53:53,779
+commensurate with that but it's mainly
+
+1290
+00:53:53,779 --> 00:53:55,789
+because of heavy class time one
+
+1291
+00:53:55,789 --> 00:53:58,130
+additional thing lectures are going to
+
+1292
+00:53:58,130 --> 00:54:00,619
+be tape and put up online within a day
+
+1293
+00:54:00,619 --> 00:54:02,599
+or so on coursework the reason for that
+
+1294
+00:54:02,599 --> 00:54:04,759
+is given that this spans two-hour block
+
+1295
+00:54:04,759 --> 00:54:07,279
+a lot of people have to miss one of the
+
+1296
+00:54:07,279 --> 00:54:09,650
+hour blocks and in the past it is work
+
+1297
+00:54:09,650 --> 00:54:12,199
+to be able to get the stuff up online so
+
+1298
+00:54:12,199 --> 00:54:14,619
+that will be advantageous for some folks
+
+1299
+00:54:14,619 --> 00:54:17,599
+okay question yes there was a question
+
+1300
+00:54:17,599 --> 00:54:20,659
+up there that was okay you take it back
+
+1301
+00:54:20,659 --> 00:54:25,579
+okay any other questions bagel guys did
+
+1302
+00:54:25,579 --> 00:54:26,959
+you get your bagel or did somebody eat
+
+1303
+00:54:26,959 --> 00:54:31,400
+it okay good good and the social
+
+1304
+00:54:31,400 --> 00:54:33,920
+contract comes through yep
+
+1305
+00:54:33,920 --> 00:54:42,260
+what's up yes I don't remember
+
+1306
+00:54:42,260 --> 00:54:47,160
+May 3rd May 3rd for the midterm 7:30 in
+
+1307
+00:54:47,160 --> 00:54:52,319
+the evening it is a Monday June 4th for
+
+1308
+00:54:52,319 --> 00:54:59,230
+the final ok more questions yeah
+
+1309
+00:54:59,230 --> 00:55:01,450
+what's the format of the midterm in the
+
+1310
+00:55:01,450 --> 00:55:05,079
+file in an ideal world given the whole
+
+1311
+00:55:05,079 --> 00:55:07,420
+emphasis here on no buckets blah blah
+
+1312
+00:55:07,420 --> 00:55:10,210
+etc it would be long essays and
+
+1313
+00:55:10,210 --> 00:55:12,339
+requirements of sonnets and sensitive
+
+1314
+00:55:12,339 --> 00:55:15,280
+haikus about the hypothalamus but simply
+
+1315
+00:55:15,280 --> 00:55:16,810
+because in the numbers and here we are
+
+1316
+00:55:16,810 --> 00:55:19,000
+reduced to sort of like lowest common
+
+1317
+00:55:19,000 --> 00:55:19,930
+denominator
+
+1318
+00:55:19,930 --> 00:55:22,480
+a lot of multiple-choice questions just
+
+1319
+00:55:22,480 --> 00:55:24,790
+to make things saner for the TAS because
+
+1320
+00:55:24,790 --> 00:55:27,099
+it is an unbelievable job to try to
+
+1321
+00:55:27,099 --> 00:55:29,280
+engrave this many papers that quickly
+
+1322
+00:55:29,280 --> 00:55:31,599
+broadly intellectually what the midterm
+
+1323
+00:55:31,599 --> 00:55:33,550
+is going to be about is just touching
+
+1324
+00:55:33,550 --> 00:55:36,190
+base making sure you understand the
+
+1325
+00:55:36,190 --> 00:55:38,200
+basics of each of those buckets each of
+
+1326
+00:55:38,200 --> 00:55:40,359
+those disciplines a little bit of
+
+1327
+00:55:40,359 --> 00:55:42,310
+forcing you to think across disciplines
+
+1328
+00:55:42,310 --> 00:55:44,320
+what the final is going to be entirely
+
+1329
+00:55:44,320 --> 00:55:47,200
+about is forcing you to think across the
+
+1330
+00:55:47,200 --> 00:55:49,570
+disciplines across the buckets there so
+
+1331
+00:55:49,570 --> 00:55:50,560
+it's going to be so very different
+
+1332
+00:55:50,560 --> 00:55:53,920
+intellectual foci in their mid term have
+
+1333
+00:55:53,920 --> 00:55:55,540
+the facts that hopefully it won't be
+
+1334
+00:55:55,540 --> 00:55:57,280
+quite as mindless is that but that's the
+
+1335
+00:55:57,280 --> 00:55:59,380
+main function of the midterm okay more
+
+1336
+00:55:59,380 --> 00:56:04,890
+questions yep
+
+1337
+00:56:09,530 --> 00:56:12,140
+okay th did you guys decide to videotape
+
+1338
+00:56:12,140 --> 00:56:18,880
+the ketchup section audio okay that okay
+
+1339
+00:56:18,880 --> 00:56:21,680
+either office hours or it's going to be
+
+1340
+00:56:21,680 --> 00:56:23,810
+taped and put up online and of course
+
+1341
+00:56:23,810 --> 00:56:26,360
+works and if there's critical handouts
+
+1342
+00:56:26,360 --> 00:56:28,610
+visuals those will be posted there as
+
+1343
+00:56:28,610 --> 00:56:36,830
+well good more questions yeah yes and
+
+1344
+00:56:36,830 --> 00:56:38,630
+it's gonna be for each it's going to be
+
+1345
+00:56:38,630 --> 00:56:41,530
+in advance of the next three lectures
+
+1346
+00:56:41,530 --> 00:56:47,630
+since young final is at 7:30 for two
+
+1347
+00:56:47,630 --> 00:56:50,450
+hours the fine of all of the final of
+
+1348
+00:56:50,450 --> 00:56:57,130
+the final five fifteen twelve fifteen
+
+1349
+00:57:00,460 --> 00:57:02,390
+just to get that up there
+
+1350
+00:57:02,390 --> 00:57:09,250
+twelve fifteen more questions any are
+
+1351
+00:57:09,250 --> 00:57:14,080
+for more please visit us at stanford.edu
+

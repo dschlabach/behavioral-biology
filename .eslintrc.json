@@ -1,0 +1,16 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:tailwindcss/recommended"],
+  "plugins": ["tailwindcss"],
+  "settings": {
+    "tailwindcss": {
+      "callees": ["cn", "cva"]
+    }
+  },
+  "rules": {
+    "no-unused-vars": [1, { "argsIgnorePattern": "^_" }],
+    "no-console": 2,
+    "react/self-closing-comp": 1,
+    "react/no-unescaped-entities": 0,
+    "prettier/prettier": 0
+  }
+}

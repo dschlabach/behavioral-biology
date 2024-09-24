@@ -1,0 +1,9428 @@
+1
+00:00:04,960 --> 00:00:07,200
+Stanford
+
+2
+00:00:07,200 --> 00:00:09,760
+University often asked question what's
+
+3
+00:00:09,760 --> 00:00:13,000
+the difference between bio 150 bio 250
+
+4
+00:00:13,000 --> 00:00:15,080
+and is it humbio
+
+5
+00:00:15,080 --> 00:00:18,480
+160 no difference it's exactly the same
+
+6
+00:00:18,480 --> 00:00:21,160
+so like the same requirements same units
+
+7
+00:00:21,160 --> 00:00:24,320
+so take whichever one makes your life
+
+8
+00:00:24,320 --> 00:00:28,240
+easiest let's see any other procedural
+
+9
+00:00:28,240 --> 00:00:31,119
+stuff well the answer are back from
+
+10
+00:00:31,119 --> 00:00:32,719
+Monday's
+
+11
+00:00:32,719 --> 00:00:35,559
+questionnaire and a uh variety of
+
+12
+00:00:35,559 --> 00:00:37,280
+interesting answers not surprisingly
+
+13
+00:00:37,280 --> 00:00:39,520
+given the size of a group why have you
+
+14
+00:00:39,520 --> 00:00:42,399
+taken this course uh really want to know
+
+15
+00:00:42,399 --> 00:00:44,079
+about animal behavior but willing to
+
+16
+00:00:44,079 --> 00:00:45,360
+deal with
+
+17
+00:00:45,360 --> 00:00:47,840
+humans uh because I'm substituting it
+
+18
+00:00:47,840 --> 00:00:50,559
+for Bio 43 which I don't want to
+
+19
+00:00:50,559 --> 00:00:53,120
+take my dad used to make me read books
+
+20
+00:00:53,120 --> 00:00:55,760
+about human behavior in biology is
+
+21
+00:00:55,760 --> 00:00:58,120
+punishment that doesn't make any sense I
+
+22
+00:00:58,120 --> 00:01:00,079
+know one of the TA so I figure that
+
+23
+00:01:00,079 --> 00:01:01,840
+guarantees me an
+
+24
+00:01:01,840 --> 00:01:05,920
+A okay guys it's in New York Court uh
+
+25
+00:01:05,920 --> 00:01:07,600
+one I really liked because I want to be
+
+26
+00:01:07,600 --> 00:01:10,880
+a filmmaker after college yay
+
+27
+00:01:10,880 --> 00:01:13,840
+interdisciplinary um what else my first
+
+28
+00:01:13,840 --> 00:01:17,840
+grade teacher is making me Tom mcfaden
+
+29
+00:01:17,840 --> 00:01:19,240
+told me
+
+30
+00:01:19,240 --> 00:01:24,439
+to I'm a hyper oxygenated diletant um I
+
+31
+00:01:24,439 --> 00:01:26,479
+wanted to somewhat correctly pointing
+
+32
+00:01:26,479 --> 00:01:28,640
+out why have you taken this class I
+
+33
+00:01:28,640 --> 00:01:30,920
+haven't taken it yet a number of people
+
+34
+00:01:30,920 --> 00:01:32,520
+reporting that in fact that was the
+
+35
+00:01:32,520 --> 00:01:35,040
+correct answer and my favorite why have
+
+36
+00:01:35,040 --> 00:01:38,640
+you taken this course
+
+37
+00:01:39,119 --> 00:01:40,640
+yes
+
+38
+00:01:40,640 --> 00:01:43,360
+okay relevant background relevant
+
+39
+00:01:43,360 --> 00:01:46,000
+background I'm human I'm human and I
+
+40
+00:01:46,000 --> 00:01:48,880
+often behave I'm human and I have
+
+41
+00:01:48,880 --> 00:01:51,360
+biology uh 19 years of being confused
+
+42
+00:01:51,360 --> 00:01:54,920
+about human behavior uh not really sort
+
+43
+00:01:54,920 --> 00:01:58,360
+of uh seeing crazy behavior as an RA and
+
+44
+00:01:58,360 --> 00:02:02,759
+an all Frost dorm and I date a
+
+45
+00:02:02,759 --> 00:02:05,000
+biologist let's see there was also the
+
+46
+00:02:05,000 --> 00:02:06,680
+question on there of did the thing on
+
+47
+00:02:06,680 --> 00:02:09,199
+the board look more like an A or a b and
+
+48
+00:02:09,199 --> 00:02:10,840
+just to really facilitate that one I
+
+49
+00:02:10,840 --> 00:02:13,680
+forgot to put the A and the B up um but
+
+50
+00:02:13,680 --> 00:02:16,519
+that Taps into a cognitive something or
+
+51
+00:02:16,519 --> 00:02:17,959
+other which maybe I'll get back to at
+
+52
+00:02:17,959 --> 00:02:20,160
+some point telephone numbers reading
+
+53
+00:02:20,160 --> 00:02:23,120
+them off accuracy dramatically tanked as
+
+54
+00:02:23,120 --> 00:02:24,840
+soon as the three number four number
+
+55
+00:02:24,840 --> 00:02:27,080
+Motif went down the tubes and when it
+
+56
+00:02:27,080 --> 00:02:29,319
+came back briefly accuracy came back a
+
+57
+00:02:29,319 --> 00:02:30,680
+little bit
+
+58
+00:02:30,680 --> 00:02:33,640
+finally uh let's see all of you guys
+
+59
+00:02:33,640 --> 00:02:37,480
+conform to a standard frequent gender
+
+60
+00:02:37,480 --> 00:02:39,720
+difference which is everybody was
+
+61
+00:02:39,720 --> 00:02:41,879
+roughly equally by gender roughly
+
+62
+00:02:41,879 --> 00:02:44,480
+equally likely to see dependent as the
+
+63
+00:02:44,480 --> 00:02:46,599
+opposite of independent a small minority
+
+64
+00:02:46,599 --> 00:02:48,239
+went for inter
+
+65
+00:02:48,239 --> 00:02:50,959
+interdependent um however one finding
+
+66
+00:02:50,959 --> 00:02:53,440
+that has come up over and over is that
+
+67
+00:02:53,440 --> 00:02:55,760
+far more females are interested in peace
+
+68
+00:02:55,760 --> 00:02:58,480
+than males males are more interested in
+
+69
+00:02:58,480 --> 00:03:01,599
+Justice okay have you taken the bio core
+
+70
+00:03:01,599 --> 00:03:05,239
+quote no way Jose uh somebody pointing
+
+71
+00:03:05,239 --> 00:03:07,920
+out quite correctly don't settle for
+
+72
+00:03:07,920 --> 00:03:10,080
+peace or Justice then of course there
+
+73
+00:03:10,080 --> 00:03:11,760
+was the person who responded to that
+
+74
+00:03:11,760 --> 00:03:14,200
+question by writing those words are just
+
+75
+00:03:14,200 --> 00:03:18,159
+symbols need to know assumed
+
+76
+00:03:18,159 --> 00:03:19,840
+meeting
+
+77
+00:03:19,840 --> 00:03:24,239
+okay uh there was one questioner that
+
+78
+00:03:24,239 --> 00:03:26,760
+was carefully signed and something
+
+79
+00:03:26,760 --> 00:03:28,400
+approaching calligraphy it was so
+
+80
+00:03:28,400 --> 00:03:31,239
+beautiful and was otherwise blind
+
+81
+00:03:31,239 --> 00:03:34,920
+uh for years running the course the uh
+
+82
+00:03:34,920 --> 00:03:37,080
+subject that most people really want to
+
+83
+00:03:37,080 --> 00:03:38,879
+hear and most people really don't want
+
+84
+00:03:38,879 --> 00:03:41,120
+to hear is about the biology of
+
+85
+00:03:41,120 --> 00:03:44,400
+religiosity and for 22 years running now
+
+86
+00:03:44,400 --> 00:03:46,319
+Stanford students are more interested in
+
+87
+00:03:46,319 --> 00:03:50,959
+depression than sex okay so we start off
+
+88
+00:03:50,959 --> 00:03:53,560
+I keep telling Hennessy about this but
+
+89
+00:03:53,560 --> 00:03:57,280
+nothing gets done okay we start off we
+
+90
+00:03:57,280 --> 00:04:01,720
+start off if I can open this
+
+91
+00:04:05,000 --> 00:04:07,920
+which is something you could do if you
+
+92
+00:04:07,920 --> 00:04:09,599
+have a certain type of training if
+
+93
+00:04:09,599 --> 00:04:12,079
+you're some osteologist or whatever
+
+94
+00:04:12,079 --> 00:04:13,840
+these folks are called if you are
+
+95
+00:04:13,840 --> 00:04:17,079
+presented those two skulls and told this
+
+96
+00:04:17,079 --> 00:04:19,560
+one's a female this one's a male you can
+
+97
+00:04:19,560 --> 00:04:22,440
+begin to figure out stuff like how heavy
+
+98
+00:04:22,440 --> 00:04:24,360
+how large the body was of that
+
+99
+00:04:24,360 --> 00:04:27,080
+individual what diseases they had had
+
+100
+00:04:27,080 --> 00:04:29,919
+they undergone malnutrition had they
+
+101
+00:04:29,919 --> 00:04:32,600
+given birth a lot of times a few times
+
+102
+00:04:32,600 --> 00:04:35,199
+were they bipedal all sorts of stuff you
+
+103
+00:04:35,199 --> 00:04:37,520
+could figure out from just looking at
+
+104
+00:04:37,520 --> 00:04:40,440
+these skulls what today's lecture and
+
+105
+00:04:40,440 --> 00:04:42,840
+Friday's is about is the fact that with
+
+106
+00:04:42,840 --> 00:04:44,880
+the right tools under your belt you
+
+107
+00:04:44,880 --> 00:04:47,600
+could look at these two skulls and know
+
+108
+00:04:47,600 --> 00:04:49,800
+that information you're a field
+
+109
+00:04:49,800 --> 00:04:51,600
+biologist and you've discovered this
+
+110
+00:04:51,600 --> 00:04:54,160
+brand new species and you see that this
+
+111
+00:04:54,160 --> 00:04:56,360
+one nurses an infant shortly before
+
+112
+00:04:56,360 --> 00:04:58,039
+leaping out of the tree leaving only the
+
+113
+00:04:58,039 --> 00:05:00,919
+skull and this one has a penis shortly
+
+114
+00:05:00,919 --> 00:05:02,479
+before leaving leaping out of the tree
+
+115
+00:05:02,479 --> 00:05:04,520
+and leaving leaving a skull so all you
+
+116
+00:05:04,520 --> 00:05:06,800
+know is this is an adult female and
+
+117
+00:05:06,800 --> 00:05:08,840
+adult male and if you've got the right
+
+118
+00:05:08,840 --> 00:05:11,919
+tools there you can figure out who's
+
+119
+00:05:11,919 --> 00:05:14,199
+more likely to cheat on the other is the
+
+120
+00:05:14,199 --> 00:05:16,520
+female more likely to mess around or is
+
+121
+00:05:16,520 --> 00:05:18,800
+the male how high are the levels of
+
+122
+00:05:18,800 --> 00:05:21,000
+aggression does the female tend to have
+
+123
+00:05:21,000 --> 00:05:24,280
+twins or one kid at a time do females
+
+124
+00:05:24,280 --> 00:05:26,039
+choose males because they have good
+
+125
+00:05:26,039 --> 00:05:28,400
+parenting skills or because they're big
+
+126
+00:05:28,400 --> 00:05:31,880
+hunky guys what levels of differences in
+
+127
+00:05:31,880 --> 00:05:34,240
+life expectancy do they live the same
+
+128
+00:05:34,240 --> 00:05:36,639
+length of time you would be able to tell
+
+129
+00:05:36,639 --> 00:05:38,039
+whether they have the same life
+
+130
+00:05:38,039 --> 00:05:39,400
+expectancy or if there's a big
+
+131
+00:05:39,400 --> 00:05:42,440
+discrepancy between the two all sorts of
+
+132
+00:05:42,440 --> 00:05:45,800
+stuff like that merely by applying a
+
+133
+00:05:45,800 --> 00:05:47,639
+certain piece of logic that dominates
+
+134
+00:05:47,639 --> 00:05:50,600
+all of this okay so you're back reading
+
+135
+00:05:50,600 --> 00:05:53,479
+those time life nature books back when
+
+136
+00:05:53,479 --> 00:05:55,000
+and there was always a style of thing
+
+137
+00:05:55,000 --> 00:05:56,639
+you would go through which is they
+
+138
+00:05:56,639 --> 00:05:59,120
+describe some species doing something
+
+139
+00:05:59,120 --> 00:06:01,199
+absolutely Ely amazing and unlikely and
+
+140
+00:06:01,199 --> 00:06:03,639
+it go like this the giraffe the giraffe
+
+141
+00:06:03,639 --> 00:06:07,000
+has a long neck and it obviously has to
+
+142
+00:06:07,000 --> 00:06:09,520
+have a big heart to pump all that blood
+
+143
+00:06:09,520 --> 00:06:11,639
+up there and you lock up a whole bunch
+
+144
+00:06:11,639 --> 00:06:14,319
+of biomechanics people with you know
+
+145
+00:06:14,319 --> 00:06:16,360
+slide rules and out they come out with
+
+146
+00:06:16,360 --> 00:06:18,400
+this prediction as to how big the
+
+147
+00:06:18,400 --> 00:06:20,639
+giraffe heart should be and how thick
+
+148
+00:06:20,639 --> 00:06:22,880
+the walls and you go and you measure a
+
+149
+00:06:22,880 --> 00:06:25,280
+giraffe heart and it's exactly what the
+
+150
+00:06:25,280 --> 00:06:27,960
+equations predicted and you say isn't
+
+151
+00:06:27,960 --> 00:06:30,599
+nature amazing or you read about some
+
+152
+00:06:30,599 --> 00:06:33,120
+like desert rodents that drink once
+
+153
+00:06:33,120 --> 00:06:35,479
+every three months and another bunch of
+
+154
+00:06:35,479 --> 00:06:37,400
+folks have done math and figured out
+
+155
+00:06:37,400 --> 00:06:39,800
+like how many miles long the renal
+
+156
+00:06:39,800 --> 00:06:42,319
+tubules have to be and somebody goes and
+
+157
+00:06:42,319 --> 00:06:44,720
+studies it and it's exactly as you
+
+158
+00:06:44,720 --> 00:06:47,080
+expect it isn't nature wonderful no
+
+159
+00:06:47,080 --> 00:06:49,160
+nature isn't wonderful you couldn't have
+
+160
+00:06:49,160 --> 00:06:51,120
+giraffes unless they had hearts that
+
+161
+00:06:51,120 --> 00:06:53,160
+were that big you couldn't have rodents
+
+162
+00:06:53,160 --> 00:06:54,759
+living in the desert unless they had
+
+163
+00:06:54,759 --> 00:06:56,879
+kidneys that worked in a certain way
+
+164
+00:06:56,879 --> 00:07:00,680
+there is an inevitable logic about how
+
+165
+00:07:00,680 --> 00:07:03,319
+organisms function how organisms are
+
+166
+00:07:03,319 --> 00:07:06,440
+built how organisms have evolved solving
+
+167
+00:07:06,440 --> 00:07:09,199
+this problem of optimizing a solution
+
+168
+00:07:09,199 --> 00:07:11,160
+and what the next two lectures are about
+
+169
+00:07:11,160 --> 00:07:13,199
+is you can take the same exact
+
+170
+00:07:13,199 --> 00:07:15,680
+principles and apply them to thinking
+
+171
+00:07:15,680 --> 00:07:18,720
+about the evolution of behavior the same
+
+172
+00:07:18,720 --> 00:07:20,879
+sort of logic where just as you could
+
+173
+00:07:20,879 --> 00:07:23,039
+sit there and with logical principles
+
+174
+00:07:23,039 --> 00:07:25,800
+come to the point of saying a giraffe's
+
+175
+00:07:25,800 --> 00:07:28,039
+heart is going to be this big you can go
+
+176
+00:07:28,039 --> 00:07:30,000
+through a different realm of logic built
+
+177
+00:07:30,000 --> 00:07:32,160
+around evolutionary principles and
+
+178
+00:07:32,160 --> 00:07:34,319
+figure out all sorts of
+
+179
+00:07:34,319 --> 00:07:37,160
+aspects of social behavior and we
+
+180
+00:07:37,160 --> 00:07:39,680
+already know what's involved in say
+
+181
+00:07:39,680 --> 00:07:41,960
+optimizing what's the optimal number of
+
+182
+00:07:41,960 --> 00:07:43,960
+whatever is in your kidney what's the
+
+183
+00:07:43,960 --> 00:07:46,639
+optimal Behavior strategy or something
+
+184
+00:07:46,639 --> 00:07:48,720
+all of us as soon as we got like some
+
+185
+00:07:48,720 --> 00:07:51,080
+kid sibling learned how to do the
+
+186
+00:07:51,080 --> 00:07:54,319
+optimal strategy and Tic-tac-toe and so
+
+187
+00:07:54,319 --> 00:07:55,800
+that you could never lose and it's
+
+188
+00:07:55,800 --> 00:07:58,039
+totally boring but that's a case of
+
+189
+00:07:58,039 --> 00:08:00,599
+figuring out the optimal solution to
+
+190
+00:08:00,599 --> 00:08:02,240
+behavior reaching what is called the
+
+191
+00:08:02,240 --> 00:08:05,159
+Nash equilibrium and actually I have no
+
+192
+00:08:05,159 --> 00:08:07,039
+idea what I just said but I like making
+
+193
+00:08:07,039 --> 00:08:09,039
+reference to Nash because it makes me
+
+194
+00:08:09,039 --> 00:08:11,720
+feel quantitative or something so that
+
+195
+00:08:11,720 --> 00:08:15,120
+is called the Nash equilibrium the Nash
+
+196
+00:08:15,120 --> 00:08:17,159
+equilibrium and what the entire Point
+
+197
+00:08:17,159 --> 00:08:19,879
+here is the same sort of process of
+
+198
+00:08:19,879 --> 00:08:22,120
+figuring out what are the rules of
+
+199
+00:08:22,120 --> 00:08:25,199
+optimizing Tic Tac Toe Behavior can be
+
+200
+00:08:25,199 --> 00:08:27,599
+built upon the principles Evolution to
+
+201
+00:08:27,599 --> 00:08:30,319
+figure out all sorts of realms of
+
+202
+00:08:30,319 --> 00:08:33,839
+optimized social behavior and broadly
+
+203
+00:08:33,839 --> 00:08:36,120
+this is a field that's known as
+
+204
+00:08:36,120 --> 00:08:39,799
+sociobiology emerging in the late 1970s
+
+205
+00:08:39,799 --> 00:08:42,958
+mid 1970s or so and by the late 1980s
+
+206
+00:08:42,958 --> 00:08:45,160
+giving birth to another discipline known
+
+207
+00:08:45,160 --> 00:08:48,040
+as evolutionary psychology the notion
+
+208
+00:08:48,040 --> 00:08:51,000
+that you cannot understand behavior and
+
+209
+00:08:51,000 --> 00:08:53,000
+you cannot understand internal
+
+210
+00:08:53,000 --> 00:08:55,959
+psychological States outside the context
+
+211
+00:08:55,959 --> 00:08:57,959
+of evolution had something to do with
+
+212
+00:08:57,959 --> 00:08:59,440
+sculpting those behaviors and those
+
+213
+00:08:59,440 --> 00:09:02,440
+those psyches so to start off with that
+
+214
+00:09:02,440 --> 00:09:04,560
+basic song and dance about Darwin just
+
+215
+00:09:04,560 --> 00:09:07,040
+to make sure we're up to speed on this
+
+216
+00:09:07,040 --> 00:09:09,240
+Darwin just to get some things out of
+
+217
+00:09:09,240 --> 00:09:11,360
+the way Darwin did not discover
+
+218
+00:09:11,360 --> 00:09:13,240
+Evolution people knew about Evolution
+
+219
+00:09:13,240 --> 00:09:15,600
+long before that Darwin came up with the
+
+220
+00:09:15,600 --> 00:09:17,720
+notion of a mechanism for evolution
+
+221
+00:09:17,720 --> 00:09:20,680
+natural selection and in fact Darwin is
+
+222
+00:09:20,680 --> 00:09:23,279
+the inventor of that there was another
+
+223
+00:09:23,279 --> 00:09:25,440
+guy Alfred Russell Wallace the two of
+
+224
+00:09:25,440 --> 00:09:27,279
+them and for some reason Wallace has
+
+225
+00:09:27,279 --> 00:09:29,120
+gotten screwed historically and Darwin
+
+226
+00:09:29,120 --> 00:09:31,519
+gets much more attention but starting
+
+227
+00:09:31,519 --> 00:09:34,079
+off with a darwinian view of how
+
+228
+00:09:34,079 --> 00:09:36,880
+Evolution works first thing being that
+
+229
+00:09:36,880 --> 00:09:40,279
+there is evolution traits in populations
+
+230
+00:09:40,279 --> 00:09:42,880
+change over time traits can change
+
+231
+00:09:42,880 --> 00:09:44,839
+enough that in fact you will get
+
+232
+00:09:44,839 --> 00:09:48,120
+speciation new species will form and the
+
+233
+00:09:48,120 --> 00:09:51,519
+logic of darwinian evolution is built on
+
+234
+00:09:51,519 --> 00:09:54,480
+just a few couple of very reasonable
+
+235
+00:09:54,480 --> 00:09:58,160
+steps first one is that there are traits
+
+236
+00:09:58,160 --> 00:09:59,959
+that are heritable
+
+237
+00:09:59,959 --> 00:10:01,959
+traits that could be passed on one
+
+238
+00:10:01,959 --> 00:10:04,360
+generation to the next traits that we
+
+239
+00:10:04,360 --> 00:10:06,200
+now can translate in our modern
+
+240
+00:10:06,200 --> 00:10:09,240
+paraments into traits that are genetic
+
+241
+00:10:09,240 --> 00:10:11,399
+and we will see soon how that's totally
+
+242
+00:10:11,399 --> 00:10:13,519
+not correct to have said that but traits
+
+243
+00:10:13,519 --> 00:10:14,440
+that are
+
+244
+00:10:14,440 --> 00:10:17,120
+heritable the next thing is that there
+
+245
+00:10:17,120 --> 00:10:20,240
+is variability among those traits
+
+246
+00:10:20,240 --> 00:10:22,440
+there's different ways in which this
+
+247
+00:10:22,440 --> 00:10:25,839
+trait can occur and they're all
+
+248
+00:10:25,839 --> 00:10:29,360
+heritable the next critical thing some
+
+249
+00:10:29,360 --> 00:10:31,920
+versions of those traits are more
+
+250
+00:10:31,920 --> 00:10:35,279
+adaptive than others some versions work
+
+251
+00:10:35,279 --> 00:10:38,200
+better for you for example giraffe who
+
+252
+00:10:38,200 --> 00:10:40,200
+wind up with hearts the size of like a
+
+253
+00:10:40,200 --> 00:10:42,839
+tomato that's not an optimal version
+
+254
+00:10:42,839 --> 00:10:45,839
+amid the range of variability some will
+
+255
+00:10:45,839 --> 00:10:48,519
+carry with them more Fitness more
+
+256
+00:10:48,519 --> 00:10:51,720
+adaptiveness than others and that
+
+257
+00:10:51,720 --> 00:10:53,480
+translates into another sound bite
+
+258
+00:10:53,480 --> 00:10:55,560
+that's got to be gotten rid of all of
+
+259
+00:10:55,560 --> 00:10:58,560
+this is not about survival of the most
+
+260
+00:10:58,560 --> 00:11:01,000
+adapted it's about reproduction of
+
+261
+00:11:01,000 --> 00:11:02,800
+something we will come to over and over
+
+262
+00:11:02,800 --> 00:11:05,040
+again it's about the number of copies of
+
+263
+00:11:05,040 --> 00:11:07,200
+genes you leave in the next Generation
+
+264
+00:11:07,200 --> 00:11:08,519
+so you've got to have traits that are
+
+265
+00:11:08,519 --> 00:11:10,920
+heritable there's got to be variability
+
+266
+00:11:10,920 --> 00:11:13,600
+in them some of those traits are more
+
+267
+00:11:13,600 --> 00:11:15,200
+adaptive than others some of those
+
+268
+00:11:15,200 --> 00:11:17,040
+traits make it more likely that that
+
+269
+00:11:17,040 --> 00:11:19,760
+organism passes on copies of its genes
+
+270
+00:11:19,760 --> 00:11:22,120
+into the Next Generation and throw those
+
+271
+00:11:22,120 --> 00:11:24,320
+three pieces together and what you will
+
+272
+00:11:24,320 --> 00:11:27,560
+get is evolution in populations changing
+
+273
+00:11:27,560 --> 00:11:30,120
+frequencies of traits and when you throw
+
+274
+00:11:30,120 --> 00:11:32,680
+in one additional piece which is every
+
+275
+00:11:32,680 --> 00:11:35,160
+now and then the possibility to have a
+
+276
+00:11:35,160 --> 00:11:37,560
+random introduction of a new type of
+
+277
+00:11:37,560 --> 00:11:41,320
+trait in there modern parland a mutation
+
+278
+00:11:41,320 --> 00:11:44,279
+from that you could begin to get actual
+
+279
+00:11:44,279 --> 00:11:46,839
+large changes in what a population looks
+
+280
+00:11:46,839 --> 00:11:49,279
+like okay so these are the basic
+
+281
+00:11:49,279 --> 00:11:51,480
+building blocks of Darwin and it is easy
+
+282
+00:11:51,480 --> 00:11:53,760
+to apply to giraffe's hearts and kidneys
+
+283
+00:11:53,760 --> 00:11:55,959
+of Desert Rats and everything we think
+
+284
+00:11:55,959 --> 00:11:59,360
+about in the world of physiology Anatomy
+
+285
+00:11:59,360 --> 00:12:02,120
+in the context of evolution so how do
+
+286
+00:12:02,120 --> 00:12:04,800
+you apply it to behavior and the basic
+
+287
+00:12:04,800 --> 00:12:06,720
+notion for folks who want to come from
+
+288
+00:12:06,720 --> 00:12:08,480
+this Darwin in Tradition into thinking
+
+289
+00:12:08,480 --> 00:12:10,600
+about behavior is you do the exact same
+
+290
+00:12:10,600 --> 00:12:13,800
+thing there are behaviors that are
+
+291
+00:12:13,800 --> 00:12:16,560
+heritable types traits classes of
+
+292
+00:12:16,560 --> 00:12:18,800
+behaviors they come with a certain
+
+293
+00:12:18,800 --> 00:12:21,120
+degree of variation among individuals
+
+294
+00:12:21,120 --> 00:12:23,839
+some versions of them are more adaptive
+
+295
+00:12:23,839 --> 00:12:26,560
+than others over time the more adaptive
+
+296
+00:12:26,560 --> 00:12:28,959
+versions will become more commonplace
+
+297
+00:12:28,959 --> 00:12:30,519
+and every now and then you can have
+
+298
+00:12:30,519 --> 00:12:33,440
+mutations that introduce new variability
+
+299
+00:12:33,440 --> 00:12:36,600
+totally logical absolutely unassailable
+
+300
+00:12:36,600 --> 00:12:38,399
+and what we're going to spend an insane
+
+301
+00:12:38,399 --> 00:12:41,000
+amount of time in this class on is one
+
+302
+00:12:41,000 --> 00:12:43,920
+simple assumption in there which is that
+
+303
+00:12:43,920 --> 00:12:46,320
+certain behaviors are heritable that
+
+304
+00:12:46,320 --> 00:12:48,000
+certain behaviors have genetic
+
+305
+00:12:48,000 --> 00:12:50,240
+components and as you'll see this one is
+
+306
+00:12:50,240 --> 00:12:52,480
+just going to run through every lecture
+
+307
+00:12:52,480 --> 00:12:55,440
+wrestling with that issue there this is
+
+308
+00:12:55,440 --> 00:12:59,399
+a big incendiary issue there as to how
+
+309
+00:12:59,399 --> 00:13:01,480
+genetic and that's not the same thing as
+
+310
+00:13:01,480 --> 00:13:03,800
+saying how genetically determined how
+
+311
+00:13:03,800 --> 00:13:07,519
+genetic behavior is okay so that's going
+
+312
+00:13:07,519 --> 00:13:10,199
+to be a issue we come back to again and
+
+313
+00:13:10,199 --> 00:13:13,079
+again so now transitioning into how you
+
+314
+00:13:13,079 --> 00:13:16,639
+would apply these darwinian principles
+
+315
+00:13:16,639 --> 00:13:19,440
+first thing before starting a caveat
+
+316
+00:13:19,440 --> 00:13:20,959
+you're going to wind up in order to
+
+317
+00:13:20,959 --> 00:13:23,240
+think about all of this most efficiently
+
+318
+00:13:23,240 --> 00:13:25,120
+hopefully do some personifying
+
+319
+00:13:25,120 --> 00:13:27,320
+personifying as in you'll sit around and
+
+320
+00:13:27,320 --> 00:13:29,959
+saying well what would a female
+
+321
+00:13:29,959 --> 00:13:31,680
+chimpanzee want to do at this point to
+
+322
+00:13:31,680 --> 00:13:33,120
+optimize the number of copies of her
+
+323
+00:13:33,120 --> 00:13:35,440
+jees in the Next Generation what would
+
+324
+00:13:35,440 --> 00:13:37,680
+this brine shrimp want to do to deal
+
+325
+00:13:37,680 --> 00:13:39,639
+with this environmental stressor what
+
+326
+00:13:39,639 --> 00:13:42,639
+would this you know cherry tree do
+
+327
+00:13:42,639 --> 00:13:44,199
+they're not planning they are not
+
+328
+00:13:44,199 --> 00:13:45,760
+conscious they're not taking classes in
+
+329
+00:13:45,760 --> 00:13:48,040
+evolutionary biology what would this
+
+330
+00:13:48,040 --> 00:13:51,360
+organism want to do is just a shorthand
+
+331
+00:13:51,360 --> 00:13:54,320
+for something sculpted by the sort of
+
+332
+00:13:54,320 --> 00:13:57,160
+exigencies of evolution and producing
+
+333
+00:13:57,160 --> 00:13:59,800
+the optimal they wanted do this this is
+
+334
+00:13:59,800 --> 00:14:01,959
+just going to be a shorthand throughout
+
+335
+00:14:01,959 --> 00:14:04,399
+once you get past the Apes nobody is
+
+336
+00:14:04,399 --> 00:14:06,480
+wanting to do any of these optimization
+
+337
+00:14:06,480 --> 00:14:08,079
+things so just getting that sort of
+
+338
+00:14:08,079 --> 00:14:10,920
+terminology out of the way okay so we
+
+339
+00:14:10,920 --> 00:14:13,120
+start off with what's the first building
+
+340
+00:14:13,120 --> 00:14:15,920
+block of applying darwinian principles
+
+341
+00:14:15,920 --> 00:14:19,240
+to behavior something that is absolutely
+
+342
+00:14:19,240 --> 00:14:20,920
+critical to emphasize because the first
+
+343
+00:14:20,920 --> 00:14:23,199
+thing we all need to do is unlearn
+
+344
+00:14:23,199 --> 00:14:25,519
+something we all learned back when on
+
+345
+00:14:25,519 --> 00:14:28,000
+all those National Geographic specials
+
+346
+00:14:28,000 --> 00:14:30,199
+and that would consist instantly teach
+
+347
+00:14:30,199 --> 00:14:31,759
+us something about this aspect of
+
+348
+00:14:31,759 --> 00:14:33,639
+evolution and would always teach it to
+
+349
+00:14:33,639 --> 00:14:36,720
+us wrong here's the scenario so you're
+
+350
+00:14:36,720 --> 00:14:38,399
+watching and there's this Wildlife
+
+351
+00:14:38,399 --> 00:14:40,800
+documentary it's it's Dawn on the
+
+352
+00:14:40,800 --> 00:14:43,360
+Savannah and you see there's a whole
+
+353
+00:14:43,360 --> 00:14:45,920
+bunch of lions on top of some big old
+
+354
+00:14:45,920 --> 00:14:48,560
+dead thing some Buffalo or something and
+
+355
+00:14:48,560 --> 00:14:52,079
+they're chewing away and having a fine
+
+356
+00:14:52,079 --> 00:14:55,880
+time so something happens at that point
+
+357
+00:14:55,880 --> 00:14:59,120
+which is they have to deal with how they
+
+358
+00:14:59,120 --> 00:15:01,759
+divvy up the food or let me give you
+
+359
+00:15:01,759 --> 00:15:04,279
+another example another standard sort of
+
+360
+00:15:04,279 --> 00:15:06,720
+endless vignette that comes up in these
+
+361
+00:15:06,720 --> 00:15:09,279
+films once again now you're back on the
+
+362
+00:15:09,279 --> 00:15:11,360
+Savannah it's not dawn this time but you
+
+363
+00:15:11,360 --> 00:15:13,320
+are looking at one of the Magnificent
+
+364
+00:15:13,320 --> 00:15:15,759
+things of the natural world which is the
+
+365
+00:15:15,759 --> 00:15:18,040
+migration of zebras throughout East
+
+366
+00:15:18,040 --> 00:15:20,160
+Africa a herd of two million of them
+
+367
+00:15:20,160 --> 00:15:22,560
+migrate around following a cyclical
+
+368
+00:15:22,560 --> 00:15:24,600
+pattern of rains so they're always going
+
+369
+00:15:24,600 --> 00:15:26,600
+where the grass is greener so you've got
+
+370
+00:15:26,600 --> 00:15:28,079
+this wonderful herd of 2 million
+
+371
+00:15:28,079 --> 00:15:30,600
+wilderbeast and there's a problem which
+
+372
+00:15:30,600 --> 00:15:32,759
+is there's some great field right in
+
+373
+00:15:32,759 --> 00:15:35,560
+front of them full of grass and bummer
+
+374
+00:15:35,560 --> 00:15:37,319
+there's a river in between them in the
+
+375
+00:15:37,319 --> 00:15:40,040
+next field and especially a bummer a
+
+376
+00:15:40,040 --> 00:15:42,680
+river teaming with crocodiles just ready
+
+377
+00:15:42,680 --> 00:15:46,000
+to grab them so what are the wilderbeast
+
+378
+00:15:46,000 --> 00:15:48,519
+going to do and according to the
+
+379
+00:15:48,519 --> 00:15:50,519
+National Geographic type specials we
+
+380
+00:15:50,519 --> 00:15:52,600
+would get out would come a solution
+
+381
+00:15:52,600 --> 00:15:54,720
+there's all the wilderbeast hemming and
+
+382
+00:15:54,720 --> 00:15:57,279
+ha in this agitated state by the end
+
+383
+00:15:57,279 --> 00:15:59,800
+edge of the river and suddenly from the
+
+384
+00:15:59,800 --> 00:16:02,279
+back of the crowd comes this elderly
+
+385
+00:16:02,279 --> 00:16:04,720
+wilderbeast who pushes his way up to the
+
+386
+00:16:04,720 --> 00:16:06,480
+front stands on the edge of the river
+
+387
+00:16:06,480 --> 00:16:09,240
+and says I sacrifice myself for you mind
+
+388
+00:16:09,240 --> 00:16:12,040
+Kinder and throws himself into the river
+
+389
+00:16:12,040 --> 00:16:14,319
+where immediately the Crocs get busy
+
+390
+00:16:14,319 --> 00:16:16,160
+eating him up and the other two million
+
+391
+00:16:16,160 --> 00:16:17,680
+wilderbeast could tiptoe around the
+
+392
+00:16:17,680 --> 00:16:18,880
+other way across the river and
+
+393
+00:16:18,880 --> 00:16:21,680
+everybody's fine and you're then saying
+
+394
+00:16:21,680 --> 00:16:24,120
+why' this guy do this why did this guy
+
+395
+00:16:24,120 --> 00:16:26,040
+fling himself into the river and we
+
+396
+00:16:26,040 --> 00:16:28,519
+would always get the answer at that
+
+397
+00:16:28,519 --> 00:16:31,399
+point the answer that is permeated as
+
+398
+00:16:31,399 --> 00:16:34,120
+like the worst Urban myth of evolution
+
+399
+00:16:34,120 --> 00:16:36,680
+whatever why did he do that because
+
+400
+00:16:36,680 --> 00:16:39,680
+animals behave for the good of the
+
+401
+00:16:39,680 --> 00:16:42,279
+species this is the notion that has to
+
+402
+00:16:42,279 --> 00:16:45,120
+be completely trashed right now animals
+
+403
+00:16:45,120 --> 00:16:47,360
+behaving for the good of the species
+
+404
+00:16:47,360 --> 00:16:49,240
+really came to the Forefront a guy in
+
+405
+00:16:49,240 --> 00:16:51,720
+the early 60s named win Edwards
+
+406
+00:16:51,720 --> 00:16:54,639
+hyphenated win Edwards some hyphenated
+
+407
+00:16:54,639 --> 00:16:57,880
+Brit zoologist Who pushed most strongly
+
+408
+00:16:57,880 --> 00:17:01,240
+this notion of of that animals behave
+
+409
+00:17:01,240 --> 00:17:04,079
+for the you know good of the species he
+
+410
+00:17:04,079 --> 00:17:07,039
+is reviled throughout every textbook wi
+
+411
+00:17:07,039 --> 00:17:08,839
+Edwards and group selection that would
+
+412
+00:17:08,839 --> 00:17:11,079
+be the term selection for the good of
+
+413
+00:17:11,079 --> 00:17:12,839
+groups for the selection for the good of
+
+414
+00:17:12,839 --> 00:17:15,039
+the species win Edward and group
+
+415
+00:17:15,039 --> 00:17:17,359
+selection I'm sure the GU did all sorts
+
+416
+00:17:17,359 --> 00:17:20,000
+of other useful things and anyone who
+
+417
+00:17:20,000 --> 00:17:21,919
+really is has any depth to them would
+
+418
+00:17:21,919 --> 00:17:23,720
+find out but all I know is that the guy
+
+419
+00:17:23,720 --> 00:17:25,240
+is the one who came up with group
+
+420
+00:17:25,240 --> 00:17:28,359
+selection animals behave for the good of
+
+421
+00:17:28,359 --> 00:17:29,640
+the species
+
+422
+00:17:29,640 --> 00:17:32,320
+this isn't the case at all animals
+
+423
+00:17:32,320 --> 00:17:35,400
+behave for passing on as many copies of
+
+424
+00:17:35,400 --> 00:17:37,880
+their genes as possible and what we'll
+
+425
+00:17:37,880 --> 00:17:39,960
+see is when you start looking at the
+
+426
+00:17:39,960 --> 00:17:42,840
+nuances of that sometimes it may look
+
+427
+00:17:42,840 --> 00:17:44,520
+like behaving for the good of the
+
+428
+00:17:44,520 --> 00:17:48,000
+species but it really isn't the case so
+
+429
+00:17:48,000 --> 00:17:51,320
+animals behave in order to maximize the
+
+430
+00:17:51,320 --> 00:17:52,960
+number of copies of genes they leave in
+
+431
+00:17:52,960 --> 00:17:55,320
+the next Generation remember not surviv
+
+432
+00:17:55,320 --> 00:17:56,760
+with the fittest reproduction to the
+
+433
+00:17:56,760 --> 00:17:59,400
+fittest so first thing you need to to do
+
+434
+00:17:59,400 --> 00:18:02,360
+is go back to that vignette and saying
+
+435
+00:18:02,360 --> 00:18:04,039
+uh so what's up with the wilderbeast
+
+436
+00:18:04,039 --> 00:18:05,799
+there and what's up with the elderly guy
+
+437
+00:18:05,799 --> 00:18:08,679
+who jumps in the river and finally when
+
+438
+00:18:08,679 --> 00:18:10,480
+you look at them long enough instead of
+
+439
+00:18:10,480 --> 00:18:12,760
+the camera crew showing up for 3 minutes
+
+440
+00:18:12,760 --> 00:18:14,799
+when you study this closely enough you
+
+441
+00:18:14,799 --> 00:18:16,880
+see something that wasn't Apparent at
+
+442
+00:18:16,880 --> 00:18:19,880
+first which is this elderly wilderbeast
+
+443
+00:18:19,880 --> 00:18:21,720
+is not fighting his way through the
+
+444
+00:18:21,720 --> 00:18:24,440
+crowd this guy is being pushed from
+
+445
+00:18:24,440 --> 00:18:26,559
+behind this guy is being pushed from
+
+446
+00:18:26,559 --> 00:18:28,200
+behind because all the other ones are
+
+447
+00:18:28,200 --> 00:18:30,120
+saying yeah yeah get the old guy on The
+
+448
+00:18:30,120 --> 00:18:33,000
+River sacrificing himself my ass this
+
+449
+00:18:33,000 --> 00:18:35,000
+guy is getting pushed in by everybody
+
+450
+00:18:35,000 --> 00:18:37,360
+else he is not sacrificing himself for
+
+451
+00:18:37,360 --> 00:18:39,320
+the good of the species he does not like
+
+452
+00:18:39,320 --> 00:18:42,360
+the idea of this whatsoever so he gets
+
+453
+00:18:42,360 --> 00:18:44,480
+pushed in because the old weak guy none
+
+454
+00:18:44,480 --> 00:18:46,960
+of this group selection stuff what came
+
+455
+00:18:46,960 --> 00:18:49,960
+in by the 70s as a replacement a way to
+
+456
+00:18:49,960 --> 00:18:52,480
+think about this is this notion of
+
+457
+00:18:52,480 --> 00:18:55,159
+animals including us behaving not for
+
+458
+00:18:55,159 --> 00:18:56,640
+the good of the species of the group but
+
+459
+00:18:56,640 --> 00:18:58,799
+to maximize number of copies of genes
+
+460
+00:18:58,799 --> 00:19:01,600
+left in the Next Generation and what you
+
+461
+00:19:01,600 --> 00:19:04,039
+see is three ways in which this could
+
+462
+00:19:04,039 --> 00:19:06,880
+occur three building blocks the first
+
+463
+00:19:06,880 --> 00:19:11,000
+one being known as individual selection
+
+464
+00:19:11,000 --> 00:19:13,120
+the first one built around the notion
+
+465
+00:19:13,120 --> 00:19:15,640
+that sometimes the behavior of an animal
+
+466
+00:19:15,640 --> 00:19:17,840
+is meant to optimize the number of
+
+467
+00:19:17,840 --> 00:19:19,679
+copies of its genes that it leaves in
+
+468
+00:19:19,679 --> 00:19:22,559
+the Next Generation by itself
+
+469
+00:19:22,559 --> 00:19:25,280
+reproducing the drive to reproduce the
+
+470
+00:19:25,280 --> 00:19:27,120
+drive to leave more copies of one's
+
+471
+00:19:27,120 --> 00:19:30,480
+genes this was one summarized really sort
+
+472
+00:19:30,480 --> 00:19:34,840
+of tersely as sometimes a chicken is an
+
+473
+00:19:34,840 --> 00:19:36,960
+egg's way of making another
+
+474
+00:19:36,960 --> 00:19:40,840
+chicken. No, that's backwards.
+
+475
+00:19:40,840 --> 00:19:43,159
+Sometimes a chicken is an egg's way of
+
+476
+00:19:43,159 --> 00:19:46,240
+making another egg. Okay, ignore that
+
+477
+00:19:46,240 --> 00:19:49,159
+sometimes what the guy said is sometimes
+
+478
+00:19:49,159 --> 00:19:51,200
+a chicken is an egg's way of making
+
+479
+00:19:51,200 --> 00:19:54,640
+another egg. All this behavior stuff and
+
+480
+00:19:54,640 --> 00:19:57,080
+all this animate sort of social
+
+481
+00:19:57,080 --> 00:19:59,720
+interaction is just an epiphenomenon to
+
+482
+00:19:59,720 --> 00:20:02,280
+get more copies of the genes into the
+
+483
+00:20:02,280 --> 00:20:05,679
+next generation. Individual selection a
+
+484
+00:20:05,679 --> 00:20:08,080
+subset of way of thinking about this is
+
+485
+00:20:08,080 --> 00:20:11,360
+selfish genes what behavior is about is
+
+486
+00:20:11,360 --> 00:20:13,600
+maximizing number of copies of genes in
+
+487
+00:20:13,600 --> 00:20:16,280
+the next generation and sometimes the
+
+488
+00:20:16,280 --> 00:20:18,159
+best way to do it sometimes the way that
+
+489
+00:20:18,159 --> 00:20:20,720
+animals maximize is to get as many
+
+490
+00:20:20,720 --> 00:20:23,400
+copies by way of reproducing themselves.
+
+491
+00:20:23,400 --> 00:20:25,280
+It's not quite equivalent to a selfish
+
+492
+00:20:25,280 --> 00:20:28,120
+gene but for our purposes individual
+
+493
+00:20:28,120 --> 00:20:29,520
+selection.
+
+494
+00:20:29,520 --> 00:20:31,200
+and this can play out in a number of
+
+495
+00:20:31,200 --> 00:20:33,720
+Realms and bringing in sort of a big
+
+496
+00:20:33,720 --> 00:20:35,039
+dichotomy and thinking about
+
+497
+00:20:35,039 --> 00:20:37,240
+evolutionary pressures Darwin and the
+
+498
+00:20:37,240 --> 00:20:40,039
+theory of natural selection what natural
+
+499
+00:20:40,039 --> 00:20:43,080
+selection is about is processes bringing
+
+500
+00:20:43,080 --> 00:20:46,200
+about an organism who is more adaptive
+
+501
+00:20:46,200 --> 00:20:48,240
+what we just went through. Darwin soon
+
+502
+00:20:48,240 --> 00:20:50,120
+recognized there was a second realm of
+
+503
+00:20:50,120 --> 00:20:52,120
+selection which he called sexual
+
+504
+00:20:52,120 --> 00:20:54,880
+selection and what that one's about is
+
+505
+00:20:54,880 --> 00:20:57,200
+this is selecting for traits that have
+
+506
+00:20:57,200 --> 00:20:59,520
+no value whatsoever ever in terms of
+
+507
+00:20:59,520 --> 00:21:01,880
+survival or anything like that traits
+
+508
+00:21:01,880 --> 00:21:04,360
+that carry no adaptive value but for
+
+509
+00:21:04,360 --> 00:21:07,400
+some random, bizarro reason the opposite
+
+510
+00:21:07,400 --> 00:21:10,720
+sex likes folks who look this way so
+
+511
+00:21:10,720 --> 00:21:12,360
+they get to leave more copies of their
+
+512
+00:21:12,360 --> 00:21:14,400
+genes and suddenly you could have
+
+513
+00:21:14,400 --> 00:21:17,039
+natural selection bringing about big
+
+514
+00:21:17,039 --> 00:21:19,960
+sharp antlers and male moose and they
+
+515
+00:21:19,960 --> 00:21:23,000
+use that for fighting off Predators or
+
+516
+00:21:23,000 --> 00:21:24,559
+fighting with the male that would be
+
+517
+00:21:24,559 --> 00:21:27,640
+natural selection sexual selection might
+
+518
+00:21:27,640 --> 00:21:29,400
+account for the fact that like the
+
+519
+00:21:29,400 --> 00:21:32,159
+antlers or green paisley patterns all
+
+520
+00:21:32,159 --> 00:21:34,679
+over for that and for some reason that
+
+521
+00:21:34,679 --> 00:21:37,919
+looks cool to female moose mooses and
+
+522
+00:21:37,919 --> 00:21:39,640
+what you wind up getting as a mechanism
+
+523
+00:21:39,640 --> 00:21:42,679
+for sexual selection is as long as
+
+524
+00:21:42,679 --> 00:21:44,840
+individuals prefer to mate with
+
+525
+00:21:44,840 --> 00:21:47,000
+individuals with some completely
+
+526
+00:21:47,000 --> 00:21:50,159
+arbitrary traits those traits will also
+
+527
+00:21:50,159 --> 00:21:53,360
+become more common so this dichotomy of
+
+528
+00:21:53,360 --> 00:21:56,159
+natural selection for traits driven by
+
+529
+00:21:56,159 --> 00:21:59,559
+traits that really do Aid leaving copies
+
+530
+00:21:59,559 --> 00:22:01,919
+of genes outside the realm of just sheer
+
+531
+00:22:01,919 --> 00:22:04,840
+sexual preference sexual selection and
+
+532
+00:22:04,840 --> 00:22:06,240
+sometimes they can go in absolutely
+
+533
+00:22:06,240 --> 00:22:08,600
+opposite directions you can get some
+
+534
+00:22:08,600 --> 00:22:12,600
+species where the female fish prefer
+
+535
+00:22:12,600 --> 00:22:14,480
+male fish that have very bright
+
+536
+00:22:14,480 --> 00:22:16,919
+coloration and that's advantageous then
+
+537
+00:22:16,919 --> 00:22:18,440
+to have the bright coloration by means
+
+538
+00:22:18,440 --> 00:22:20,360
+of sexual selection but the bright
+
+539
+00:22:20,360 --> 00:22:22,080
+coloration makes you more likely to get
+
+540
+00:22:22,080 --> 00:22:24,480
+predated by some other fish natural
+
+541
+00:22:24,480 --> 00:22:26,440
+selection pushing against bright
+
+542
+00:22:26,440 --> 00:22:28,880
+coloration in males very often often
+
+543
+00:22:28,880 --> 00:22:30,600
+you've got the two going against each
+
+544
+00:22:30,600 --> 00:22:33,320
+other having to balance so how would
+
+545
+00:22:33,320 --> 00:22:35,360
+that be applied in this realm of
+
+546
+00:22:35,360 --> 00:22:37,960
+individual selection this first building
+
+547
+00:22:37,960 --> 00:22:42,120
+block sometimes an egg damn sometimes a
+
+548
+00:22:42,120 --> 00:22:43,480
+chicken is an egg's way of making
+
+549
+00:22:43,480 --> 00:22:45,440
+another egg sometimes what behavior is
+
+550
+00:22:45,440 --> 00:22:47,720
+about is one individual trying to
+
+551
+00:22:47,720 --> 00:22:49,240
+maximize the number of copies of their
+
+552
+00:22:49,240 --> 00:22:51,520
+genes in the Next Generation a natural
+
+553
+00:22:51,520 --> 00:22:53,720
+selection manifestation of it being
+
+554
+00:22:53,720 --> 00:22:55,400
+you're good at running away from
+
+555
+00:22:55,400 --> 00:22:58,480
+predators selection for speed for
+
+556
+00:22:58,480 --> 00:23:00,360
+certain types of muscle metabolism for
+
+557
+00:23:00,360 --> 00:23:02,919
+certain sensory systems that will tell
+
+558
+00:23:02,919 --> 00:23:05,080
+you there's somebody scary around that
+
+559
+00:23:05,080 --> 00:23:07,960
+would be the realm of that. Individual
+
+560
+00:23:07,960 --> 00:23:09,799
+selection selecting in the realm of
+
+561
+00:23:09,799 --> 00:23:11,720
+sexual selection to have more of
+
+562
+00:23:11,720 --> 00:23:13,279
+whatever those traits are that are
+
+563
+00:23:13,279 --> 00:23:16,279
+attractive so this first building block
+
+564
+00:23:16,279 --> 00:23:17,880
+it's not group selection it's not
+
+565
+00:23:17,880 --> 00:23:19,600
+behaving for the good of the species
+
+566
+00:23:19,600 --> 00:23:21,320
+it's behaving to maximize the number of
+
+567
+00:23:21,320 --> 00:23:22,720
+copies of one's genes in the Next
+
+568
+00:23:22,720 --> 00:23:24,679
+Generation and the most straightforward
+
+569
+00:23:24,679 --> 00:23:27,400
+way is to behave in a way to maximize
+
+570
+00:23:27,400 --> 00:23:30,240
+the number of times you reproduce
+
+571
+00:23:30,240 --> 00:23:33,640
+yourself second building block which is
+
+572
+00:23:33,640 --> 00:23:35,799
+there's another way of accomplishing the
+
+573
+00:23:35,799 --> 00:23:37,760
+same thing that you just did with
+
+574
+00:23:37,760 --> 00:23:40,840
+individual selection as follows one of
+
+575
+00:23:40,840 --> 00:23:42,600
+the things that could be relied upon in
+
+576
+00:23:42,600 --> 00:23:44,679
+life is that you are related to your
+
+577
+00:23:44,679 --> 00:23:48,240
+relatives and what you get is the more
+
+578
+00:23:48,240 --> 00:23:50,919
+closely related you are the more genes
+
+579
+00:23:50,919 --> 00:23:52,960
+you share in common with them on a
+
+580
+00:23:52,960 --> 00:23:55,799
+statistical level identical twins share
+
+581
+00:23:55,799 --> 00:23:59,559
+100% of their genes full siblings 50%
+
+582
+00:23:59,559 --> 00:24:02,159
+half siblings 25% this is exactly
+
+583
+00:24:02,159 --> 00:24:03,440
+something that's going to be covered in
+
+584
+00:24:03,440 --> 00:24:05,440
+the catchup section this week if you're
+
+585
+00:24:05,440 --> 00:24:07,120
+not comfortable with this stuff, this
+
+586
+00:24:07,120 --> 00:24:08,679
+sort of thing will be reviewed in more
+
+587
+00:24:08,679 --> 00:24:11,720
+detail okay so the closer a relative is
+
+588
+00:24:11,720 --> 00:24:14,520
+to you the more copies... the more
+
+589
+00:24:14,520 --> 00:24:17,880
+genes they share in common with you. So
+
+590
+00:24:17,880 --> 00:24:19,919
+suddenly you've got this issue you're an
+
+591
+00:24:19,919 --> 00:24:22,080
+identical twin and your identical
+
+592
+00:24:22,080 --> 00:24:24,880
+sibling has the same genes that you do
+
+593
+00:24:24,880 --> 00:24:27,960
+individual selection you will be just as
+
+594
+00:24:27,960 --> 00:24:30,080
+successful as passing on copies of
+
+595
+00:24:30,080 --> 00:24:32,640
+your genes into the next generation if
+
+596
+00:24:32,640 --> 00:24:35,360
+you forego reproducing to make it
+
+597
+00:24:35,360 --> 00:24:37,480
+possible for your identical twin to do
+
+598
+00:24:37,480 --> 00:24:40,399
+so because on a level of just sheer
+
+599
+00:24:40,399 --> 00:24:42,360
+numbers of copies of genes in the Next
+
+600
+00:24:42,360 --> 00:24:45,679
+Generation they are equivalent and
+
+601
+00:24:45,679 --> 00:24:47,799
+sometimes you will thus get behavior
+
+602
+00:24:47,799 --> 00:24:50,559
+which really decreases the reproductive
+
+603
+00:24:50,559 --> 00:24:53,039
+success of an individual in order to
+
+604
+00:24:53,039 --> 00:24:55,880
+enhance the success of a
+
+605
+00:24:55,880 --> 00:24:58,120
+relative but you've got a constraint
+
+606
+00:24:58,120 --> 00:25:00,440
+there which is all of your relatives
+
+607
+00:25:00,440 --> 00:25:02,760
+don't share all your genes with you they
+
+608
+00:25:02,760 --> 00:25:05,960
+have differing degrees of relatedness
+
+609
+00:25:05,960 --> 00:25:08,120
+and what that winds up producing is
+
+610
+00:25:08,120 --> 00:25:10,279
+another Factor another observation one
+
+611
+00:25:10,279 --> 00:25:12,640
+of the great like witty geneticists of
+
+612
+00:25:12,640 --> 00:25:14,600
+all time a guy named haldane who
+
+613
+00:25:14,600 --> 00:25:16,520
+apparently once in a bar was trying to
+
+614
+00:25:16,520 --> 00:25:18,440
+explain this principle to somebody and
+
+615
+00:25:18,440 --> 00:25:21,039
+came up and said I will gladly lay down
+
+616
+00:25:21,039 --> 00:25:23,440
+my life for two brothers or eight
+
+617
+00:25:23,440 --> 00:25:26,279
+cousins and that's the math of the
+
+618
+00:25:26,279 --> 00:25:29,399
+relatedness you passing on one copy of
+
+619
+00:25:29,399 --> 00:25:31,880
+your genes to the next generation is
+
+620
+00:25:31,880 --> 00:25:34,880
+from the sheer mathematics of just how
+
+621
+00:25:34,880 --> 00:25:36,760
+evolution is going to play out over the
+
+622
+00:25:36,760 --> 00:25:40,120
+generations is exactly equivalent as
+
+623
+00:25:40,120 --> 00:25:43,120
+giving up your life for eight cousins to
+
+624
+00:25:43,120 --> 00:25:45,159
+be able to each pass on a copy of their
+
+625
+00:25:45,159 --> 00:25:47,360
+genes because you share 1/8 with each of
+
+626
+00:25:47,360 --> 00:25:49,399
+them and it winds up being a whole or
+
+627
+00:25:49,399 --> 00:25:52,679
+and it's that math and out of that you
+
+628
+00:25:52,679 --> 00:25:54,919
+get something that makes perfect sense
+
+629
+00:25:54,919 --> 00:25:57,880
+instantly which is evolution selects for
+
+630
+00:25:57,880 --> 00:26:00,880
+organ isms cooperating with their
+
+631
+00:26:00,880 --> 00:26:03,240
+relatives something along those lines
+
+632
+00:26:03,240 --> 00:26:05,080
+and thus we have the second building
+
+633
+00:26:05,080 --> 00:26:09,000
+block known as kin selection Inclusive
+
+634
+00:26:09,000 --> 00:26:11,640
+fitness kin selection first building
+
+635
+00:26:11,640 --> 00:26:14,399
+block individual selection passing on
+
+636
+00:26:14,399 --> 00:26:16,240
+copies of your own genes as a way to
+
+637
+00:26:16,240 --> 00:26:19,399
+maximize future success second version
+
+638
+00:26:19,399 --> 00:26:21,720
+helping out relatives helping out
+
+639
+00:26:21,720 --> 00:26:25,039
+relatives in terms of increasing their
+
+640
+00:26:25,039 --> 00:26:27,760
+reproductive success with this vicious
+
+641
+00:26:27,760 --> 00:26:31,039
+mathematical logic which is you know one
+
+642
+00:26:31,039 --> 00:26:34,320
+identical twin two half SI two full
+
+643
+00:26:34,320 --> 00:26:36,640
+siblings eight cousins and so on as a
+
+644
+00:26:36,640 --> 00:26:39,200
+function of degree of relatedness and
+
+645
+00:26:39,200 --> 00:26:42,000
+what this begins to explain is a whole
+
+646
+00:26:42,000 --> 00:26:44,760
+world in animal behavior of animals
+
+647
+00:26:44,760 --> 00:26:47,720
+being obsessed with kinship animals
+
+648
+00:26:47,720 --> 00:26:50,640
+being fully aware of who is related to
+
+649
+00:26:50,640 --> 00:26:53,840
+who and what sorts of ways animals being
+
+650
+00:26:53,840 --> 00:26:56,440
+utterly aware of you cooperate with
+
+651
+00:26:56,440 --> 00:26:58,480
+relatives but as a function of how
+
+652
+00:26:58,480 --> 00:27:01,919
+closely related they are animals put us
+
+653
+00:27:01,919 --> 00:27:04,480
+in social anthropology and kinship terms
+
+654
+00:27:04,480 --> 00:27:06,279
+and could you marry the daughter of your
+
+655
+00:27:06,279 --> 00:27:08,799
+uncle's third wife or whatever to shame
+
+656
+00:27:08,799 --> 00:27:10,960
+in terms of how much a lot of social
+
+657
+00:27:10,960 --> 00:27:14,640
+animals deal with relatedness. So,
+
+658
+00:27:14,640 --> 00:27:17,159
+Inclusive fitness kin selection here
+
+659
+00:27:17,159 --> 00:27:18,880
+would be evidence for it here's one
+
+660
+00:27:18,880 --> 00:27:21,399
+example very cool study done some years
+
+661
+00:27:21,399 --> 00:27:24,360
+back by a couple sa farth and Cheney
+
+662
+00:27:24,360 --> 00:27:26,080
+University of Pennsylvania looking at
+
+663
+00:27:26,080 --> 00:27:28,200
+vervet monkeys and these were vervet
+
+664
+00:27:28,200 --> 00:27:31,240
+monkeys out in Tanzania I believe and
+
+665
+00:27:31,240 --> 00:27:32,440
+what they did was a whole bunch of these
+
+666
+00:27:32,440 --> 00:27:35,039
+vervent monkeys were sitting around and
+
+667
+00:27:35,039 --> 00:27:37,279
+they the researchers had made really
+
+668
+00:27:37,279 --> 00:27:39,760
+high quality record recordings of
+
+669
+00:27:39,760 --> 00:27:41,720
+various vocalizations from the monkeys
+
+670
+00:27:41,720 --> 00:27:43,840
+over time so they had the sound of each
+
+671
+00:27:43,840 --> 00:27:45,760
+animal giving an alarm call giving a
+
+672
+00:27:45,760 --> 00:27:48,360
+friendly gesture call giving a whatever
+
+673
+00:27:48,360 --> 00:27:50,440
+and what they would then do is hide a
+
+674
+00:27:50,440 --> 00:27:53,440
+microphone inside some bushes and play
+
+675
+00:27:53,440 --> 00:27:55,760
+the sound of one of the infants from the
+
+676
+00:27:55,760 --> 00:27:58,919
+group giving an alarm call
+
+677
+00:27:58,919 --> 00:28:00,840
+so what does the mother of that infant
+
+678
+00:28:00,840 --> 00:28:03,399
+do she instantly gets agitated and looks
+
+679
+00:28:03,399 --> 00:28:06,000
+over at the bush that's her child all of
+
+680
+00:28:06,000 --> 00:28:09,000
+that how to know that everyone else in
+
+681
+00:28:09,000 --> 00:28:10,880
+that verid group understands kin
+
+682
+00:28:10,880 --> 00:28:13,480
+selection what does everybody else do
+
+683
+00:28:13,480 --> 00:28:15,559
+they all look at the
+
+684
+00:28:15,559 --> 00:28:18,919
+mother that's whoever's mother what is
+
+685
+00:28:18,919 --> 00:28:21,679
+she going to do next they understand the
+
+686
+00:28:21,679 --> 00:28:23,960
+relatedness and they understand what the
+
+687
+00:28:23,960 --> 00:28:26,640
+response will be all the other vervets
+
+688
+00:28:26,640 --> 00:28:29,000
+look at the mother at that point Point
+
+689
+00:28:29,000 --> 00:28:30,840
+whoa I'm sure glad that's not my kid
+
+690
+00:28:30,840 --> 00:28:32,760
+giving an alarm call from the bushes
+
+691
+00:28:32,760 --> 00:28:35,480
+they understand kinship another version
+
+692
+00:28:35,480 --> 00:28:37,679
+of that that came out in these studies
+
+693
+00:28:37,679 --> 00:28:40,080
+so you've got two females each of whom
+
+694
+00:28:40,080 --> 00:28:42,120
+has a kid a daughter or whatever and
+
+695
+00:28:42,120 --> 00:28:45,279
+female a and female B and one day female
+
+696
+00:28:45,279 --> 00:28:48,120
+A does something absolutely rotten to
+
+697
+00:28:48,120 --> 00:28:52,200
+female B and later that day the child of
+
+698
+00:28:52,200 --> 00:28:54,880
+female B is more likely than chance to
+
+699
+00:28:54,880 --> 00:28:57,159
+do something rotten to the child of
+
+700
+00:28:57,159 --> 00:28:58,600
+female A.
+
+701
+00:28:58,600 --> 00:29:01,320
+they keeping track of not only Revenge
+
+702
+00:29:01,320 --> 00:29:03,120
+but not revenge on the individual who
+
+703
+00:29:03,120 --> 00:29:05,159
+did something miserable to you but
+
+704
+00:29:05,159 --> 00:29:08,600
+displaced by one degree of reproduction
+
+705
+00:29:08,600 --> 00:29:11,519
+keeping track of kinship. Animals can do
+
+706
+00:29:11,519 --> 00:29:13,799
+this all sorts of primate species can do
+
+707
+00:29:13,799 --> 00:29:16,440
+this and as we'll see all sorts of other
+
+708
+00:29:16,440 --> 00:29:18,760
+species can do this also there's that
+
+709
+00:29:18,760 --> 00:29:21,600
+caveat again all sorts of other species
+
+710
+00:29:21,600 --> 00:29:23,480
+want to figure out who their cousins
+
+711
+00:29:23,480 --> 00:29:25,399
+they don't want to figure out... Evolution
+
+712
+00:29:25,399 --> 00:29:28,440
+has sculpted an ability to optimize
+
+713
+00:29:28,440 --> 00:29:31,200
+behavior along lines of relatedness in
+
+714
+00:29:31,200 --> 00:29:33,760
+all sorts of species. So how would
+
+715
+00:29:33,760 --> 00:29:36,399
+natural selection play out in this realm
+
+716
+00:29:36,399 --> 00:29:39,200
+of kin selection I will lay down my life
+
+717
+00:29:39,200 --> 00:29:42,279
+for eight cousins. And that's just sort
+
+718
+00:29:42,279 --> 00:29:44,880
+of obvious there by now how would sexual
+
+719
+00:29:44,880 --> 00:29:47,399
+selection play out in this realm? I am
+
+720
+00:29:47,399 --> 00:29:49,320
+willing to expend great amounts of
+
+721
+00:29:49,320 --> 00:29:51,679
+energy to convince people that my
+
+722
+00:29:51,679 --> 00:29:55,720
+sibling is incredibly hot. And with any
+
+723
+00:29:55,720 --> 00:29:57,640
+chance, then passing on more copies of
+
+724
+00:29:57,640 --> 00:30:00,240
+genes that would be inclusive fitness
+
+725
+00:30:00,240 --> 00:30:03,120
+kin selection in both cases decreasing
+
+726
+00:30:03,120 --> 00:30:06,640
+your own reproductive potential by way
+
+727
+00:30:06,640 --> 00:30:08,320
+of being killed by a predator to save
+
+728
+00:30:08,320 --> 00:30:10,279
+the eight cousins or having to spend so
+
+729
+00:30:10,279 --> 00:30:12,760
+much time haranguing about your sibling.
+
+730
+00:30:12,760 --> 00:30:15,399
+Doing that in order to increase the
+
+731
+00:30:15,399 --> 00:30:18,440
+reproductive success of relatives where
+
+732
+00:30:18,440 --> 00:30:20,679
+you were willing to give up more energy
+
+733
+00:30:20,679 --> 00:30:22,880
+and potential on your part the more
+
+734
+00:30:22,880 --> 00:30:26,279
+closely related the individual is. So you
+
+735
+00:30:26,279 --> 00:30:28,360
+throw those two pieces together and
+
+736
+00:30:28,360 --> 00:30:30,000
+you're suddenly off and running with
+
+737
+00:30:30,000 --> 00:30:32,679
+explaining a lot of animal behavior.
+
+738
+00:30:32,679 --> 00:30:34,840
+Individual selection none of this for
+
+739
+00:30:34,840 --> 00:30:36,799
+the good of the species maximizing the
+
+740
+00:30:36,799 --> 00:30:39,760
+number of copies of your own genes and
+
+741
+00:30:39,760 --> 00:30:41,799
+the easiest way, the most straightforward
+
+742
+00:30:41,799 --> 00:30:44,600
+is you yourself maximizing
+
+743
+00:30:44,600 --> 00:30:47,159
+reproduction. Foundation number two to
+
+744
+00:30:47,159 --> 00:30:49,880
+the whole thing kin selection. Sometimes
+
+745
+00:30:49,880 --> 00:30:51,440
+the best way of leaving more copies and
+
+746
+00:30:51,440 --> 00:30:53,840
+genes in the next generation is using up
+
+747
+00:30:53,840 --> 00:30:55,720
+your own reproductive potential for
+
+748
+00:30:55,720 --> 00:30:58,440
+going to help relatives as a function of
+
+749
+00:30:58,440 --> 00:30:59,720
+degree of
+
+750
+00:30:59,720 --> 00:31:02,960
+relatedness. Okay that's great so now the
+
+751
+00:31:02,960 --> 00:31:05,120
+third piece the third final building
+
+752
+00:31:05,120 --> 00:31:07,559
+block of making sense of social behavior
+
+753
+00:31:07,559 --> 00:31:10,440
+in the context of real contemporary
+
+754
+00:31:10,440 --> 00:31:13,679
+evolutionary theory the third block here
+
+755
+00:31:13,679 --> 00:31:17,000
+which is you look at animals and they're
+
+756
+00:31:17,000 --> 00:31:18,919
+not all just competing with
+
+757
+00:31:18,919 --> 00:31:22,120
+non-relatives and things animals like
+
+758
+00:31:22,120 --> 00:31:24,960
+forgo competition at certain points
+
+759
+00:31:24,960 --> 00:31:27,159
+animals would have the potential to be
+
+760
+00:31:27,159 --> 00:31:28,880
+aggressive to other other animals and
+
+761
+00:31:28,880 --> 00:31:31,880
+they will forgo doing so and there's one
+
+762
+00:31:31,880 --> 00:31:33,840
+circumstance in which that can happen
+
+763
+00:31:33,840 --> 00:31:35,639
+where you get what is called a rock
+
+764
+00:31:35,639 --> 00:31:38,039
+paper scissor scenario you've got
+
+765
+00:31:38,039 --> 00:31:41,799
+animals A, B, and C a has a means of
+
+766
+00:31:41,799 --> 00:31:45,279
+damaging B but it costs a B has a means
+
+767
+00:31:45,279 --> 00:31:47,240
+of damaging C but it costs b c can
+
+768
+00:31:47,240 --> 00:31:49,559
+damage a but it costs a and you get the
+
+769
+00:31:49,559 --> 00:31:51,679
+right distribution of individuals with
+
+770
+00:31:51,679 --> 00:31:54,519
+one of those traits in a population and
+
+771
+00:31:54,519 --> 00:31:56,720
+you will reach a rock scissors paper
+
+772
+00:31:56,720 --> 00:31:58,720
+equilibrium where nobody is doing
+
+773
+00:31:58,720 --> 00:32:01,120
+anything rotten to each other great
+
+774
+00:32:01,120 --> 00:32:03,320
+example totally cool example that got
+
+775
+00:32:03,320 --> 00:32:05,200
+published some Years Ago by a guy named
+
+776
+00:32:05,200 --> 00:32:07,320
+Brendan Bohanan who was assistant
+
+777
+00:32:07,320 --> 00:32:08,919
+professor in the department here at the
+
+778
+00:32:08,919 --> 00:32:11,080
+time he was studying something or other
+
+779
+00:32:11,080 --> 00:32:13,880
+about bacteria showing a rock paper
+
+780
+00:32:13,880 --> 00:32:16,320
+scissor circumstance you had three
+
+781
+00:32:16,320 --> 00:32:18,639
+different types three different versions
+
+782
+00:32:18,639 --> 00:32:20,639
+of this bacteria in this Colony he had
+
+783
+00:32:20,639 --> 00:32:25,480
+made the first one could generate a
+
+784
+00:32:25,480 --> 00:32:28,720
+poison but it cost it had to put the
+
+785
+00:32:28,720 --> 00:32:30,600
+effort into making that poison and
+
+786
+00:32:30,600 --> 00:32:32,480
+protecting itself from that poison all
+
+787
+00:32:32,480 --> 00:32:35,279
+of that the second type was vulnerable
+
+788
+00:32:35,279 --> 00:32:37,600
+to the poison it happened to have some
+
+789
+00:32:37,600 --> 00:32:40,440
+transporter on its membrane that took up
+
+790
+00:32:40,440 --> 00:32:42,799
+the poison and that was bad news but it
+
+791
+00:32:42,799 --> 00:32:44,880
+had an advantage which is the rest of
+
+792
+00:32:44,880 --> 00:32:47,880
+the time that transporter took up more
+
+793
+00:32:47,880 --> 00:32:51,120
+food the third one the third one the
+
+794
+00:32:51,120 --> 00:32:53,880
+good thing going for it is that it
+
+795
+00:32:53,880 --> 00:32:56,120
+didn't have the bad thing was it didn't
+
+796
+00:32:56,120 --> 00:32:58,320
+have poison the good good thing going
+
+797
+00:32:58,320 --> 00:33:00,000
+for it was it didn't have to spend
+
+798
+00:33:00,000 --> 00:33:02,200
+energy on a poison and it didn't have
+
+799
+00:33:02,200 --> 00:33:04,960
+that transporter so each one of those
+
+800
+00:33:04,960 --> 00:33:06,799
+has a strength each one of those has a
+
+801
+00:33:06,799 --> 00:33:08,679
+vulnerability they're like I know
+
+802
+00:33:08,679 --> 00:33:10,880
+Pokemons or something and you put them
+
+803
+00:33:10,880 --> 00:33:13,399
+all together there and you get a rock
+
+804
+00:33:13,399 --> 00:33:16,240
+paper scissors scenario where you get
+
+805
+00:33:16,240 --> 00:33:18,679
+equilibrium where they are not attacking
+
+806
+00:33:18,679 --> 00:33:22,240
+each other because note if I am a and I
+
+807
+00:33:22,240 --> 00:33:26,440
+destroy b b's no longer wiping out C
+
+808
+00:33:26,440 --> 00:33:28,320
+who's the one who could damage me it's
+
+809
+00:33:28,320 --> 00:33:30,880
+got to come to an equilibrium state so
+
+810
+00:33:30,880 --> 00:33:33,240
+you can get the evolution of stalemates
+
+811
+00:33:33,240 --> 00:33:35,840
+like that and that's quite frequently
+
+812
+00:33:35,840 --> 00:33:38,120
+seen and note here this was the
+
+813
+00:33:38,120 --> 00:33:40,559
+evolution of stalemates not in chimps
+
+814
+00:33:40,559 --> 00:33:43,600
+not in sitations but in bacteria what
+
+815
+00:33:43,600 --> 00:33:45,639
+we're going to see is
+
+816
+00:33:45,639 --> 00:33:48,039
+bacterial Behavior to the extent that
+
+817
+00:33:48,039 --> 00:33:50,120
+this is sort of a metaphor for Behavior
+
+818
+00:33:50,120 --> 00:33:52,200
+behavior of all sorts of unlikely
+
+819
+00:33:52,200 --> 00:33:55,240
+species are subject to these same rules
+
+820
+00:33:55,240 --> 00:33:58,120
+of passing on copies of your genes these
+
+821
+00:33:58,120 --> 00:34:00,760
+three different strains of bacteria are
+
+822
+00:34:00,760 --> 00:34:02,840
+competing with each other none of them
+
+823
+00:34:02,840 --> 00:34:05,880
+are behaving for the good of the species
+
+824
+00:34:05,880 --> 00:34:08,280
+there of the three of them so rock paper
+
+825
+00:34:08,280 --> 00:34:10,280
+scissors is very cool and you get
+
+826
+00:34:10,280 --> 00:34:12,480
+versions of that in humans and that's
+
+827
+00:34:12,480 --> 00:34:14,440
+been sort of studied quantitatively all
+
+828
+00:34:14,440 --> 00:34:16,960
+of that but that's not real cooperation
+
+829
+00:34:16,960 --> 00:34:19,239
+that's merely everybody realizing we
+
+830
+00:34:19,239 --> 00:34:21,639
+have to cut back on the competition we
+
+831
+00:34:21,639 --> 00:34:23,560
+have to cut back on the aggression
+
+832
+00:34:23,560 --> 00:34:26,119
+because every time I damage whoever I am
+
+833
+00:34:26,119 --> 00:34:28,119
+more vulnerable in another Realm that's
+
+834
+00:34:28,119 --> 00:34:31,359
+a stalemate that's a truce but you look
+
+835
+00:34:31,359 --> 00:34:33,560
+at animals and in all sorts of realms
+
+836
+00:34:33,560 --> 00:34:35,199
+it's not just rock paper scissors
+
+837
+00:34:35,199 --> 00:34:36,879
+stalemates they're reaching they
+
+838
+00:34:36,879 --> 00:34:39,199
+actually cooperate with each other. And
+
+839
+00:34:39,199 --> 00:34:41,239
+you look close enough and you see
+
+840
+00:34:41,239 --> 00:34:43,719
+they're not relatives. They're not
+
+841
+00:34:43,719 --> 00:34:46,119
+relatives, yet you get all sorts of
+
+842
+00:34:46,119 --> 00:34:48,679
+altruistic behavior and you've got it
+
+843
+00:34:48,679 --> 00:34:51,359
+under a whole bunch of domains because
+
+844
+00:34:51,359 --> 00:34:53,480
+this brings up the question... why should
+
+845
+00:34:53,480 --> 00:34:55,679
+you ever be cooperative with another
+
+846
+00:34:55,679 --> 00:34:57,920
+individual if you're a social animal? At
+
+847
+00:34:57,920 --> 00:35:00,720
+every possibility, you should stab them
+
+848
+00:35:00,720 --> 00:35:02,560
+in the back and be selfish. And the
+
+849
+00:35:02,560 --> 00:35:04,480
+reason why that isn't a good idea is
+
+850
+00:35:04,480 --> 00:35:06,720
+there's all sorts of circumstances where
+
+851
+00:35:06,720 --> 00:35:09,599
+many hands make the task light or
+
+852
+00:35:09,599 --> 00:35:12,480
+whatever that is. Cooperation can have
+
+853
+00:35:12,480 --> 00:35:15,160
+synergistic benefits. And you see that
+
+854
+00:35:15,160 --> 00:35:17,000
+with species that are cooperative
+
+855
+00:35:17,000 --> 00:35:19,320
+hunters where they are not necessarily
+
+856
+00:35:19,320 --> 00:35:21,960
+relatives they will chase one chasing an
+
+857
+00:35:21,960 --> 00:35:23,520
+animal while the other is getting ready
+
+858
+00:35:23,520 --> 00:35:25,839
+to cut a corner on it Cooperative
+
+859
+00:35:25,839 --> 00:35:28,800
+behavior and they incre the likelihood
+
+860
+00:35:28,800 --> 00:35:31,440
+of them getting a kill another example
+
+861
+00:35:31,440 --> 00:35:33,440
+of this researched by a guy named Mark
+
+862
+00:35:33,440 --> 00:35:35,680
+Hower at Harvard looking at Reese's
+
+863
+00:35:35,680 --> 00:35:37,880
+monkeys and what he showed was he would
+
+864
+00:35:37,880 --> 00:35:40,359
+put these monkeys in a situation where
+
+865
+00:35:40,359 --> 00:35:43,160
+they had access to food they had access
+
+866
+00:35:43,160 --> 00:35:45,880
+to food under one circumstance where
+
+867
+00:35:45,880 --> 00:35:49,240
+they could reach for it and take it in
+
+868
+00:35:49,240 --> 00:35:52,359
+and share it with another monkey under
+
+869
+00:35:52,359 --> 00:35:55,280
+the other circumstance it required two
+
+870
+00:35:55,280 --> 00:35:57,839
+monkeys to get the food in there and
+
+871
+00:35:57,839 --> 00:36:01,079
+what he showed was clear-cut reciprocity
+
+872
+00:36:01,079 --> 00:36:03,720
+monkeys who were sharing with this guy
+
+873
+00:36:03,720 --> 00:36:05,680
+were more likely to get shared back with
+
+874
+00:36:05,680 --> 00:36:08,079
+and got more cooperation when it was a
+
+875
+00:36:08,079 --> 00:36:09,880
+task where two of them had to work
+
+876
+00:36:09,880 --> 00:36:12,000
+together to get the food one alone
+
+877
+00:36:12,000 --> 00:36:14,280
+wasn't enough many hands make the task
+
+878
+00:36:14,280 --> 00:36:17,319
+lighter under all sorts of circumstances
+
+879
+00:36:17,319 --> 00:36:20,079
+cooperation has a strong evolutionary
+
+880
+00:36:20,079 --> 00:36:22,599
+payoff even among
+
+881
+00:36:22,599 --> 00:36:26,400
+non-relatives with a condition which is
+
+882
+00:36:26,400 --> 00:36:28,200
+you're not putting more into with then
+
+883
+00:36:28,200 --> 00:36:31,720
+you are getting that is reciprocal and
+
+884
+00:36:31,720 --> 00:36:33,960
+this opens up the third building block
+
+885
+00:36:33,960 --> 00:36:37,760
+of all of this which is reciprocal
+
+886
+00:36:37,760 --> 00:36:41,200
+altruism cooperation altruistic Behavior
+
+887
+00:36:41,200 --> 00:36:44,119
+among non-relatives but undergoing very
+
+888
+00:36:44,119 --> 00:36:46,480
+strict sort of constraints of it's got
+
+889
+00:36:46,480 --> 00:36:48,760
+to be reciprocated with all sorts of
+
+890
+00:36:48,760 --> 00:36:52,119
+rules like that so what does that look
+
+891
+00:36:52,119 --> 00:36:54,839
+like so you're going to see reciprocal
+
+892
+00:36:54,839 --> 00:36:57,040
+altruism when would you see that what's
+
+893
+00:36:57,040 --> 00:36:59,160
+the immediate thing what sort of species
+
+894
+00:36:59,160 --> 00:37:01,640
+would show systems of reciprocal
+
+895
+00:37:01,640 --> 00:37:04,160
+cooperation among non-relatives they got
+
+896
+00:37:04,160 --> 00:37:06,040
+to be smart animals they got to be
+
+897
+00:37:06,040 --> 00:37:08,040
+social they got to be smart why do they
+
+898
+00:37:08,040 --> 00:37:09,520
+have to be smart because they have to
+
+899
+00:37:09,520 --> 00:37:11,960
+remember this is the guy who like owes
+
+900
+00:37:11,960 --> 00:37:14,119
+me a favor from last Thursday they need
+
+901
+00:37:14,119 --> 00:37:16,880
+to be able to recognize individuals they
+
+902
+00:37:16,880 --> 00:37:19,040
+have to be long lived enough so that
+
+903
+00:37:19,040 --> 00:37:20,800
+there's a chance of interacting with
+
+904
+00:37:20,800 --> 00:37:23,160
+that individual again and establishing
+
+905
+00:37:23,160 --> 00:37:26,000
+this reciprocity you would thus predict
+
+906
+00:37:26,000 --> 00:37:27,960
+you would see systems of reciprocal
+
+907
+00:37:27,960 --> 00:37:32,680
+altruism only in longlived Social
+
+908
+00:37:32,680 --> 00:37:35,200
+vertebrates but you see the exact sorts
+
+909
+00:37:35,200 --> 00:37:38,599
+of things in bacteria you see the exact
+
+910
+00:37:38,599 --> 00:37:41,240
+sort of things in fungi you see that in
+
+911
+00:37:41,240 --> 00:37:43,680
+all sorts of other Realms you get social
+
+912
+00:37:43,680 --> 00:37:46,119
+bacteria colonizing bacteria and where
+
+913
+00:37:46,119 --> 00:37:48,960
+what you might get are two clonal lines
+
+914
+00:37:48,960 --> 00:37:52,599
+that are together in other words two
+
+915
+00:37:52,599 --> 00:37:55,680
+genetically two lines Each of which is
+
+916
+00:37:55,680 --> 00:37:57,520
+all the bacteria have the same genetic
+
+917
+00:37:57,520 --> 00:37:59,319
+makeup so think of it as one individual
+
+918
+00:37:59,319 --> 00:38:01,440
+who's just kind of dispersed another one
+
+919
+00:38:01,440 --> 00:38:03,680
+who's just kind of dispersed and they've
+
+920
+00:38:03,680 --> 00:38:05,760
+come together in something called a
+
+921
+00:38:05,760 --> 00:38:08,680
+fruiting body which is how bacteria
+
+922
+00:38:08,680 --> 00:38:11,520
+reproduce or whatever and there's two
+
+923
+00:38:11,520 --> 00:38:14,400
+parts to a fruiting body there's one
+
+924
+00:38:14,400 --> 00:38:16,440
+which is the stock which attaches to
+
+925
+00:38:16,440 --> 00:38:18,760
+something or other and then there's the
+
+926
+00:38:18,760 --> 00:38:22,520
+part that actually fruits so you want to
+
+927
+00:38:22,520 --> 00:38:24,119
+be in the fruiting part because that's
+
+928
+00:38:24,119 --> 00:38:25,720
+the part that actually reproduces and
+
+929
+00:38:25,720 --> 00:38:28,480
+the stock is doing all the work there
+
+930
+00:38:28,480 --> 00:38:32,440
+and what you see is attempts at cheating
+
+931
+00:38:32,440 --> 00:38:34,440
+attempts at one of these strains trying
+
+932
+00:38:34,440 --> 00:38:36,280
+to disproportionately wind up in the
+
+933
+00:38:36,280 --> 00:38:39,319
+Fring part and what you also see is the
+
+934
+00:38:39,319 --> 00:38:41,880
+next time around this other strain will
+
+935
+00:38:41,880 --> 00:38:44,720
+not cooperate with it will not form a
+
+936
+00:38:44,720 --> 00:38:47,119
+social Colony so that's getting played
+
+937
+00:38:47,119 --> 00:38:48,920
+off at the level of single cell
+
+938
+00:38:48,920 --> 00:38:51,480
+organisms forming big social colonies
+
+939
+00:38:51,480 --> 00:38:53,640
+getting played at that level yes as we
+
+940
+00:38:53,640 --> 00:38:56,839
+will see reciprocal altruism works most
+
+941
+00:38:56,839 --> 00:38:59,200
+readily in big smart Long Live social
+
+942
+00:38:59,200 --> 00:39:02,599
+beasts but it can occur in all sorts of
+
+943
+00:39:02,599 --> 00:39:06,560
+systems so what it's built around is
+
+944
+00:39:06,560 --> 00:39:09,800
+reciprocal cooperation and intrinsic in
+
+945
+00:39:09,800 --> 00:39:12,079
+that is another motivation going on
+
+946
+00:39:12,079 --> 00:39:14,040
+there not just to involve a reciprocal
+
+947
+00:39:14,040 --> 00:39:15,880
+relationship with a non-relative and
+
+948
+00:39:15,880 --> 00:39:17,800
+many hands and light tasks and all of
+
+949
+00:39:17,800 --> 00:39:21,599
+that but also whenever possible to cheat
+
+950
+00:39:21,599 --> 00:39:23,640
+to take advantage of the other
+
+951
+00:39:23,640 --> 00:39:26,560
+individual and thus another key facet of
+
+952
+00:39:26,560 --> 00:39:29,240
+it is to very good at detecting when
+
+953
+00:39:29,240 --> 00:39:32,079
+somebody is cheating against you to be
+
+954
+00:39:32,079 --> 00:39:34,920
+vigilant about cheating in what would
+
+955
+00:39:34,920 --> 00:39:38,000
+otherwise be a stable reciprocal
+
+956
+00:39:38,000 --> 00:39:41,240
+relationship and an awful lot of social
+
+957
+00:39:41,240 --> 00:39:44,319
+behavior is built around animals either
+
+958
+00:39:44,319 --> 00:39:46,560
+trying to get away with something or
+
+959
+00:39:46,560 --> 00:39:48,920
+spotting somebody else doing the same an
+
+960
+00:39:48,920 --> 00:39:50,839
+example of it there is a test that's
+
+961
+00:39:50,839 --> 00:39:53,079
+used in evolutionary psychology where
+
+962
+00:39:53,079 --> 00:39:55,760
+you're given this very complicated story
+
+963
+00:39:55,760 --> 00:39:57,599
+or another version of a complicated
+
+964
+00:39:57,599 --> 00:39:59,960
+story where somebody promises if you do
+
+965
+00:39:59,960 --> 00:40:01,880
+this you'll get this reward but if you
+
+966
+00:40:01,880 --> 00:40:02,960
+do that you're going to get this
+
+967
+00:40:02,960 --> 00:40:05,400
+punishment and like really complex and
+
+968
+00:40:05,400 --> 00:40:08,480
+in one outcome the outcome of it is the
+
+969
+00:40:08,480 --> 00:40:10,680
+person isn't supposed to get rewarded
+
+970
+00:40:10,680 --> 00:40:12,839
+but the individual decides to reward
+
+971
+00:40:12,839 --> 00:40:15,839
+them spontaneous act of kindness in
+
+972
+00:40:15,839 --> 00:40:17,800
+another Circumstance the person is the
+
+973
+00:40:17,800 --> 00:40:19,800
+individual is supposed to get rewarded
+
+974
+00:40:19,800 --> 00:40:22,720
+and instead they get punished a cheater
+
+975
+00:40:22,720 --> 00:40:25,200
+in that case and amid these convoluted
+
+976
+00:40:25,200 --> 00:40:29,760
+stories people are much better 75% to 25
+
+977
+00:40:29,760 --> 00:40:31,800
+are much better at detecting when
+
+978
+00:40:31,800 --> 00:40:34,319
+cheating has gone on in the story than
+
+979
+00:40:34,319 --> 00:40:36,599
+when a random active kindness has gone
+
+980
+00:40:36,599 --> 00:40:39,119
+on we are more attuned to picking up
+
+981
+00:40:39,119 --> 00:40:42,480
+cheating and remarkably some very subtle
+
+982
+00:40:42,480 --> 00:40:44,240
+Studies have been done with chimps
+
+983
+00:40:44,240 --> 00:40:46,760
+showing that chimps have the same bias
+
+984
+00:40:46,760 --> 00:40:48,560
+they are much better at picking up
+
+985
+00:40:48,560 --> 00:40:51,359
+social interactions involving cheating
+
+986
+00:40:51,359 --> 00:40:54,440
+than ones that involve spontaneous
+
+987
+00:40:54,440 --> 00:40:57,720
+altruism so you see here this balance
+
+988
+00:40:57,720 --> 00:41:00,079
+between cooperation and reciprocal and
+
+989
+00:41:00,079 --> 00:41:02,000
+even among non-relatives and that's
+
+990
+00:41:02,000 --> 00:41:03,440
+great but you should cheat when you can
+
+991
+00:41:03,440 --> 00:41:04,720
+get away with it but you should be
+
+992
+00:41:04,720 --> 00:41:06,760
+vigilant against cheaters and what of
+
+993
+00:41:06,760 --> 00:41:09,480
+course it comes down to then is tic TCT
+
+994
+00:41:09,480 --> 00:41:12,359
+toe and giraffe hearts and all of that
+
+995
+00:41:12,359 --> 00:41:14,800
+what is the optimal strategy in a
+
+996
+00:41:14,800 --> 00:41:16,800
+particular social species for a
+
+997
+00:41:16,800 --> 00:41:18,560
+particular individual what is the
+
+998
+00:41:18,560 --> 00:41:22,119
+optimal strategy when do you cooperate
+
+999
+00:41:22,119 --> 00:41:25,440
+and when do you cheat when do you defect
+
+1000
+00:41:25,440 --> 00:41:27,640
+on the Cooperative relationship you've
+
+1001
+00:41:27,640 --> 00:41:30,560
+had and this introduces us to a whole
+
+1002
+00:41:30,560 --> 00:41:33,200
+world of mathematics built around what
+
+1003
+00:41:33,200 --> 00:41:36,560
+is called Game Theory the notion that
+
+1004
+00:41:36,560 --> 00:41:40,160
+there are games formal games that have
+
+1005
+00:41:40,160 --> 00:41:43,560
+mathematically optimal strategies or
+
+1006
+00:41:43,560 --> 00:41:46,200
+multiple strategies multi equilibrium
+
+1007
+00:41:46,200 --> 00:41:48,240
+and a whole world of research has been
+
+1008
+00:41:48,240 --> 00:41:51,440
+built around them in terms of when to
+
+1009
+00:41:51,440 --> 00:41:54,920
+cooperate and when to defect so Game
+
+1010
+00:41:54,920 --> 00:41:58,040
+Theory stuff this was starting off in a
+
+1011
+00:41:58,040 --> 00:42:00,640
+world of like people studying economics
+
+1012
+00:42:00,640 --> 00:42:03,400
+and negotiation and diplomacy and all of
+
+1013
+00:42:03,400 --> 00:42:05,280
+that and that was a whole world built
+
+1014
+00:42:05,280 --> 00:42:07,200
+around this logic of when do you
+
+1015
+00:42:07,200 --> 00:42:09,359
+cooperate when do you cheat and what
+
+1016
+00:42:09,359 --> 00:42:11,560
+came out of there were all sorts of
+
+1017
+00:42:11,560 --> 00:42:14,400
+models of how to optimize behavior in
+
+1018
+00:42:14,400 --> 00:42:16,560
+terms of that and the building block
+
+1019
+00:42:16,560 --> 00:42:19,280
+sort of the fruit fly of game theory is
+
+1020
+00:42:19,280 --> 00:42:22,040
+a game called the prisoners
+
+1021
+00:42:22,040 --> 00:42:25,200
+dilemma prisoners dilemma sort of
+
+1022
+00:42:25,200 --> 00:42:30,160
+cutting to Z details two individuals are
+
+1023
+00:42:30,160 --> 00:42:32,119
+prisoners and they escape and they're
+
+1024
+00:42:32,119 --> 00:42:35,200
+both captured and they're interrogated
+
+1025
+00:42:35,200 --> 00:42:37,400
+separately and if both of them refuse to
+
+1026
+00:42:37,400 --> 00:42:39,760
+talk that's great for them if they both
+
+1027
+00:42:39,760 --> 00:42:41,960
+squeal they both get punished if one of
+
+1028
+00:42:41,960 --> 00:42:43,680
+them is able to squeal on the other one
+
+1029
+00:42:43,680 --> 00:42:45,520
+they get a great reward of the other one
+
+1030
+00:42:45,520 --> 00:42:48,680
+what you get formally are four possible
+
+1031
+00:42:48,680 --> 00:42:52,319
+outcomes both individuals
+
+1032
+00:42:52,319 --> 00:42:55,319
+cooperate both individuals cheat against
+
+1033
+00:42:55,319 --> 00:42:57,240
+each other
+
+1034
+00:42:57,240 --> 00:43:00,240
+individual a cooperates and B
+
+1035
+00:43:00,240 --> 00:43:03,079
+cheats individual B cooperates and a
+
+1036
+00:43:03,079 --> 00:43:04,839
+cheats and what you get in prisoners
+
+1037
+00:43:04,839 --> 00:43:07,760
+dilemma is a formal payoff for each what
+
+1038
+00:43:07,760 --> 00:43:10,599
+gives you the greatest payoff stabbing
+
+1039
+00:43:10,599 --> 00:43:13,400
+the other guy in the back you cheat and
+
+1040
+00:43:13,400 --> 00:43:15,920
+they cooperate you have exploited them
+
+1041
+00:43:15,920 --> 00:43:17,839
+you have taken advantage of them isn't
+
+1042
+00:43:17,839 --> 00:43:20,400
+that wonderful that's the highest payoff
+
+1043
+00:43:20,400 --> 00:43:22,839
+in prison or dilemma games second
+
+1044
+00:43:22,839 --> 00:43:25,800
+highest payoff you both
+
+1045
+00:43:25,800 --> 00:43:28,440
+cooperate third third highest payoff
+
+1046
+00:43:28,440 --> 00:43:29,839
+which is beginning to not count as a
+
+1047
+00:43:29,839 --> 00:43:31,520
+payoff but in a lot of the games is set
+
+1048
+00:43:31,520 --> 00:43:33,800
+up as the start of punishment both of
+
+1049
+00:43:33,800 --> 00:43:35,720
+you cheat on each
+
+1050
+00:43:35,720 --> 00:43:39,559
+other fourth worst possible payoff is
+
+1051
+00:43:39,559 --> 00:43:41,960
+you're the sucker you cooperate and the
+
+1052
+00:43:41,960 --> 00:43:44,480
+other individual stabs you in the back
+
+1053
+00:43:44,480 --> 00:43:46,720
+so what the prisoners dilemma game is
+
+1054
+00:43:46,720 --> 00:43:49,040
+set up these circumstances where
+
+1055
+00:43:49,040 --> 00:43:51,559
+individuals will play versions of this
+
+1056
+00:43:51,559 --> 00:43:54,319
+against each other with varying rewards
+
+1057
+00:43:54,319 --> 00:43:56,280
+and that sort of thing and parameters
+
+1058
+00:43:56,280 --> 00:43:58,400
+that we will look at in a lot of detail
+
+1059
+00:43:58,400 --> 00:44:00,680
+and seeing when is it optimal to
+
+1060
+00:44:00,680 --> 00:44:04,000
+cooperate when is it optimal to cheat
+
+1061
+00:44:04,000 --> 00:44:06,520
+when would you do this so you've got
+
+1062
+00:44:06,520 --> 00:44:08,240
+examples of this and this was the
+
+1063
+00:44:08,240 --> 00:44:10,680
+building block and what anyone would say
+
+1064
+00:44:10,680 --> 00:44:13,680
+looking at this is it's obvious what you
+
+1065
+00:44:13,680 --> 00:44:16,800
+want to do is in some way rationally
+
+1066
+00:44:16,800 --> 00:44:19,800
+maximize your payoff this is this whole
+
+1067
+00:44:19,800 --> 00:44:23,079
+world of homo economists the notion of
+
+1068
+00:44:23,079 --> 00:44:25,559
+humans as being purely rational decision
+
+1069
+00:44:25,559 --> 00:44:27,760
+makers and what you begin to see in this
+
+1070
+00:44:27,760 --> 00:44:29,960
+world of game theory is there is
+
+1071
+00:44:29,960 --> 00:44:32,480
+anything but that going on and later in
+
+1072
+00:44:32,480 --> 00:44:34,040
+the course we are going to see something
+
+1073
+00:44:34,040 --> 00:44:35,960
+very interesting people playing
+
+1074
+00:44:35,960 --> 00:44:38,280
+prisoners dilemma games inside a brain
+
+1075
+00:44:38,280 --> 00:44:40,599
+scanner looking at a part of the brain
+
+1076
+00:44:40,599 --> 00:44:43,280
+that has a lot to do with pleasure and
+
+1077
+00:44:43,280 --> 00:44:45,800
+what you see is some individuals
+
+1078
+00:44:45,800 --> 00:44:47,680
+activate that part of the brain when
+
+1079
+00:44:47,680 --> 00:44:49,400
+they've successfully stabbed the other
+
+1080
+00:44:49,400 --> 00:44:51,599
+guy in the back some individuals
+
+1081
+00:44:51,599 --> 00:44:53,200
+activate it when they have both
+
+1082
+00:44:53,200 --> 00:44:56,000
+cooperated and there's a big gender
+
+1083
+00:44:56,000 --> 00:44:57,440
+difference as to which which
+
+1084
+00:44:57,440 --> 00:45:00,040
+circumstance so you just guess which one
+
+1085
+00:45:00,040 --> 00:45:01,839
+is going on there we're going to see a
+
+1086
+00:45:01,839 --> 00:45:03,599
+number of studies like that coming down
+
+1087
+00:45:03,599 --> 00:45:06,599
+the line so the question becomes how do
+
+1088
+00:45:06,599 --> 00:45:10,480
+you optimize prisoner dilic play and
+
+1089
+00:45:10,480 --> 00:45:12,400
+what emerged at that time was the notion
+
+1090
+00:45:12,400 --> 00:45:14,680
+of all sorts of theoretical models and
+
+1091
+00:45:14,680 --> 00:45:17,359
+stuff and then in the 1970s there was an
+
+1092
+00:45:17,359 --> 00:45:19,280
+economist at University of Michigan
+
+1093
+00:45:19,280 --> 00:45:22,280
+named Robert Axelrod who revolutionized
+
+1094
+00:45:22,280 --> 00:45:25,280
+the entire field what he did was he took
+
+1095
+00:45:25,280 --> 00:45:27,880
+some Paleolithic comp computer and
+
+1096
+00:45:27,880 --> 00:45:29,800
+programmed in how the prisoners dilemma
+
+1097
+00:45:29,800 --> 00:45:33,040
+would be played and he could program in
+
+1098
+00:45:33,040 --> 00:45:35,240
+as if they were two players and he could
+
+1099
+00:45:35,240 --> 00:45:37,400
+program in what each one's strategy
+
+1100
+00:45:37,400 --> 00:45:38,280
+would
+
+1101
+00:45:38,280 --> 00:45:41,680
+be and what he then did was he wrote to
+
+1102
+00:45:41,680 --> 00:45:43,480
+all of his buddies and all of his
+
+1103
+00:45:43,480 --> 00:45:46,440
+mathematician friends and prize Fighters
+
+1104
+00:45:46,440 --> 00:45:49,640
+and theologians and serial murderers and
+
+1105
+00:45:49,640 --> 00:45:51,839
+Nobel Peace Prize winners and in each
+
+1106
+00:45:51,839 --> 00:45:54,200
+case explain what was up and saying what
+
+1107
+00:45:54,200 --> 00:45:56,640
+strategy would you use in a prisoner's
+
+1108
+00:45:56,640 --> 00:45:59,240
+dilemma a game and he gets them all back
+
+1109
+00:45:59,240 --> 00:46:00,720
+and he programs all these different
+
+1110
+00:46:00,720 --> 00:46:03,240
+versions and he runs a round robin
+
+1111
+00:46:03,240 --> 00:46:05,839
+tournament every strategy is paired
+
+1112
+00:46:05,839 --> 00:46:07,559
+against every other strategy at one
+
+1113
+00:46:07,559 --> 00:46:09,440
+point or other and you look at what the
+
+1114
+00:46:09,440 --> 00:46:12,359
+payoff is you ask which is the most
+
+1115
+00:46:12,359 --> 00:46:15,839
+optimal strategy and out of it
+
+1116
+00:46:15,839 --> 00:46:19,040
+shockingly to everyone because this was
+
+1117
+00:46:19,040 --> 00:46:21,880
+a computer teaching us optimizing human
+
+1118
+00:46:21,880 --> 00:46:24,640
+behavior out of it came one simple
+
+1119
+00:46:24,640 --> 00:46:26,640
+strategy that always outcompeted the
+
+1120
+00:46:26,640 --> 00:46:28,480
+others this is people sitting there
+
+1121
+00:46:28,480 --> 00:46:30,280
+probabilistic ones as to when to
+
+1122
+00:46:30,280 --> 00:46:33,359
+cooperate and lunar cycles as to what to
+
+1123
+00:46:33,359 --> 00:46:36,680
+do the one that always one is now called
+
+1124
+00:46:36,680 --> 00:46:37,920
+tit
+
+1125
+00:46:37,920 --> 00:46:41,119
+fortat you start off cooperating in the
+
+1126
+00:46:41,119 --> 00:46:44,640
+very first round with the individual you
+
+1127
+00:46:44,640 --> 00:46:46,880
+cooperate if the individual has
+
+1128
+00:46:46,880 --> 00:46:49,280
+cooperated with you in that round you
+
+1129
+00:46:49,280 --> 00:46:52,040
+cooperate in the next round and you
+
+1130
+00:46:52,040 --> 00:46:53,760
+cooperate cooperate as long as the other
+
+1131
+00:46:53,760 --> 00:46:55,800
+individual cooperates but as soon as
+
+1132
+00:46:55,800 --> 00:46:57,480
+there's a round where the individual
+
+1133
+00:46:57,480 --> 00:47:00,599
+cheats against you you cheat against
+
+1134
+00:47:00,599 --> 00:47:03,119
+them the next time if they cheated at
+
+1135
+00:47:03,119 --> 00:47:05,240
+you that time also you cheat against
+
+1136
+00:47:05,240 --> 00:47:07,319
+them the next time if they go back to
+
+1137
+00:47:07,319 --> 00:47:09,880
+cooperating you go back to cooperating
+
+1138
+00:47:09,880 --> 00:47:12,680
+the next time you have this tit fortat
+
+1139
+00:47:12,680 --> 00:47:14,800
+strategy in the absence of somebody
+
+1140
+00:47:14,800 --> 00:47:17,000
+stabbing you in the back you will always
+
+1141
+00:47:17,000 --> 00:47:19,559
+cooperate and what they found was run
+
+1142
+00:47:19,559 --> 00:47:22,200
+these hundreds of thousands of versions
+
+1143
+00:47:22,200 --> 00:47:24,559
+of these round robin tournaments and tit
+
+1144
+00:47:24,559 --> 00:47:27,280
+fortat was the one that was most optimal
+
+1145
+00:47:27,280 --> 00:47:29,839
+to begin to use a word that is not just
+
+1146
+00:47:29,839 --> 00:47:32,720
+going to be a metaphor tit fortat always
+
+1147
+00:47:32,720 --> 00:47:35,839
+drove the other strategies into
+
+1148
+00:47:35,839 --> 00:47:38,319
+Extinction and what you wound up seeing
+
+1149
+00:47:38,319 --> 00:47:41,160
+is this optimized strategy and it was
+
+1150
+00:47:41,160 --> 00:47:44,200
+very clear why tit fortat worked so well
+
+1151
+00:47:44,200 --> 00:47:47,240
+number one it was nice you start off
+
+1152
+00:47:47,240 --> 00:47:50,440
+cooperating number two it retaliates if
+
+1153
+00:47:50,440 --> 00:47:53,160
+you do something crummy to it number
+
+1154
+00:47:53,160 --> 00:47:56,359
+three it is forgiving if you go back to
+
+1155
+00:47:56,359 --> 00:47:57,480
+cooperate
+
+1156
+00:47:57,480 --> 00:48:00,119
+number four it's clearcut in its play
+
+1157
+00:48:00,119 --> 00:48:02,599
+it's not some probabilistic thing and
+
+1158
+00:48:02,599 --> 00:48:05,440
+what you get then with tit fortat is
+
+1159
+00:48:05,440 --> 00:48:07,200
+suppose you're playing three rounds with
+
+1160
+00:48:07,200 --> 00:48:09,119
+another individual you both cooperate
+
+1161
+00:48:09,119 --> 00:48:10,839
+the first one you both cooperate the
+
+1162
+00:48:10,839 --> 00:48:12,559
+next one you're playing tit fortat
+
+1163
+00:48:12,559 --> 00:48:14,240
+strategy so you cooperate on this one
+
+1164
+00:48:14,240 --> 00:48:16,119
+and they stab you in the back and you
+
+1165
+00:48:16,119 --> 00:48:17,680
+can't get back at them because this is
+
+1166
+00:48:17,680 --> 00:48:20,000
+the last round what you'll see is under
+
+1167
+00:48:20,000 --> 00:48:23,559
+lots of circumstances Tit for Tat is
+
+1168
+00:48:23,559 --> 00:48:25,640
+disadvantageous but what the sound bite
+
+1169
+00:48:25,640 --> 00:48:28,319
+is about it is Tit for Tat may lose the
+
+1170
+00:48:28,319 --> 00:48:31,160
+battles but it wins all the wars this
+
+1171
+00:48:31,160 --> 00:48:33,400
+pattern of being nice but being
+
+1172
+00:48:33,400 --> 00:48:35,760
+retaliatory being forgiving and being
+
+1173
+00:48:35,760 --> 00:48:38,599
+clear in the rules drives all the other
+
+1174
+00:48:38,599 --> 00:48:41,079
+strategies into
+
+1175
+00:48:41,079 --> 00:48:43,599
+Extinction okay at this point my alarm
+
+1176
+00:48:43,599 --> 00:48:45,599
+just went off which was to remind me to
+
+1177
+00:48:45,599 --> 00:48:49,000
+ask somebody who is wearing a life vest
+
+1178
+00:48:49,000 --> 00:48:52,200
+is somebody wearing a life
+
+1179
+00:48:52,400 --> 00:48:56,880
+vest over there um where are you
+
+1180
+00:48:56,880 --> 00:48:59,319
+she just left she left isn't that
+
+1181
+00:48:59,319 --> 00:49:01,079
+interesting somebody put me up to having
+
+1182
+00:49:01,079 --> 00:49:03,240
+to ask this person why are you wearing a
+
+1183
+00:49:03,240 --> 00:49:05,119
+life vest and apparently the answer she
+
+1184
+00:49:05,119 --> 00:49:07,280
+would give was going to free all sorts
+
+1185
+00:49:07,280 --> 00:49:09,839
+of captives in some like Rebel group in
+
+1186
+00:49:09,839 --> 00:49:13,079
+Colombia and she fled okay what that
+
+1187
+00:49:13,079 --> 00:49:14,960
+does is
+
+1188
+00:49:14,960 --> 00:49:17,079
+uh I don't know what that says about
+
+1189
+00:49:17,079 --> 00:49:19,640
+reciprocal altruism but what that says
+
+1190
+00:49:19,640 --> 00:49:22,040
+also is after I do a summary don't make
+
+1191
+00:49:22,040 --> 00:49:24,079
+a move we will have a 5 minute break so
+
+1192
+00:49:24,079 --> 00:49:25,960
+what do we have at this point we have a
+
+1193
+00:49:25,960 --> 00:49:29,319
+first building block of optimizing the
+
+1194
+00:49:29,319 --> 00:49:31,280
+evolution of behavior like optimizing
+
+1195
+00:49:31,280 --> 00:49:33,839
+giraffe Hearts first piece you don't
+
+1196
+00:49:33,839 --> 00:49:35,079
+believe behave for the good of the
+
+1197
+00:49:35,079 --> 00:49:37,319
+species individual selection passing on
+
+1198
+00:49:37,319 --> 00:49:39,160
+as many copies of your own genes as
+
+1199
+00:49:39,160 --> 00:49:41,720
+possible sometime a chicken is an egg's
+
+1200
+00:49:41,720 --> 00:49:43,480
+way of making another egg he says
+
+1201
+00:49:43,480 --> 00:49:46,280
+triumphantly building block number two
+
+1202
+00:49:46,280 --> 00:49:48,240
+kin selection some of the time the best
+
+1203
+00:49:48,240 --> 00:49:50,799
+way to pass on copies of your jeans is
+
+1204
+00:49:50,799 --> 00:49:53,079
+by way of helping relatives kin
+
+1205
+00:49:53,079 --> 00:49:54,920
+selection with the mathematical
+
+1206
+00:49:54,920 --> 00:49:57,280
+fierceness of degree of relat is driving
+
+1207
+00:49:57,280 --> 00:50:00,319
+it piece three sometimes what's most
+
+1208
+00:50:00,319 --> 00:50:02,640
+advantageous is to cooperate even with
+
+1209
+00:50:02,640 --> 00:50:05,079
+non-relatives but with the rules of it
+
+1210
+00:50:05,079 --> 00:50:07,480
+has to be reciprocal and you have to
+
+1211
+00:50:07,480 --> 00:50:09,119
+cheat when possible you have to be on
+
+1212
+00:50:09,119 --> 00:50:11,079
+guard against cheaters and as we've just
+
+1213
+00:50:11,079 --> 00:50:13,720
+seen Game Theory prisoners dilemma
+
+1214
+00:50:13,720 --> 00:50:16,480
+beginning to formalize Optimal
+
+1215
+00:50:16,480 --> 00:50:18,280
+strategies for that okay let's take a
+
+1216
+00:50:18,280 --> 00:50:19,359
+five minute
+
+1217
+00:50:19,359 --> 00:50:22,319
+break but promise you will come back if
+
+1218
+00:50:22,319 --> 00:50:27,599
+you go out and everyone won't wander off
+
+1219
+00:50:28,839 --> 00:50:30,440
+of
+
+1220
+00:50:30,440 --> 00:50:33,640
+being maximize that behavior in a very
+
+1221
+00:50:33,640 --> 00:50:35,880
+artificial realm but stay tuned
+
+1222
+00:50:35,880 --> 00:50:38,240
+prisoners dilemma as the building block
+
+1223
+00:50:38,240 --> 00:50:40,240
+of how to do this amid lots of other
+
+1224
+00:50:40,240 --> 00:50:41,880
+types of games that are used but
+
+1225
+00:50:41,880 --> 00:50:44,160
+prisoners dilemma is the most basic one
+
+1226
+00:50:44,160 --> 00:50:46,240
+and that round robin tournament that
+
+1227
+00:50:46,240 --> 00:50:49,240
+computer simulation Axel Rod asking all
+
+1228
+00:50:49,240 --> 00:50:51,680
+his buddies to tell him what strategy
+
+1229
+00:50:51,680 --> 00:50:53,240
+would you use run them against each
+
+1230
+00:50:53,240 --> 00:50:55,920
+other and out comes tit fortat Tit for
+
+1231
+00:50:55,920 --> 00:50:59,440
+Tat Drive all the others into
+
+1232
+00:50:59,440 --> 00:51:01,440
+Extinction however there is a
+
+1233
+00:51:01,440 --> 00:51:06,040
+vulnerability in tit for which
+
+1234
+00:51:16,880 --> 00:51:21,720
+is okay so we have the technical way of
+
+1235
+00:51:21,720 --> 00:51:24,680
+showing prisoners dilemma play and first
+
+1236
+00:51:24,680 --> 00:51:27,440
+round both individuals are cooperating
+
+1237
+00:51:27,440 --> 00:51:29,119
+second round both individuals are
+
+1238
+00:51:29,119 --> 00:51:32,000
+cooperating third round this one cheats
+
+1239
+00:51:32,000 --> 00:51:34,599
+those are fangs this one cheats and this
+
+1240
+00:51:34,599 --> 00:51:37,720
+one cooperates so the next round this
+
+1241
+00:51:37,720 --> 00:51:40,799
+one now cheats and this one goes back to
+
+1242
+00:51:40,799 --> 00:51:42,960
+cooperating and we've just gotten
+
+1243
+00:51:42,960 --> 00:51:45,599
+through a scary thing that Tit for Tat
+
+1244
+00:51:45,599 --> 00:51:49,359
+solves and it's great wonderful what if
+
+1245
+00:51:49,359 --> 00:51:52,720
+though your system is not 100% perfect
+
+1246
+00:51:52,720 --> 00:51:55,520
+what if there's the possibility of a
+
+1247
+00:51:55,520 --> 00:51:58,640
+mistake being made of sending the wrong
+
+1248
+00:51:58,640 --> 00:52:01,079
+signal what if there's the possibility
+
+1249
+00:52:01,079 --> 00:52:04,240
+of noise in the communication system and
+
+1250
+00:52:04,240 --> 00:52:06,680
+at some point an individual who does a
+
+1251
+00:52:06,680 --> 00:52:09,160
+Cooperative Behavior thanks to a glitch
+
+1252
+00:52:09,160 --> 00:52:12,000
+in the system it is read as having been
+
+1253
+00:52:12,000 --> 00:52:13,440
+defect
+
+1254
+00:52:13,440 --> 00:52:16,000
+defection so what happens as a
+
+1255
+00:52:16,000 --> 00:52:19,200
+result this
+
+1256
+00:52:19,200 --> 00:52:22,280
+individual forget it okay what happens
+
+1257
+00:52:22,280 --> 00:52:25,040
+as a result the individual who
+
+1258
+00:52:25,040 --> 00:52:27,760
+cooperated but somehow the message got
+
+1259
+00:52:27,760 --> 00:52:30,000
+through is cheating they don't know
+
+1260
+00:52:30,000 --> 00:52:31,760
+something got lost in the wires between
+
+1261
+00:52:31,760 --> 00:52:34,079
+them in Translation the other individual
+
+1262
+00:52:34,079 --> 00:52:36,839
+was saying whoa that individual cheated
+
+1263
+00:52:36,839 --> 00:52:38,559
+against me I'm going to cheat in the
+
+1264
+00:52:38,559 --> 00:52:41,000
+next round so Along Comes the next round
+
+1265
+00:52:41,000 --> 00:52:43,200
+and that individual cheats against them
+
+1266
+00:52:43,200 --> 00:52:44,720
+this one who's cooperating because
+
+1267
+00:52:44,720 --> 00:52:46,280
+they've been cooperating all along they
+
+1268
+00:52:46,280 --> 00:52:48,559
+don't know about this error and they say
+
+1269
+00:52:48,559 --> 00:52:50,920
+whoa that person just cheated against me
+
+1270
+00:52:50,920 --> 00:52:52,920
+I'm going to cheat in the next round so
+
+1271
+00:52:52,920 --> 00:52:54,280
+they cheat in the next round this one
+
+1272
+00:52:54,280 --> 00:52:56,960
+says Whoa they just cheated another time
+
+1273
+00:52:56,960 --> 00:52:58,920
+again and again and again and what you
+
+1274
+00:52:58,920 --> 00:53:01,920
+get is a seesaw pattern for the rest of
+
+1275
+00:53:01,920 --> 00:53:04,839
+time you've just wiped out 50% of the
+
+1276
+00:53:04,839 --> 00:53:07,520
+cooperation and what you've got is tit
+
+1277
+00:53:07,520 --> 00:53:10,440
+fortat strategies are vulnerable to
+
+1278
+00:53:10,440 --> 00:53:12,920
+Signal error that's something that soon
+
+1279
+00:53:12,920 --> 00:53:15,359
+came out in these studies of axle rods
+
+1280
+00:53:15,359 --> 00:53:17,319
+and when I was a kid there was like one
+
+1281
+00:53:17,319 --> 00:53:19,680
+of these like thriller books I remember
+
+1282
+00:53:19,680 --> 00:53:22,440
+reading where there's a glitch in the
+
+1283
+00:53:22,440 --> 00:53:24,720
+system and at the time the mean scary
+
+1284
+00:53:24,720 --> 00:53:28,359
+Soviet Union launched a missile that no
+
+1285
+00:53:28,359 --> 00:53:30,079
+it was the United States the United
+
+1286
+00:53:30,079 --> 00:53:32,640
+States by accident launched a missile a
+
+1287
+00:53:32,640 --> 00:53:34,880
+nuclear weapon where they didn't mean to
+
+1288
+00:53:34,880 --> 00:53:37,599
+some cockroach you know chewed through a
+
+1289
+00:53:37,599 --> 00:53:39,599
+wire someplace or other and the missile
+
+1290
+00:53:39,599 --> 00:53:42,760
+went off and wound up being destroying
+
+1291
+00:53:42,760 --> 00:53:44,920
+Moscow and oh my God we had a
+
+1292
+00:53:44,920 --> 00:53:47,720
+Cooperative system of mutually sort of
+
+1293
+00:53:47,720 --> 00:53:49,760
+Restraint of aggression all of that and
+
+1294
+00:53:49,760 --> 00:53:52,280
+thanks to a signal error a cheating
+
+1295
+00:53:52,280 --> 00:53:54,680
+signal was accidentally sent off and how
+
+1296
+00:53:54,680 --> 00:53:57,400
+did the book end a tit for response in
+
+1297
+00:53:57,400 --> 00:53:59,960
+order to avoid sort of thermonuclear
+
+1298
+00:53:59,960 --> 00:54:02,680
+Wasteland the Soviet Union was allowed
+
+1299
+00:54:02,680 --> 00:54:06,160
+to destroy New York all right so that
+
+1300
+00:54:06,160 --> 00:54:08,720
+shows exactly how you could then get
+
+1301
+00:54:08,720 --> 00:54:12,160
+into a seawing thing simply by way of if
+
+1302
+00:54:12,160 --> 00:54:14,480
+the system has any vulnerability to
+
+1303
+00:54:14,480 --> 00:54:17,240
+Signal error so it soon became clear as
+
+1304
+00:54:17,240 --> 00:54:19,599
+soon as Axel Rod began to introduce the
+
+1305
+00:54:19,599 --> 00:54:21,839
+possibility of signal errors that tiit
+
+1306
+00:54:21,839 --> 00:54:24,520
+fortat didn't work as well as another
+
+1307
+00:54:24,520 --> 00:54:26,920
+strategy one that quickly came to the
+
+1308
+00:54:26,920 --> 00:54:30,359
+Forefront and that
+
+1309
+00:54:31,440 --> 00:54:34,960
+one for some strange reason that's the
+
+1310
+00:54:34,960 --> 00:54:37,040
+way it's shown that one was called
+
+1311
+00:54:37,040 --> 00:54:39,480
+forgiving tit
+
+1312
+00:54:39,480 --> 00:54:41,799
+fortat what happens with forgiving tit
+
+1313
+00:54:41,799 --> 00:54:44,400
+fortat the usual rule like Tit for Tat
+
+1314
+00:54:44,400 --> 00:54:46,079
+if you cooperate if they cooperate you
+
+1315
+00:54:46,079 --> 00:54:47,760
+always cooperate if they cheat against
+
+1316
+00:54:47,760 --> 00:54:50,119
+you you punish them in the next round
+
+1317
+00:54:50,119 --> 00:54:52,559
+exactly same thing as Tit for Tat but oh
+
+1318
+00:54:52,559 --> 00:54:54,839
+no what if there's a signal error in the
+
+1319
+00:54:54,839 --> 00:54:57,319
+system and you've gotten in one of these
+
+1320
+00:54:57,319 --> 00:55:00,240
+horrible seawing things what forgiving
+
+1321
+00:55:00,240 --> 00:55:03,160
+TI fortat does is we'll have a rule for
+
+1322
+00:55:03,160 --> 00:55:06,520
+example that if we seesaw like this five
+
+1323
+00:55:06,520 --> 00:55:09,599
+times in a row I will foro cheating the
+
+1324
+00:55:09,599 --> 00:55:12,200
+next time and instead I'll cooperate and
+
+1325
+00:55:12,200 --> 00:55:14,960
+that will get things back on track I am
+
+1326
+00:55:14,960 --> 00:55:18,880
+willing to be forgiving in one round in
+
+1327
+00:55:18,880 --> 00:55:21,920
+order to reestablish cooperation after
+
+1328
+00:55:21,920 --> 00:55:25,079
+the signal error came in and that one as
+
+1329
+00:55:25,079 --> 00:55:26,319
+soon as you introduce the Poss
+
+1330
+00:55:26,319 --> 00:55:28,559
+possibility of signal error that one out
+
+1331
+00:55:28,559 --> 00:55:31,640
+competes tit fortat because it makes
+
+1332
+00:55:31,640 --> 00:55:33,839
+perfect sense it's a great way of
+
+1333
+00:55:33,839 --> 00:55:35,280
+solving that
+
+1334
+00:55:35,280 --> 00:55:38,960
+problem so that was terrific tit fortat
+
+1335
+00:55:38,960 --> 00:55:40,640
+but the ability to forgive and what you
+
+1336
+00:55:40,640 --> 00:55:43,520
+would then see is variability how many
+
+1337
+00:55:43,520 --> 00:55:45,440
+of these do you need to go through
+
+1338
+00:55:45,440 --> 00:55:47,400
+before you forgive what's the optimal
+
+1339
+00:55:47,400 --> 00:55:49,599
+number of sees songs all of that so a
+
+1340
+00:55:49,599 --> 00:55:52,079
+whole world of optimizing how soon you
+
+1341
+00:55:52,079 --> 00:55:54,480
+were forgiving nonetheless the general
+
+1342
+00:55:54,480 --> 00:55:56,960
+theme being forgiving TI for Tat out
+
+1343
+00:55:56,960 --> 00:55:58,400
+canach TI for Tat when you can have
+
+1344
+00:55:58,400 --> 00:56:01,160
+signal error but there is a
+
+1345
+00:56:01,160 --> 00:56:03,440
+vulnerability there is a vulnerability
+
+1346
+00:56:03,440 --> 00:56:06,280
+here to this one which is you could be
+
+1347
+00:56:06,280 --> 00:56:08,680
+exploited if you're playing against for
+
+1348
+00:56:08,680 --> 00:56:10,960
+example a tit for tar or all sorts of
+
+1349
+00:56:10,960 --> 00:56:13,799
+other strategies where they don't have
+
+1350
+00:56:13,799 --> 00:56:17,119
+forgiving strings of defection and you
+
+1351
+00:56:17,119 --> 00:56:19,000
+do what's going to happen is you're
+
+1352
+00:56:19,000 --> 00:56:20,640
+going to keep going back to cooperating
+
+1353
+00:56:20,640 --> 00:56:21,760
+and they're going to keep stabbing you
+
+1354
+00:56:21,760 --> 00:56:25,119
+in your back forgiving Tit for Tat is
+
+1355
+00:56:25,119 --> 00:56:28,039
+vulnerable to exploitation playing
+
+1356
+00:56:28,039 --> 00:56:30,400
+against individual players that don't
+
+1357
+00:56:30,400 --> 00:56:33,559
+have forgiveness in them so what soon
+
+1358
+00:56:33,559 --> 00:56:36,920
+became apparent was an even better
+
+1359
+00:56:36,920 --> 00:56:40,160
+strategy which
+
+1360
+00:56:44,039 --> 00:56:47,960
+is you start off with a tit fortat
+
+1361
+00:56:47,960 --> 00:56:51,280
+strategy which is you are punitive you
+
+1362
+00:56:51,280 --> 00:56:54,319
+are retaliatory amid being forgiving
+
+1363
+00:56:54,319 --> 00:56:56,720
+clear nice initially you were willing to
+
+1364
+00:56:56,720 --> 00:56:58,839
+punish and you cannot be exploited in
+
+1365
+00:56:58,839 --> 00:57:02,640
+this way if and only if you have gone
+
+1366
+00:57:02,640 --> 00:57:04,680
+whatever number of rounds without the
+
+1367
+00:57:04,680 --> 00:57:07,200
+other individual ever cheating on you if
+
+1368
+00:57:07,200 --> 00:57:08,839
+you've gone long enough without that
+
+1369
+00:57:08,839 --> 00:57:11,200
+happening you switch over to forgiving
+
+1370
+00:57:11,200 --> 00:57:14,839
+tit fortat what is that that's deciding
+
+1371
+00:57:14,839 --> 00:57:16,680
+you trust somebody you've had enough
+
+1372
+00:57:16,680 --> 00:57:18,559
+interactions with them that you are
+
+1373
+00:57:18,559 --> 00:57:20,640
+willing to trust them this is the
+
+1374
+00:57:20,640 --> 00:57:24,920
+transition from Pure rational optimizing
+
+1375
+00:57:24,920 --> 00:57:28,119
+to switching over forgiveness coming in
+
+1376
+00:57:28,119 --> 00:57:30,400
+there protects you from signal error and
+
+1377
+00:57:30,400 --> 00:57:33,440
+of course now a whole world of how many
+
+1378
+00:57:33,440 --> 00:57:35,359
+rounds do you need to do this before you
+
+1379
+00:57:35,359 --> 00:57:37,480
+switch that as to what the optimal deal
+
+1380
+00:57:37,480 --> 00:57:40,319
+with that is but again this is a way of
+
+1381
+00:57:40,319 --> 00:57:43,160
+transitioning to solve the problem of
+
+1382
+00:57:43,160 --> 00:57:46,039
+signal error but forgiving too readily
+
+1383
+00:57:46,039 --> 00:57:49,359
+and being taken advantage of soon
+
+1384
+00:57:49,359 --> 00:57:51,480
+another strategy appeared which was
+
+1385
+00:57:51,480 --> 00:57:52,480
+called
+
+1386
+00:57:52,480 --> 00:57:54,640
+Pavlov and those of you who know
+
+1387
+00:57:54,640 --> 00:57:57,760
+pavlovian psychology will see that this
+
+1388
+00:57:57,760 --> 00:57:59,319
+in fact has nothing whatsoever to do
+
+1389
+00:57:59,319 --> 00:58:01,200
+with pavlovian psychology and I don't
+
+1390
+00:58:01,200 --> 00:58:02,960
+know why they did that but they thought
+
+1391
+00:58:02,960 --> 00:58:05,839
+it was kind of cool but the rule was
+
+1392
+00:58:05,839 --> 00:58:08,760
+remember if you stab the other guy in
+
+1393
+00:58:08,760 --> 00:58:10,839
+the back you get a bunch of points if
+
+1394
+00:58:10,839 --> 00:58:13,160
+you both cooperate you get points not as
+
+1395
+00:58:13,160 --> 00:58:16,319
+many if you both cheat you lose some
+
+1396
+00:58:16,319 --> 00:58:18,760
+points if you're taken advantage of you
+
+1397
+00:58:18,760 --> 00:58:21,480
+lose a lot of points so two outcomes you
+
+1398
+00:58:21,480 --> 00:58:24,240
+gain two outcomes you lose in Pavo the
+
+1399
+00:58:24,240 --> 00:58:27,359
+simple rule is when I I do something if
+
+1400
+00:58:27,359 --> 00:58:29,720
+I get points if I get some degree of
+
+1401
+00:58:29,720 --> 00:58:33,280
+reward I do it again the next time if I
+
+1402
+00:58:33,280 --> 00:58:35,240
+get rewarded and either of the first two
+
+1403
+00:58:35,240 --> 00:58:38,400
+types of payoffs I do the same thing
+
+1404
+00:58:38,400 --> 00:58:41,280
+again and the other part of course is
+
+1405
+00:58:41,280 --> 00:58:44,440
+and if I have if I play my strategy and
+
+1406
+00:58:44,440 --> 00:58:46,760
+I lose one of the two bottom the two
+
+1407
+00:58:46,760 --> 00:58:49,079
+bottom outcomes I switch to the other
+
+1408
+00:58:49,079 --> 00:58:52,319
+strategy the next time and what you see
+
+1409
+00:58:52,319 --> 00:58:55,160
+is that can establish very good Tit for
+
+1410
+00:58:55,160 --> 00:58:57,760
+Tat stuff but if you sit and spend hours
+
+1411
+00:58:57,760 --> 00:58:59,799
+tonight with you know a long roll of
+
+1412
+00:58:59,799 --> 00:59:01,319
+toilet paper and playing out all the
+
+1413
+00:59:01,319 --> 00:59:03,640
+rounds of it you will see what pav love
+
+1414
+00:59:03,640 --> 00:59:06,640
+allows you to do is exploit somebody
+
+1415
+00:59:06,640 --> 00:59:09,480
+else who is forgiving so Pavlov goes
+
+1416
+00:59:09,480 --> 00:59:11,520
+along just fine with this and as long as
+
+1417
+00:59:11,520 --> 00:59:14,200
+Pavlov continues whenever they switch
+
+1418
+00:59:14,200 --> 00:59:16,960
+over to a forgiving tit fortat Pavlov
+
+1419
+00:59:16,960 --> 00:59:21,359
+will outcompete them because Pavlov
+
+1420
+00:59:21,680 --> 00:59:24,680
+exploits what then emerged was just
+
+1421
+00:59:24,680 --> 00:59:27,000
+zillions of people stud all sorts of
+
+1422
+00:59:27,000 --> 00:59:29,119
+games like this and there's other ones
+
+1423
+00:59:29,119 --> 00:59:32,119
+ultimatum game is a trust game where
+
+1424
+00:59:32,119 --> 00:59:34,599
+it's the same notion of business there
+
+1425
+00:59:34,599 --> 00:59:36,599
+which is you choose to cooperate you
+
+1426
+00:59:36,599 --> 00:59:38,440
+choose to cheat what's the optimal
+
+1427
+00:59:38,440 --> 00:59:41,039
+outcome there are mathematically optimal
+
+1428
+00:59:41,039 --> 00:59:43,160
+outcomes that you can use and you run
+
+1429
+00:59:43,160 --> 00:59:45,319
+all of it against the computer and you
+
+1430
+00:59:45,319 --> 00:59:47,119
+get the optimization popping out the
+
+1431
+00:59:47,119 --> 00:59:50,319
+other end wonderful so there's Axel rod
+
+1432
+00:59:50,319 --> 00:59:52,920
+and there's buddies using terms like oh
+
+1433
+00:59:52,920 --> 00:59:54,960
+this strategy will drive the other one
+
+1434
+00:59:54,960 --> 00:59:58,760
+into Extinction or this strategy works
+
+1435
+00:59:58,760 --> 01:00:00,839
+but if you program in that every now and
+
+1436
+01:00:00,839 --> 01:00:02,720
+then there could be a glitch there can
+
+1437
+01:00:02,720 --> 01:00:05,280
+be a mutation this will be they're using
+
+1438
+01:00:05,280 --> 01:00:08,160
+all this biology jargon obviously
+
+1439
+01:00:08,160 --> 01:00:10,119
+metaphorically but right around this
+
+1440
+01:00:10,119 --> 01:00:12,640
+point the biologists look at this who
+
+1441
+01:00:12,640 --> 01:00:14,359
+are just beginning to think about the
+
+1442
+01:00:14,359 --> 01:00:17,920
+social biology stuff formal patterns of
+
+1443
+01:00:17,920 --> 01:00:21,559
+optimizing behavior and they say whoa
+
+1444
+01:00:21,559 --> 01:00:24,000
+does this apply to the behavior of real
+
+1445
+01:00:24,000 --> 01:00:26,240
+organisms because at this point it's
+
+1446
+01:00:26,240 --> 01:00:29,000
+just economists and computer types and
+
+1447
+01:00:29,000 --> 01:00:31,720
+diplomats learning when to optimize all
+
+1448
+01:00:31,720 --> 01:00:34,079
+that sort of thing around the time there
+
+1449
+01:00:34,079 --> 01:00:36,880
+was a paper published somewhat before
+
+1450
+01:00:36,880 --> 01:00:39,160
+that this is a name nobody is going to
+
+1451
+01:00:39,160 --> 01:00:41,640
+know lost in history a guy named Daniel
+
+1452
+01:00:41,640 --> 01:00:44,920
+Ellsberg Daniel Ellsberg became very
+
+1453
+01:00:44,920 --> 01:00:47,760
+famous around 1970 by he was working in
+
+1454
+01:00:47,760 --> 01:00:50,680
+the Pentagon and he stole thousands of
+
+1455
+01:00:50,680 --> 01:00:53,079
+pages of secret files there and gave it
+
+1456
+01:00:53,079 --> 01:00:56,319
+to the New York Times showing how utter
+
+1457
+01:00:56,319 --> 01:00:58,240
+corrupt everything that went on behind
+
+1458
+01:00:58,240 --> 01:00:59,920
+the scenes was and getting us into
+
+1459
+01:00:59,920 --> 01:01:03,039
+Vietnam major blow out all of that he
+
+1460
+01:01:03,039 --> 01:01:05,319
+had spent the early part of his career
+
+1461
+01:01:05,319 --> 01:01:07,000
+perfectly happily working in the
+
+1462
+01:01:07,000 --> 01:01:09,920
+Pentagon for the military as a game
+
+1463
+01:01:09,920 --> 01:01:12,440
+theorist as a game theorist coming up
+
+1464
+01:01:12,440 --> 01:01:14,960
+with optimal patterns and he wrote one
+
+1465
+01:01:14,960 --> 01:01:18,200
+paper called the optimal benefits of
+
+1466
+01:01:18,200 --> 01:01:19,440
+perceived
+
+1467
+01:01:19,440 --> 01:01:22,280
+Madness what what times do you want your
+
+1468
+01:01:22,280 --> 01:01:24,680
+opponent to think you were absolutely
+
+1469
+01:01:24,680 --> 01:01:26,440
+out of your mind and good to do all
+
+1470
+01:01:26,440 --> 01:01:28,680
+sorts of crazy stuff and where they wind
+
+1471
+01:01:28,680 --> 01:01:30,760
+up cooperating to keep you from doing
+
+1472
+01:01:30,760 --> 01:01:33,720
+that the advantages of Madness what's
+
+1473
+01:01:33,720 --> 01:01:35,400
+that that systems where things like
+
+1474
+01:01:35,400 --> 01:01:37,640
+mutually assured destruction doesn't
+
+1475
+01:01:37,640 --> 01:01:39,960
+work because you're willing to set it
+
+1476
+01:01:39,960 --> 01:01:42,559
+off that the advantages of Madness this
+
+1477
+01:01:42,559 --> 01:01:44,880
+whole world of people working on it
+
+1478
+01:01:44,880 --> 01:01:47,880
+mathematicians and more strategists and
+
+1479
+01:01:47,880 --> 01:01:50,079
+there's the zoologists now looking at
+
+1480
+01:01:50,079 --> 01:01:53,880
+this saying whoa this is cool I wonder
+
+1481
+01:01:53,880 --> 01:01:56,680
+if animals behave that way and that's
+
+1482
+01:01:56,680 --> 01:01:58,680
+when people now armed with their
+
+1483
+01:01:58,680 --> 01:02:01,000
+insights into prisoners dilemma and tit
+
+1484
+01:02:01,000 --> 01:02:03,400
+fortat and all this stuff started to go
+
+1485
+01:02:03,400 --> 01:02:05,440
+and study animals out in the wild and
+
+1486
+01:02:05,440 --> 01:02:08,720
+see were there any examples where this
+
+1487
+01:02:08,720 --> 01:02:12,160
+happened yes in all sorts of interesting
+
+1488
+01:02:12,160 --> 01:02:16,119
+Realms first example vampire bats
+
+1489
+01:02:16,119 --> 01:02:18,319
+vampire bats we are all set up to be
+
+1490
+01:02:18,319 --> 01:02:20,520
+creeped out by vampire bats but in
+
+1491
+01:02:20,520 --> 01:02:22,720
+actuality when you see a vampire bat
+
+1492
+01:02:22,720 --> 01:02:24,760
+drinking the blood of some cow or
+
+1493
+01:02:24,760 --> 01:02:27,720
+something you are watching at a mommy
+
+1494
+01:02:27,720 --> 01:02:30,359
+getting food for her babies because
+
+1495
+01:02:30,359 --> 01:02:32,359
+vampire bat mothers are not actually
+
+1496
+01:02:32,359 --> 01:02:34,559
+drinking the blood they're filling up
+
+1497
+01:02:34,559 --> 01:02:36,559
+this throat sack thing and they go back
+
+1498
+01:02:36,559 --> 01:02:38,119
+to the nest and they discourage the
+
+1499
+01:02:38,119 --> 01:02:40,640
+blood to feed their babies she's just
+
+1500
+01:02:40,640 --> 01:02:43,599
+watching out for her kids it happens
+
+1501
+01:02:43,599 --> 01:02:45,559
+that vampire bats have an interesting
+
+1502
+01:02:45,559 --> 01:02:48,039
+system of reciprocal altruism which is a
+
+1503
+01:02:48,039 --> 01:02:50,119
+whole bunch of females will share the
+
+1504
+01:02:50,119 --> 01:02:52,520
+same nest we'll have all their kids in
+
+1505
+01:02:52,520 --> 01:02:54,279
+there mixed in and these are not
+
+1506
+01:02:54,279 --> 01:02:56,359
+necessarily related so so we've just
+
+1507
+01:02:56,359 --> 01:02:58,400
+left the world of kin selection they're
+
+1508
+01:02:58,400 --> 01:03:00,319
+not necessarily related but they have
+
+1509
+01:03:00,319 --> 01:03:02,839
+reciprocal altruist system each female
+
+1510
+01:03:02,839 --> 01:03:06,000
+comes in Discord disgorges the blood and
+
+1511
+01:03:06,000 --> 01:03:08,240
+feeds everybody's babies and they'll all
+
+1512
+01:03:08,240 --> 01:03:09,920
+feed each other's babies and everything
+
+1513
+01:03:09,920 --> 01:03:11,799
+is terrific and they have this blood
+
+1514
+01:03:11,799 --> 01:03:14,440
+vampire commune going there and they
+
+1515
+01:03:14,440 --> 01:03:17,039
+have reached a nice state of stable
+
+1516
+01:03:17,039 --> 01:03:20,279
+cooperation now make the bats think that
+
+1517
+01:03:20,279 --> 01:03:23,559
+one of the females is cheating on them
+
+1518
+01:03:23,559 --> 01:03:25,559
+out comes that female flying off to find
+
+1519
+01:03:25,559 --> 01:03:28,520
+some blood and instead you net her and
+
+1520
+01:03:28,520 --> 01:03:30,839
+get a hold of her and take some syringe
+
+1521
+01:03:30,839 --> 01:03:33,160
+full of air and pump up the throat sack
+
+1522
+01:03:33,160 --> 01:03:35,520
+so the throat sack is really full and
+
+1523
+01:03:35,520 --> 01:03:37,240
+distended but there's no blood in there
+
+1524
+01:03:37,240 --> 01:03:39,440
+you just pumped air into there and stick
+
+1525
+01:03:39,440 --> 01:03:40,880
+her back into the nest there and she's
+
+1526
+01:03:40,880 --> 01:03:42,520
+just sitting there happily and the other
+
+1527
+01:03:42,520 --> 01:03:44,960
+females are sitting saying look at her
+
+1528
+01:03:44,960 --> 01:03:46,920
+look at how much blood she's got there I
+
+1529
+01:03:46,920 --> 01:03:48,880
+can't believe it cuz she's not feeding
+
+1530
+01:03:48,880 --> 01:03:51,640
+our kids she's cheating on us and the
+
+1531
+01:03:51,640 --> 01:03:53,920
+next time they go out to feed the other
+
+1532
+01:03:53,920 --> 01:03:57,279
+females don't feed her kids a Tit for
+
+1533
+01:03:57,279 --> 01:04:00,319
+Tat and what you saw here is an exact
+
+1534
+01:04:00,319 --> 01:04:02,799
+example of introducing signal error
+
+1535
+01:04:02,799 --> 01:04:04,720
+signal error in this case being some
+
+1536
+01:04:04,720 --> 01:04:06,760
+grad student pumping up the throat of
+
+1537
+01:04:06,760 --> 01:04:10,119
+some vampire bat and showing that
+
+1538
+01:04:10,119 --> 01:04:12,640
+they're using a version of a Tit for Tat
+
+1539
+01:04:12,640 --> 01:04:15,480
+strategy totally amazing people were
+
+1540
+01:04:15,480 --> 01:04:19,960
+blown away by this another example fish
+
+1541
+01:04:19,960 --> 01:04:22,599
+stickleback fish who in the world of
+
+1542
+01:04:22,599 --> 01:04:24,680
+animals you know bats are probably not
+
+1543
+01:04:24,680 --> 01:04:26,200
+some of the brightest folks around but I
+
+1544
+01:04:26,200 --> 01:04:28,160
+don't think sticklebacks are within
+
+1545
+01:04:28,160 --> 01:04:30,559
+light years of them but stickleback fish
+
+1546
+01:04:30,559 --> 01:04:33,000
+can do a tid fortat strategy here's what
+
+1547
+01:04:33,000 --> 01:04:36,279
+you do you have a stickleback fish in
+
+1548
+01:04:36,279 --> 01:04:39,680
+your in your fish tank and you make the
+
+1549
+01:04:39,680 --> 01:04:41,559
+fish you make him believe that he's
+
+1550
+01:04:41,559 --> 01:04:44,400
+being attacked by another fish what do
+
+1551
+01:04:44,400 --> 01:04:46,359
+you do you put a mirror up against the
+
+1552
+01:04:46,359 --> 01:04:48,720
+edge of the tank there so within a very
+
+1553
+01:04:48,720 --> 01:04:50,440
+short time I told you they were not that
+
+1554
+01:04:50,440 --> 01:04:52,720
+smart so but in a very short time he's
+
+1555
+01:04:52,720 --> 01:04:55,319
+lunging forward at this mirrored thing
+
+1556
+01:04:55,319 --> 01:04:57,520
+and maintaining his territory against
+
+1557
+01:04:57,520 --> 01:04:59,920
+this guy and barely holding on and that
+
+1558
+01:04:59,920 --> 01:05:02,520
+other guy is just he doesn't get tired
+
+1559
+01:05:02,520 --> 01:05:04,640
+thank God I don't get tired and they're
+
+1560
+01:05:04,640 --> 01:05:07,520
+just going at it and now make him think
+
+1561
+01:05:07,520 --> 01:05:10,880
+he has a Cooperative partner put in a
+
+1562
+01:05:10,880 --> 01:05:14,160
+second mirror that's perpendicular here
+
+1563
+01:05:14,160 --> 01:05:16,880
+in other words he sees his reflection
+
+1564
+01:05:16,880 --> 01:05:19,680
+there and every time he moves forward he
+
+1565
+01:05:19,680 --> 01:05:22,240
+sees that one moving forward and which
+
+1566
+01:05:22,240 --> 01:05:24,160
+is fortunate because he's also seeing
+
+1567
+01:05:24,160 --> 01:05:25,839
+another fish coming from that way and
+
+1568
+01:05:25,839 --> 01:05:27,160
+he's sitting there saying this is great
+
+1569
+01:05:27,160 --> 01:05:29,279
+I don't know who this guy is but wow
+
+1570
+01:05:29,279 --> 01:05:31,920
+what a team we are doubles this is great
+
+1571
+01:05:31,920 --> 01:05:33,359
+he's in there in the thick it's funny
+
+1572
+01:05:33,359 --> 01:05:35,079
+how those two guys are so synchronized
+
+1573
+01:05:35,079 --> 01:05:37,119
+but whoa we're holding them off and
+
+1574
+01:05:37,119 --> 01:05:40,000
+we're doing now make him think his
+
+1575
+01:05:40,000 --> 01:05:42,039
+cooperating partner is in fact cheating
+
+1576
+01:05:42,039 --> 01:05:45,160
+on him take the mirror and angle it back
+
+1577
+01:05:45,160 --> 01:05:48,039
+a little bit so the reflection is set
+
+1578
+01:05:48,039 --> 01:05:51,279
+back some and what he now sees is the
+
+1579
+01:05:51,279 --> 01:05:53,400
+fish moving forward but not all the way
+
+1580
+01:05:53,400 --> 01:05:55,480
+up to the wall there the fish is hanging
+
+1581
+01:05:55,480 --> 01:05:58,039
+back back there the fish is cheating and
+
+1582
+01:05:58,039 --> 01:05:59,480
+this stickle back is sitting there
+
+1583
+01:05:59,480 --> 01:06:02,279
+saying in effect that son of a I
+
+1584
+01:06:02,279 --> 01:06:03,640
+can't believe he's doing that to me
+
+1585
+01:06:03,640 --> 01:06:04,880
+we've worked together for years I can't
+
+1586
+01:06:04,880 --> 01:06:07,240
+believe he's oh he's pretending to go
+
+1587
+01:06:07,240 --> 01:06:09,279
+forward but I see he's not really doing
+
+1588
+01:06:09,279 --> 01:06:11,400
+that fortunately that guy isn't coming
+
+1589
+01:06:11,400 --> 01:06:13,920
+forward anymore either pH but I can't
+
+1590
+01:06:13,920 --> 01:06:15,520
+believe that guy's cheating and the next
+
+1591
+01:06:15,520 --> 01:06:18,079
+time you set up this scenario the next
+
+1592
+01:06:18,079 --> 01:06:20,319
+time move the chance the stickle back
+
+1593
+01:06:20,319 --> 01:06:22,880
+doesn't attack its own reflection there
+
+1594
+01:06:22,880 --> 01:06:26,279
+it is tit for tatting against this guy
+
+1595
+01:06:26,279 --> 01:06:28,440
+so here we've managed to set up one of
+
+1596
+01:06:28,440 --> 01:06:30,760
+these deals within one fish and carrying
+
+1597
+01:06:30,760 --> 01:06:33,039
+it out forever one fish ultimately with
+
+1598
+01:06:33,039 --> 01:06:35,760
+some very blistered lips Tit for Tat
+
+1599
+01:06:35,760 --> 01:06:38,640
+once again another example this is the
+
+1600
+01:06:38,640 --> 01:06:41,559
+most bizarre one I can imagine and leads
+
+1601
+01:06:41,559 --> 01:06:43,079
+to all sorts of subjects that are going
+
+1602
+01:06:43,079 --> 01:06:45,160
+to come many lectures from now but there
+
+1603
+01:06:45,160 --> 01:06:48,559
+are fish species that will change sex
+
+1604
+01:06:48,559 --> 01:06:50,359
+and they do it under all sorts of
+
+1605
+01:06:50,359 --> 01:06:53,000
+strategic circumstances that suddenly
+
+1606
+01:06:53,000 --> 01:06:54,760
+begin to fit into this realm of what
+
+1607
+01:06:54,760 --> 01:06:56,960
+we've been learning about out and you've
+
+1608
+01:06:56,960 --> 01:06:58,839
+got one of these things called black
+
+1609
+01:06:58,839 --> 01:07:02,359
+Hamlet fish and they can change gender
+
+1610
+01:07:02,359 --> 01:07:04,440
+so you'll have a pair of them who hang
+
+1611
+01:07:04,440 --> 01:07:06,680
+out with each other of opposite genders
+
+1612
+01:07:06,680 --> 01:07:08,480
+and they take turns they flip back and
+
+1613
+01:07:08,480 --> 01:07:10,640
+forth for a while this one's female and
+
+1614
+01:07:10,640 --> 01:07:12,000
+for a while this one's female and they
+
+1615
+01:07:12,000 --> 01:07:13,880
+go back and forth and that's great but
+
+1616
+01:07:13,880 --> 01:07:16,039
+there's an inequity there which is that
+
+1617
+01:07:16,039 --> 01:07:18,400
+the price of reproduction is greater for
+
+1618
+01:07:18,400 --> 01:07:21,720
+the female than for the male as is the
+
+1619
+01:07:21,720 --> 01:07:23,520
+case in so many species the female is
+
+1620
+01:07:23,520 --> 01:07:26,640
+doing all that egg and over duct and
+
+1621
+01:07:26,640 --> 01:07:28,680
+progesterone stuff or whatever it is and
+
+1622
+01:07:28,680 --> 01:07:30,240
+the males just got to come up with some
+
+1623
+01:07:30,240 --> 01:07:33,000
+sperm there doing reproduction as a
+
+1624
+01:07:33,000 --> 01:07:35,680
+cooperating pair they're not relatives
+
+1625
+01:07:35,680 --> 01:07:38,400
+reciprocal altruism maximizing each of
+
+1626
+01:07:38,400 --> 01:07:40,359
+their reproductions whoever is the
+
+1627
+01:07:40,359 --> 01:07:42,640
+female in any given round is the one
+
+1628
+01:07:42,640 --> 01:07:45,960
+who's paying more and what you see are
+
+1629
+01:07:45,960 --> 01:07:48,760
+reciprocal relationships there of the
+
+1630
+01:07:48,760 --> 01:07:51,880
+fish using Tit for Tat if you get one
+
+1631
+01:07:51,880 --> 01:07:54,279
+fish that begins to cheat and winds up
+
+1632
+01:07:54,279 --> 01:07:56,799
+being a male too much the time the other
+
+1633
+01:07:56,799 --> 01:07:59,440
+fish stops cooperating with them again
+
+1634
+01:07:59,440 --> 01:08:02,079
+tit fortat stuff so people were just
+
+1635
+01:08:02,079 --> 01:08:04,200
+blown out of the water at this point
+
+1636
+01:08:04,200 --> 01:08:07,599
+seeing whoa forget rational human
+
+1637
+01:08:07,599 --> 01:08:09,599
+economic thinking and all of that you go
+
+1638
+01:08:09,599 --> 01:08:11,960
+out into the wild and bats and
+
+1639
+01:08:11,960 --> 01:08:14,359
+stickleback fish and gender switching
+
+1640
+01:08:14,359 --> 01:08:16,279
+fish and all of that they're following
+
+1641
+01:08:16,279 --> 01:08:18,759
+some of the exact same strategies isn't
+
+1642
+01:08:18,759 --> 01:08:21,679
+nature amazing no nature isn't amazing
+
+1643
+01:08:21,679 --> 01:08:24,080
+it's the exact same logic as saying a
+
+1644
+01:08:24,080 --> 01:08:26,679
+giraffe has to have heart that's strong
+
+1645
+01:08:26,679 --> 01:08:28,279
+enough to pump blood to the top of the
+
+1646
+01:08:28,279 --> 01:08:30,319
+head of a giraffe or else there wouldn't
+
+1647
+01:08:30,319 --> 01:08:32,560
+be giraffe and when you look at this
+
+1648
+01:08:32,560 --> 01:08:35,359
+realm it's applying the same notion the
+
+1649
+01:08:35,359 --> 01:08:38,238
+same sort of wind tunnel of selective
+
+1650
+01:08:38,238 --> 01:08:41,279
+optimization for behavior in this case
+
+1651
+01:08:41,279 --> 01:08:43,960
+went to cheat went to cooperate sculpt
+
+1652
+01:08:43,960 --> 01:08:46,600
+something that is as optimized as a
+
+1653
+01:08:46,600 --> 01:08:49,000
+giraffe's heart being the right size so
+
+1654
+01:08:49,000 --> 01:08:52,319
+this made perfect sense wonderful but
+
+1655
+01:08:52,319 --> 01:08:54,080
+then people began to look a little bit
+
+1656
+01:08:54,080 --> 01:08:57,000
+closer and began to see sort of the very
+
+1657
+01:08:57,000 --> 01:08:58,759
+distressing real world beginning to
+
+1658
+01:08:58,759 --> 01:09:01,839
+creep in there which were exceptions
+
+1659
+01:09:01,839 --> 01:09:04,120
+first exception this was done by a guy
+
+1660
+01:09:04,120 --> 01:09:05,679
+named Craig Packer University of
+
+1661
+01:09:05,679 --> 01:09:08,120
+Minnesota looking at lions in East
+
+1662
+01:09:08,120 --> 01:09:11,399
+Africa and what you get is typically
+
+1663
+01:09:11,399 --> 01:09:13,399
+Prides are a whole bunch of relatives
+
+1664
+01:09:13,399 --> 01:09:16,198
+usually females sisters nieces all of
+
+1665
+01:09:16,198 --> 01:09:17,880
+that but you will sometimes get Prides
+
+1666
+01:09:17,880 --> 01:09:19,479
+that are not of close relatives
+
+1667
+01:09:19,479 --> 01:09:21,719
+nonetheless they will get you know
+
+1668
+01:09:21,719 --> 01:09:24,399
+reciprocal altruistic things going on
+
+1669
+01:09:24,399 --> 01:09:26,880
+lions in this case having the same trick
+
+1670
+01:09:26,880 --> 01:09:28,799
+as was done on those vervet monkeys
+
+1671
+01:09:28,799 --> 01:09:31,839
+researcher putting inside the bush there
+
+1672
+01:09:31,839 --> 01:09:34,479
+a speaker and playing the sound of like
+
+1673
+01:09:34,479 --> 01:09:39,000
+400 menacing Lions all at once and you
+
+1674
+01:09:39,000 --> 01:09:41,040
+know what you're supposed to do is freak
+
+1675
+01:09:41,040 --> 01:09:43,040
+out at that point and all of you need to
+
+1676
+01:09:43,040 --> 01:09:44,839
+very carefully approach and see what's
+
+1677
+01:09:44,839 --> 01:09:47,359
+going on in that bush so what would
+
+1678
+01:09:47,359 --> 01:09:49,960
+happen in a reciprocal system and
+
+1679
+01:09:49,960 --> 01:09:52,198
+everybody do this does this or if one
+
+1680
+01:09:52,198 --> 01:09:54,279
+time one of them cheats on you you push
+
+1681
+01:09:54,279 --> 01:09:55,760
+that one forward the next time time or
+
+1682
+01:09:55,760 --> 01:09:57,280
+some such thing that's what you would
+
+1683
+01:09:57,280 --> 01:09:59,719
+expect but what he would begin to notice
+
+1684
+01:09:59,719 --> 01:10:02,040
+is in a bunch of these groups there'd be
+
+1685
+01:10:02,040 --> 01:10:06,120
+one scaredy cat lion one who habitually
+
+1686
+01:10:06,120 --> 01:10:08,679
+stayed behind the others and who wasn't
+
+1687
+01:10:08,679 --> 01:10:11,199
+punished for it so this produced this
+
+1688
+01:10:11,199 --> 01:10:14,080
+first puzzle that oh sometimes animals
+
+1689
+01:10:14,080 --> 01:10:16,280
+aren't optimizing tit fortat sometimes
+
+1690
+01:10:16,280 --> 01:10:18,320
+animals haven't read Robert axelrod's
+
+1691
+01:10:18,320 --> 01:10:21,199
+Landmark 1972 paper that sort of thing
+
+1692
+01:10:21,199 --> 01:10:23,840
+and what you suddenly have is the real
+
+1693
+01:10:23,840 --> 01:10:26,199
+world what could be possible
+
+1694
+01:10:26,199 --> 01:10:29,120
+explanations one thing being maybe
+
+1695
+01:10:29,120 --> 01:10:31,000
+they're not really paying attention
+
+1696
+01:10:31,000 --> 01:10:32,960
+maybe they're not quite that smart wait
+
+1697
+01:10:32,960 --> 01:10:34,640
+bacteria are doing versions of tit
+
+1698
+01:10:34,640 --> 01:10:37,320
+fortat what else could be going on oh
+
+1699
+01:10:37,320 --> 01:10:40,239
+Lions interact in other Realms maybe
+
+1700
+01:10:40,239 --> 01:10:43,640
+this individual is doing very reciprocal
+
+1701
+01:10:43,640 --> 01:10:46,880
+stuff forgiving overly altruistic stuff
+
+1702
+01:10:46,880 --> 01:10:49,520
+in some other realm of behavior maybe
+
+1703
+01:10:49,520 --> 01:10:52,480
+this lion is eats less of the meat and
+
+1704
+01:10:52,480 --> 01:10:55,360
+backs off earlier or something like that
+
+1705
+01:10:55,360 --> 01:10:58,560
+maybe there's another game going on
+
+1706
+01:10:58,560 --> 01:11:01,120
+simultaneously and this introducing the
+
+1707
+01:11:01,120 --> 01:11:04,000
+real world in which it is not just two
+
+1708
+01:11:04,000 --> 01:11:06,080
+individuals sitting there playing
+
+1709
+01:11:06,080 --> 01:11:08,400
+prisoners dilemma and optimizing you
+
+1710
+01:11:08,400 --> 01:11:10,080
+suddenly begin to get real world
+
+1711
+01:11:10,080 --> 01:11:12,280
+complexities coming in there and by the
+
+1712
+01:11:12,280 --> 01:11:14,360
+time we get to the lectures way down the
+
+1713
+01:11:14,360 --> 01:11:16,960
+line on aggression and cooperation what
+
+1714
+01:11:16,960 --> 01:11:19,080
+you will see is things get really
+
+1715
+01:11:19,080 --> 01:11:21,120
+complicated when you have individuals
+
+1716
+01:11:21,120 --> 01:11:23,760
+playing games simultaneously the rules
+
+1717
+01:11:23,760 --> 01:11:26,280
+that you apply to Oney logically begin
+
+1718
+01:11:26,280 --> 01:11:28,800
+to dribble into the other one all sorts
+
+1719
+01:11:28,800 --> 01:11:31,040
+of things like that it will get very
+
+1720
+01:11:31,040 --> 01:11:33,640
+complicated so first hint there that in
+
+1721
+01:11:33,640 --> 01:11:35,600
+fact everything doesn't work perfectly
+
+1722
+01:11:35,600 --> 01:11:38,480
+along those lines here's another version
+
+1723
+01:11:38,480 --> 01:11:40,760
+here's one of the truly weird species
+
+1724
+01:11:40,760 --> 01:11:43,040
+out there something called the naked
+
+1725
+01:11:43,040 --> 01:11:46,719
+mole rat if you ever have nothing to do
+
+1726
+01:11:46,719 --> 01:11:49,280
+and you've got Google image up there go
+
+1727
+01:11:49,280 --> 01:11:51,159
+like spend the evening looking up
+
+1728
+01:11:51,159 --> 01:11:53,480
+closeup pictures of naked mole rats
+
+1729
+01:11:53,480 --> 01:11:55,760
+these are like the weirdest things out
+
+1730
+01:11:55,760 --> 01:11:57,920
+there they are the closest things among
+
+1731
+01:11:57,920 --> 01:12:00,760
+the mammals to social insects in terms
+
+1732
+01:12:00,760 --> 01:12:02,960
+of how their colonies work they're
+
+1733
+01:12:02,960 --> 01:12:04,920
+totally bizarre all of that but they
+
+1734
+01:12:04,920 --> 01:12:07,639
+live in these big Cooperative colonies
+
+1735
+01:12:07,639 --> 01:12:09,719
+that are predominantly underground in
+
+1736
+01:12:09,719 --> 01:12:11,480
+Africa and they were discovered I think
+
+1737
+01:12:11,480 --> 01:12:14,199
+only in the 1970s or so and for a while
+
+1738
+01:12:14,199 --> 01:12:16,520
+when zoologists got together if you were
+
+1739
+01:12:16,520 --> 01:12:18,760
+a naked mole rat person you were just
+
+1740
+01:12:18,760 --> 01:12:20,639
+the coolest around and everybody else
+
+1741
+01:12:20,639 --> 01:12:22,480
+would feel intimidated cuz you were
+
+1742
+01:12:22,480 --> 01:12:24,679
+working on the best species out there
+
+1743
+01:12:24,679 --> 01:12:26,560
+and you would see these big Cooperative
+
+1744
+01:12:26,560 --> 01:12:29,080
+colonies soon shown to not necessarily
+
+1745
+01:12:29,080 --> 01:12:32,639
+be of relatives and reciprocity all
+
+1746
+01:12:32,639 --> 01:12:34,360
+those sorts of rules but people soon
+
+1747
+01:12:34,360 --> 01:12:37,159
+began to recognize there would be one or
+
+1748
+01:12:37,159 --> 01:12:39,520
+two animals in each colony that weren't
+
+1749
+01:12:39,520 --> 01:12:43,080
+doing any work work digging out
+
+1750
+01:12:43,080 --> 01:12:45,159
+tunnels bookkeeping I don't know what
+
+1751
+01:12:45,159 --> 01:12:47,440
+naked mole rats do in terms of work but
+
+1752
+01:12:47,440 --> 01:12:49,000
+there would be a few individuals who
+
+1753
+01:12:49,000 --> 01:12:50,840
+would just be sitting around and there
+
+1754
+01:12:50,840 --> 01:12:53,320
+was these big old naked mole rats they
+
+1755
+01:12:53,320 --> 01:12:55,239
+were much bigger than the other ones and
+
+1756
+01:12:55,239 --> 01:12:57,560
+were scarfing up food left and right
+
+1757
+01:12:57,560 --> 01:12:59,760
+there goes Robert Axel rod down the
+
+1758
+01:12:59,760 --> 01:13:01,639
+drain there goes all that optimization
+
+1759
+01:13:01,639 --> 01:13:03,400
+because no one would be punishing these
+
+1760
+01:13:03,400 --> 01:13:06,520
+guys what's the deal and it took enough
+
+1761
+01:13:06,520 --> 01:13:08,600
+watching these animals long enough to
+
+1762
+01:13:08,600 --> 01:13:11,800
+see this notion of oh there's another
+
+1763
+01:13:11,800 --> 01:13:14,239
+game going on in which they play a more
+
+1764
+01:13:14,239 --> 01:13:16,840
+important role and it is sort of
+
+1765
+01:13:16,840 --> 01:13:19,679
+dribbling across when the rainy season
+
+1766
+01:13:19,679 --> 01:13:22,880
+comes these big naked mole rats go up
+
+1767
+01:13:22,880 --> 01:13:25,360
+and turn around and they plug the entry
+
+1768
+01:13:25,360 --> 01:13:29,080
+to the tunnels there that's what they do
+
+1769
+01:13:29,080 --> 01:13:30,679
+and suddenly these guys who have been
+
+1770
+01:13:30,679 --> 01:13:32,600
+sitting around doing no work whatsoever
+
+1771
+01:13:32,600 --> 01:13:35,239
+all year and eating tons of stuff they
+
+1772
+01:13:35,239 --> 01:13:36,960
+suddenly have to now stick their rear
+
+1773
+01:13:36,960 --> 01:13:39,199
+ends out for the coyotes to be around or
+
+1774
+01:13:39,199 --> 01:13:41,120
+whatever it is that predates them what
+
+1775
+01:13:41,120 --> 01:13:44,760
+we have is role diversification real
+
+1776
+01:13:44,760 --> 01:13:47,159
+animals real organisms are not just
+
+1777
+01:13:47,159 --> 01:13:49,960
+playing one formal prisoners dilemma
+
+1778
+01:13:49,960 --> 01:13:52,880
+game against each other at the same time
+
+1779
+01:13:52,880 --> 01:13:54,679
+and by the time we again get to the
+
+1780
+01:13:54,679 --> 01:13:56,639
+later lectures on aggression cooperation
+
+1781
+01:13:56,639 --> 01:13:58,600
+all of that we will not only see the
+
+1782
+01:13:58,600 --> 01:14:00,719
+things get much more complicated when
+
+1783
+01:14:00,719 --> 01:14:02,920
+you're playing simultaneous games when
+
+1784
+01:14:02,920 --> 01:14:04,320
+you're playing a game against one
+
+1785
+01:14:04,320 --> 01:14:06,040
+individual while you're playing against
+
+1786
+01:14:06,040 --> 01:14:08,280
+another one and them against triangular
+
+1787
+01:14:08,280 --> 01:14:11,360
+circumstances how play differs if you
+
+1788
+01:14:11,360 --> 01:14:13,280
+know how many rounds you were playing
+
+1789
+01:14:13,280 --> 01:14:15,120
+against the individual versus if you
+
+1790
+01:14:15,120 --> 01:14:18,239
+have no idea how play differs if when
+
+1791
+01:14:18,239 --> 01:14:20,320
+you were about to play against someone
+
+1792
+01:14:20,320 --> 01:14:22,600
+you get to find out what their behavior
+
+1793
+01:14:22,600 --> 01:14:24,280
+has been in the previous trials with
+
+1794
+01:14:24,280 --> 01:14:26,280
+other individuals in other words if
+
+1795
+01:14:26,280 --> 01:14:29,080
+somebody shows up with a reputation
+
+1796
+01:14:29,080 --> 01:14:30,920
+we'll see this is a much more
+
+1797
+01:14:30,920 --> 01:14:32,719
+complicated world of playing out these
+
+1798
+01:14:32,719 --> 01:14:35,800
+games a much more realistic one so we
+
+1799
+01:14:35,800 --> 01:14:37,800
+begin to see a first pass at all this
+
+1800
+01:14:37,800 --> 01:14:40,040
+optimization stuff and how great that
+
+1801
+01:14:40,040 --> 01:14:43,400
+all is one final interesting addition to
+
+1802
+01:14:43,400 --> 01:14:45,560
+this game theory world of thinking about
+
+1803
+01:14:45,560 --> 01:14:47,719
+Behavior like that which came from a guy
+
+1804
+01:14:47,719 --> 01:14:49,800
+named James Holland who
+
+1805
+01:14:49,800 --> 01:14:51,800
+apparently might have a different first
+
+1806
+01:14:51,800 --> 01:14:54,320
+name but Holland apparently is an
+
+1807
+01:14:54,320 --> 01:14:55,800
+interesting piece recent history he's
+
+1808
+01:14:55,800 --> 01:14:58,320
+the P first person to ever get a PhD in
+
+1809
+01:14:58,320 --> 01:15:00,400
+Computer Sciences which I think was in
+
+1810
+01:15:00,400 --> 01:15:02,560
+the late 50s University of Michigan
+
+1811
+01:15:02,560 --> 01:15:04,800
+apparently there are Realms of of
+
+1812
+01:15:04,800 --> 01:15:06,880
+computer programmers who worship this
+
+1813
+01:15:06,880 --> 01:15:09,360
+guy and he like a lot of other folks in
+
+1814
+01:15:09,360 --> 01:15:11,000
+that business got interested in this
+
+1815
+01:15:11,000 --> 01:15:13,560
+game theory evolution of optimal
+
+1816
+01:15:13,560 --> 01:15:15,920
+strategies and he designed ways of
+
+1817
+01:15:15,920 --> 01:15:17,760
+running all of this and he introduced a
+
+1818
+01:15:17,760 --> 01:15:20,760
+new Ripple which is the possibility of a
+
+1819
+01:15:20,760 --> 01:15:23,199
+strategy suddenly changing the
+
+1820
+01:15:23,199 --> 01:15:25,880
+possibility of a mutation
+
+1821
+01:15:25,880 --> 01:15:27,840
+and what he could then study was
+
+1822
+01:15:27,840 --> 01:15:30,480
+mutations how often they were adaptive
+
+1823
+01:15:30,480 --> 01:15:33,239
+how often they spread throughout the
+
+1824
+01:15:33,239 --> 01:15:35,400
+strategy there of individuals playing
+
+1825
+01:15:35,400 --> 01:15:37,199
+how often they drove the other
+
+1826
+01:15:37,199 --> 01:15:40,159
+strategies into Extinction versus ones
+
+1827
+01:15:40,159 --> 01:15:42,239
+that were quickly driven to Extinction
+
+1828
+01:15:42,239 --> 01:15:44,320
+themselves more cases where we are
+
+1829
+01:15:44,320 --> 01:15:46,120
+getting these systems where maybe
+
+1830
+01:15:46,120 --> 01:15:47,960
+they're not just metaphorically using
+
+1831
+01:15:47,960 --> 01:15:50,719
+terms from biology maybe they are
+
+1832
+01:15:50,719 --> 01:15:52,920
+exactly modeling the same thing and we
+
+1833
+01:15:52,920 --> 01:15:55,880
+will see more and more evidence for that
+
+1834
+01:15:55,880 --> 01:15:58,639
+okay so reciprocal altruism how would
+
+1835
+01:15:58,639 --> 01:16:00,760
+that play out in the world of natural
+
+1836
+01:16:00,760 --> 01:16:03,679
+selection natural selection Cooperative
+
+1837
+01:16:03,679 --> 01:16:05,880
+hunting and there's lots of species that
+
+1838
+01:16:05,880 --> 01:16:08,320
+have Cooperative hunting wild dogs
+
+1839
+01:16:08,320 --> 01:16:11,000
+Jackal some other species as well that's
+
+1840
+01:16:11,000 --> 01:16:12,880
+clearly that's like the definition of
+
+1841
+01:16:12,880 --> 01:16:14,920
+Cooperative hunting of Cooperative
+
+1842
+01:16:14,920 --> 01:16:16,480
+reciprocal altruism if they're not
+
+1843
+01:16:16,480 --> 01:16:19,120
+relatives how would sexual selection
+
+1844
+01:16:19,120 --> 01:16:20,719
+play out in the realm of reciprocal
+
+1845
+01:16:20,719 --> 01:16:23,320
+altruism a little bit less obvious there
+
+1846
+01:16:23,320 --> 01:16:24,960
+that would be if you and some
+
+1847
+01:16:24,960 --> 01:16:27,159
+non-relative spend an insane amount of
+
+1848
+01:16:27,159 --> 01:16:29,520
+energy and time making sure you both
+
+1849
+01:16:29,520 --> 01:16:32,000
+look really good before going to the
+
+1850
+01:16:32,000 --> 01:16:34,159
+prom that would be sexual selection
+
+1851
+01:16:34,159 --> 01:16:36,639
+working on reciprocal altruistic system
+
+1852
+01:16:36,639 --> 01:16:38,800
+so what we have now are our three
+
+1853
+01:16:38,800 --> 01:16:42,040
+building blocks this whole trashing of
+
+1854
+01:16:42,040 --> 01:16:44,280
+it's not survival of the fittest it's
+
+1855
+01:16:44,280 --> 01:16:46,679
+not behaving for the good of the species
+
+1856
+01:16:46,679 --> 01:16:48,040
+it's not behaving for the good of the
+
+1857
+01:16:48,040 --> 01:16:49,920
+group but instead these three building
+
+1858
+01:16:49,920 --> 01:16:52,760
+blocks the ways to optimize as many
+
+1859
+01:16:52,760 --> 01:16:54,920
+copies of your genes in the next
+
+1860
+01:16:54,920 --> 01:16:57,800
+generation is possible way number one
+
+1861
+01:16:57,800 --> 01:17:00,120
+individual selection a version of
+
+1862
+01:17:00,120 --> 01:17:02,639
+selfish jeans sometimes a chicken is an
+
+1863
+01:17:02,639 --> 01:17:05,080
+egg way of making another egg behavior
+
+1864
+01:17:05,080 --> 01:17:06,840
+is just the way of getting copies of
+
+1865
+01:17:06,840 --> 01:17:09,520
+genes into the Next Generation piece
+
+1866
+01:17:09,520 --> 01:17:11,960
+number two Inclusive fitness kin
+
+1867
+01:17:11,960 --> 01:17:13,800
+selection that whole business that's
+
+1868
+01:17:13,800 --> 01:17:15,000
+Sometimes the best way of passing on
+
+1869
+01:17:15,000 --> 01:17:17,520
+copies is to help relatives do it and
+
+1870
+01:17:17,520 --> 01:17:19,280
+it's as a function of how related there
+
+1871
+01:17:19,280 --> 01:17:22,040
+the whole world of cooperation more
+
+1872
+01:17:22,040 --> 01:17:24,560
+among related organisms than unrelated
+
+1873
+01:17:24,560 --> 01:17:27,320
+ones and as we will see way down the
+
+1874
+01:17:27,320 --> 01:17:29,560
+line what is very challenging in
+
+1875
+01:17:29,560 --> 01:17:31,480
+different species is how do you figure
+
+1876
+01:17:31,480 --> 01:17:34,280
+out who you're related to and humans do
+
+1877
+01:17:34,280 --> 01:17:36,800
+it in a very unique way that sets them
+
+1878
+01:17:36,800 --> 01:17:39,360
+up for being exploited in all sorts of
+
+1879
+01:17:39,360 --> 01:17:42,320
+circumstances that begin to explain why
+
+1880
+01:17:42,320 --> 01:17:45,320
+culture after culture people are really
+
+1881
+01:17:45,320 --> 01:17:48,360
+not nice to thems and it flows along
+
+1882
+01:17:48,360 --> 01:17:49,840
+those lines this is something we will
+
+1883
+01:17:49,840 --> 01:17:52,199
+get to in a lot of detail so degree of
+
+1884
+01:17:52,199 --> 01:17:54,440
+relatedness a lecture coming how do you
+
+1885
+01:17:54,440 --> 01:17:56,560
+tell who who you're related to but that
+
+1886
+01:17:56,560 --> 01:17:59,400
+second piece kin selection third piece
+
+1887
+01:17:59,400 --> 01:18:01,840
+reciprocal altruism you scratch my back
+
+1888
+01:18:01,840 --> 01:18:04,360
+and I'll scratch your back and whenever
+
+1889
+01:18:04,360 --> 01:18:06,480
+possible you want to instead scratch
+
+1890
+01:18:06,480 --> 01:18:07,920
+your back and they want to make sure
+
+1891
+01:18:07,920 --> 01:18:09,679
+you're not scratching your back or
+
+1892
+01:18:09,679 --> 01:18:11,719
+whatever cheating counts as but trying
+
+1893
+01:18:11,719 --> 01:18:13,800
+to cheat being vigilant against it
+
+1894
+01:18:13,800 --> 01:18:16,400
+formal games where you can optimize it
+
+1895
+01:18:16,400 --> 01:18:18,880
+very complicated and can you believe it
+
+1896
+01:18:18,880 --> 01:18:20,600
+you go out into the real world and you
+
+1897
+01:18:20,600 --> 01:18:23,199
+find examples of precisely that
+
+1898
+01:18:23,199 --> 01:18:25,159
+optimization with Tit for Tat is nature
+
+1899
+01:18:25,159 --> 01:18:27,400
+wonderful it's got to work that way and
+
+1900
+01:18:27,400 --> 01:18:29,239
+then you begin to see how the real world
+
+1901
+01:18:29,239 --> 01:18:32,760
+is more complicated multiple roles naked
+
+1902
+01:18:32,760 --> 01:18:34,719
+mole rats stuck in plumbing things of
+
+1903
+01:18:34,719 --> 01:18:37,560
+that sort okay so these are the
+
+1904
+01:18:37,560 --> 01:18:39,760
+principles and what people of the school
+
+1905
+01:18:39,760 --> 01:18:42,320
+of evolutionary thought would say armed
+
+1906
+01:18:42,320 --> 01:18:44,400
+with these sorts of principles you could
+
+1907
+01:18:44,400 --> 01:18:46,600
+now look at all sorts of interesting
+
+1908
+01:18:46,600 --> 01:18:49,639
+domains of animal behavior and
+
+1909
+01:18:49,639 --> 01:18:51,159
+understand what the behavior is going to
+
+1910
+01:18:51,159 --> 01:18:53,920
+be like by using these okay we start
+
+1911
+01:18:53,920 --> 01:18:55,440
+with the first example
+
+1912
+01:18:55,440 --> 01:18:58,639
+here we return to these guys and we have
+
+1913
+01:18:58,639 --> 01:19:01,679
+one species here and knowing this guy
+
+1914
+01:19:01,679 --> 01:19:03,800
+had a penis and this one nursed we've
+
+1915
+01:19:03,800 --> 01:19:06,040
+got an adult male an adult female what
+
+1916
+01:19:06,040 --> 01:19:08,120
+is it that you can conclude in this
+
+1917
+01:19:08,120 --> 01:19:11,520
+species males are a lot bigger than
+
+1918
+01:19:11,520 --> 01:19:14,040
+females so let's state it here as
+
+1919
+01:19:14,040 --> 01:19:16,760
+there's a big ratio of males to females
+
+1920
+01:19:16,760 --> 01:19:18,639
+meanwhile in the next County you've
+
+1921
+01:19:18,639 --> 01:19:20,040
+discovered another species where
+
+1922
+01:19:20,040 --> 01:19:21,600
+somebody's got a penis and somebody else
+
+1923
+01:19:21,600 --> 01:19:23,440
+is nursing and their skulls are the
+
+1924
+01:19:23,440 --> 01:19:25,840
+exact same size oh here's a species
+
+1925
+01:19:25,840 --> 01:19:28,440
+where there's no difference in body size
+
+1926
+01:19:28,440 --> 01:19:31,480
+between males and females okay so let's
+
+1927
+01:19:31,480 --> 01:19:33,480
+begin to see just using the principles
+
+1928
+01:19:33,480 --> 01:19:35,880
+we've got in hand already what sort of
+
+1929
+01:19:35,880 --> 01:19:37,320
+stuff we can
+
+1930
+01:19:37,320 --> 01:19:40,480
+predict starting okay which of those
+
+1931
+01:19:40,480 --> 01:19:42,960
+species in one case you have males being
+
+1932
+01:19:42,960 --> 01:19:46,159
+a lot bigger than females in one case
+
+1933
+01:19:46,159 --> 01:19:48,000
+you've got males being the same size as
+
+1934
+01:19:48,000 --> 01:19:50,600
+females and which of those species the
+
+1935
+01:19:50,600 --> 01:19:52,760
+first one like this or the same siiz
+
+1936
+01:19:52,760 --> 01:19:54,320
+ones and which ones would you expect to
+
+1937
+01:19:54,320 --> 01:19:57,320
+see more male
+
+1938
+01:19:57,320 --> 01:20:01,239
+aggression first one okay how
+
+1939
+01:20:01,239 --> 01:20:04,000
+come their bodies are built for it which
+
+1940
+01:20:04,000 --> 01:20:05,639
+begins to tell you something their
+
+1941
+01:20:05,639 --> 01:20:07,480
+bodies are built for it maybe because
+
+1942
+01:20:07,480 --> 01:20:09,400
+females have been selecting for that you
+
+1943
+01:20:09,400 --> 01:20:12,560
+will see higher levels of aggression in
+
+1944
+01:20:12,560 --> 01:20:15,440
+species like this where there's a big
+
+1945
+01:20:15,440 --> 01:20:18,520
+body size difference and much less of it
+
+1946
+01:20:18,520 --> 01:20:22,400
+in these guys next you now ask how much
+
+1947
+01:20:22,400 --> 01:20:25,320
+variability is there in male productive
+
+1948
+01:20:25,320 --> 01:20:28,679
+success in one of these species all the
+
+1949
+01:20:28,679 --> 01:20:31,480
+males have one or two kids over their
+
+1950
+01:20:31,480 --> 01:20:35,000
+lifetime in another species 95% of the
+
+1951
+01:20:35,000 --> 01:20:37,719
+reproducing is carried out by 5% of the
+
+1952
+01:20:37,719 --> 01:20:41,239
+males a huge variability skew in male
+
+1953
+01:20:41,239 --> 01:20:43,800
+reproductive success which species do
+
+1954
+01:20:43,800 --> 01:20:46,480
+you get the every male has a couple of
+
+1955
+01:20:46,480 --> 01:20:48,440
+kids and that's about it and all equally
+
+1956
+01:20:48,440 --> 01:20:49,960
+so which
+
+1957
+01:20:49,960 --> 01:20:54,800
+one second one how come
+
+1958
+01:20:56,800 --> 01:20:59,400
+because these guys are being selected
+
+1959
+01:20:59,400 --> 01:21:01,800
+for aggression if they're fighting there
+
+1960
+01:21:01,800 --> 01:21:03,159
+is going to have to be something they're
+
+1961
+01:21:03,159 --> 01:21:05,719
+fighting for differential reproductive
+
+1962
+01:21:05,719 --> 01:21:09,920
+access okay so you see more
+
+1963
+01:21:09,920 --> 01:21:12,719
+variability in species that look like
+
+1964
+01:21:12,719 --> 01:21:16,280
+this next females come into the equation
+
+1965
+01:21:16,280 --> 01:21:18,760
+what do females want what do females
+
+1966
+01:21:18,760 --> 01:21:20,760
+want in the species on the left versus
+
+1967
+01:21:20,760 --> 01:21:22,560
+the one on the right the one on the
+
+1968
+01:21:22,560 --> 01:21:25,400
+right you know again skull the same size
+
+1969
+01:21:25,400 --> 01:21:27,760
+same body size on the left what does the
+
+1970
+01:21:27,760 --> 01:21:30,239
+female
+
+1971
+01:21:31,719 --> 01:21:34,159
+want what sort of male is the female
+
+1972
+01:21:34,159 --> 01:21:38,280
+interested in big exactly that's exactly
+
+1973
+01:21:38,280 --> 01:21:41,520
+the driving force on this how come
+
+1974
+01:21:41,520 --> 01:21:43,400
+because she's not going to get anything
+
+1975
+01:21:43,400 --> 01:21:45,520
+else out of this guy this guy is just
+
+1976
+01:21:45,520 --> 01:21:46,880
+going to like the Pres is going to be
+
+1977
+01:21:46,880 --> 01:21:49,000
+some sperm it might as well be some good
+
+1978
+01:21:49,000 --> 01:21:51,000
+sperm some genetically well-endowed
+
+1979
+01:21:51,000 --> 01:21:53,040
+sperm that makes for a big healthy
+
+1980
+01:21:53,040 --> 01:21:55,719
+Offspring increasing the odds of her
+
+1981
+01:21:55,719 --> 01:21:57,159
+passing on copies of her genes in the
+
+1982
+01:21:57,159 --> 01:22:00,320
+Next Generation what about in this
+
+1983
+01:22:00,320 --> 01:22:04,360
+species what's females looking
+
+1984
+01:22:06,159 --> 01:22:09,880
+for okay good hold on to that for a
+
+1985
+01:22:09,880 --> 01:22:13,440
+second and let's Jump Ahead a few lines
+
+1986
+01:22:13,440 --> 01:22:16,920
+one of the species males have never been
+
+1987
+01:22:16,920 --> 01:22:18,960
+known to do the slightest affiliative
+
+1988
+01:22:18,960 --> 01:22:20,800
+thing with infants they just get
+
+1989
+01:22:20,800 --> 01:22:22,560
+irritated and harass them and all of
+
+1990
+01:22:22,560 --> 01:22:25,840
+that and the other you have soccer dads
+
+1991
+01:22:25,840 --> 01:22:27,679
+who are doing as much raising of the
+
+1992
+01:22:27,679 --> 01:22:31,080
+kids as the females are in which species
+
+1993
+01:22:31,080 --> 01:22:34,199
+do you get lots of male parental
+
+1994
+01:22:34,199 --> 01:22:37,080
+Behavior the one on the right okay so
+
+1995
+01:22:37,080 --> 01:22:40,880
+lots of male parental Behavior
+
+1996
+01:22:41,600 --> 01:22:44,480
+here so somebody just gave the answer
+
+1997
+01:22:44,480 --> 01:22:46,679
+here female Choice what would you see in
+
+1998
+01:22:46,679 --> 01:22:49,639
+this species you want big muscular guys
+
+1999
+01:22:49,639 --> 01:22:52,040
+you want whatever is selling that season
+
+2000
+01:22:52,040 --> 01:22:54,600
+for what counts as a hot male because
+
+2001
+01:22:54,600 --> 01:22:56,480
+you want your Offspring to have those
+
+2002
+01:22:56,480 --> 01:22:59,120
+traits and somebody else called out here
+
+2003
+01:22:59,120 --> 01:23:01,719
+what do females want in this category
+
+2004
+01:23:01,719 --> 01:23:04,080
+and what was it you said good
+
+2005
+01:23:04,080 --> 01:23:08,639
+personality good personality yes able to
+
+2006
+01:23:08,639 --> 01:23:10,400
+express
+
+2007
+01:23:10,400 --> 01:23:12,120
+emotions that
+
+2008
+01:23:12,120 --> 01:23:14,320
+too okay somebody else shouted out
+
+2009
+01:23:14,320 --> 01:23:17,480
+something that gets at the broader more
+
+2010
+01:23:17,480 --> 01:23:19,360
+globally Oprah version okay somebody
+
+2011
+01:23:19,360 --> 01:23:24,239
+shouted out P parental Behavior you want
+
+2012
+01:23:24,239 --> 01:23:26,360
+a male who is going to be competent at
+
+2013
+01:23:26,360 --> 01:23:28,679
+raising your children what is it that
+
+2014
+01:23:28,679 --> 01:23:31,520
+you want really most deeply you want to
+
+2015
+01:23:31,520 --> 01:23:33,719
+get the male who is the most like a
+
+2016
+01:23:33,719 --> 01:23:36,040
+female you can get a hold of you don't
+
+2017
+01:23:36,040 --> 01:23:38,400
+want some big old stupid guy with a lot
+
+2018
+01:23:38,400 --> 01:23:40,480
+of muscle and canines who's wasting
+
+2019
+01:23:40,480 --> 01:23:42,480
+energy on stuff like that that he could
+
+2020
+01:23:42,480 --> 01:23:44,800
+be using instead on you know reading
+
+2021
+01:23:44,800 --> 01:23:47,239
+good night moon or some such thing what
+
+2022
+01:23:47,239 --> 01:23:50,760
+you want instead is somebody who's as
+
+2023
+01:23:50,760 --> 01:23:52,560
+close to a female as you can get to
+
+2024
+01:23:52,560 --> 01:23:54,639
+without getting this lactation stuff
+
+2025
+01:23:54,639 --> 01:23:58,120
+males are chosen who are the same size
+
+2026
+01:23:58,120 --> 01:24:02,719
+as females so the term given here is you
+
+2027
+01:24:02,719 --> 01:24:04,679
+know choosing for paternal Behavior
+
+2028
+01:24:04,679 --> 01:24:06,840
+parental Behavior parental let's just
+
+2029
+01:24:06,840 --> 01:24:09,120
+put that in there and that begins to
+
+2030
+01:24:09,120 --> 01:24:11,360
+explain the Top Line species in which
+
+2031
+01:24:11,360 --> 01:24:14,440
+there's a lot of sexual dimorphism
+
+2032
+01:24:14,440 --> 01:24:16,719
+morphism Shapes of Things sexual
+
+2033
+01:24:16,719 --> 01:24:19,840
+dimorphism big difference in body size
+
+2034
+01:24:19,840 --> 01:24:22,360
+as a function of gender and in these
+
+2035
+01:24:22,360 --> 01:24:24,719
+sorts of species where you get male Al
+
+2036
+01:24:24,719 --> 01:24:26,840
+Behavior not much variability male
+
+2037
+01:24:26,840 --> 01:24:28,560
+reproductive success low levels of
+
+2038
+01:24:28,560 --> 01:24:30,239
+aggression and what females want is a
+
+2039
+01:24:30,239 --> 01:24:32,199
+competent male these are ones where you
+
+2040
+01:24:32,199 --> 01:24:35,760
+see low degrees of sexual dimorphism so
+
+2041
+01:24:35,760 --> 01:24:37,600
+how's a female going to figure out that
+
+2042
+01:24:37,600 --> 01:24:39,040
+this guy is going to be a competent
+
+2043
+01:24:39,040 --> 01:24:40,920
+parent you know once again we just
+
+2044
+01:24:40,920 --> 01:24:43,280
+figured out if he looks kind of like you
+
+2045
+01:24:43,280 --> 01:24:45,040
+because that suggests he hasn't wasted
+
+2046
+01:24:45,040 --> 01:24:47,040
+health and Metabolism on stupid
+
+2047
+01:24:47,040 --> 01:24:48,639
+pointless muscles when there's more
+
+2048
+01:24:48,639 --> 01:24:50,320
+important things in life for making sure
+
+2049
+01:24:50,320 --> 01:24:52,400
+your kids have good values what else
+
+2050
+01:24:52,400 --> 01:24:53,800
+would the female want to know when she's
+
+2051
+01:24:53,800 --> 01:24:57,480
+first considering mating with the
+
+2052
+01:24:57,480 --> 01:25:00,119
+male is he a nice guy is he sensitive
+
+2053
+01:25:00,119 --> 01:25:02,040
+does he Express his feelings is he
+
+2054
+01:25:02,040 --> 01:25:04,960
+competent at being a parent what do you
+
+2055
+01:25:04,960 --> 01:25:07,920
+want the individual to do prove to you
+
+2056
+01:25:07,920 --> 01:25:10,840
+that he can provide for the kids and
+
+2057
+01:25:10,840 --> 01:25:13,719
+suddenly you have a world of bird male
+
+2058
+01:25:13,719 --> 01:25:16,040
+birds courting the females by bringing
+
+2059
+01:25:16,040 --> 01:25:18,800
+them worms bringing them evidence that
+
+2060
+01:25:18,800 --> 01:25:20,960
+they are able to successfully forage
+
+2061
+01:25:20,960 --> 01:25:23,679
+they are able to get food female choices
+
+2062
+01:25:23,679 --> 01:25:24,840
+built around
+
+2063
+01:25:24,840 --> 01:25:27,719
+appearance and behavioral competence at
+
+2064
+01:25:27,719 --> 01:25:29,840
+being able to be a successful parent in
+
+2065
+01:25:29,840 --> 01:25:31,560
+order to pass on as many copies of genes
+
+2066
+01:25:31,560 --> 01:25:33,600
+the Next Generation as possible okay how
+
+2067
+01:25:33,600 --> 01:25:34,520
+about
+
+2068
+01:25:34,520 --> 01:25:37,440
+lifespan in which species is there a big
+
+2069
+01:25:37,440 --> 01:25:39,360
+difference and life expectancy is a
+
+2070
+01:25:39,360 --> 01:25:41,600
+function of
+
+2071
+01:25:41,600 --> 01:25:44,239
+gender first one here are you choosing
+
+2072
+01:25:44,239 --> 01:25:46,280
+for males to be as close to females as
+
+2073
+01:25:46,280 --> 01:25:48,760
+possible andless the physiology here you
+
+2074
+01:25:48,760 --> 01:25:51,320
+got these guys who are like using huge
+
+2075
+01:25:51,320 --> 01:25:53,320
+amounts of energy to build up all this
+
+2076
+01:25:53,320 --> 01:25:55,639
+muscle which takes a lot more work to
+
+2077
+01:25:55,639 --> 01:25:58,000
+keep in calories and you're more
+
+2078
+01:25:58,000 --> 01:26:00,040
+vulnerable in famines you've got these
+
+2079
+01:26:00,040 --> 01:26:02,440
+males with high testosterone which does
+
+2080
+01:26:02,440 --> 01:26:05,080
+bad stuff to your circulatory system
+
+2081
+01:26:05,080 --> 01:26:07,040
+you've got males who thanks to all this
+
+2082
+01:26:07,040 --> 01:26:09,199
+aggression are getting more injuries
+
+2083
+01:26:09,199 --> 01:26:11,840
+more likely in species in which you have
+
+2084
+01:26:11,840 --> 01:26:14,880
+a lot of sexual dimorphism in body size
+
+2085
+01:26:14,880 --> 01:26:17,880
+you get a lot of sexual dimorphism in
+
+2086
+01:26:17,880 --> 01:26:20,600
+lifespan and then you look at these guys
+
+2087
+01:26:20,600 --> 01:26:22,639
+and it's basically no difference by
+
+2088
+01:26:22,639 --> 01:26:26,280
+gender moving on considering primates
+
+2089
+01:26:26,280 --> 01:26:28,480
+that are of one of these two patterns in
+
+2090
+01:26:28,480 --> 01:26:30,719
+which one do you always want to give
+
+2091
+01:26:30,719 --> 01:26:32,880
+birth to twins in which one do you never
+
+2092
+01:26:32,880 --> 01:26:34,600
+want to give birth to twins who gives
+
+2093
+01:26:34,600 --> 01:26:35,600
+birth to
+
+2094
+01:26:35,600 --> 01:26:38,440
+twins the one on the right of course how
+
+2095
+01:26:38,440 --> 01:26:40,639
+come because you got two parents on the
+
+2096
+01:26:40,639 --> 01:26:42,719
+scene you are not a single mother and
+
+2097
+01:26:42,719 --> 01:26:44,960
+you are a single mother rees's monkey or
+
+2098
+01:26:44,960 --> 01:26:46,840
+something and you give birth to twins
+
+2099
+01:26:46,840 --> 01:26:49,159
+and you do not have the remotest chance
+
+2100
+01:26:49,159 --> 01:26:51,239
+of enough energy enough calories on
+
+2101
+01:26:51,239 --> 01:26:54,239
+board to get both of them to survive a
+
+2102
+01:26:54,239 --> 01:26:57,760
+twin that is born in a species like this
+
+2103
+01:26:57,760 --> 01:26:59,280
+has the same rate that it occurs in
+
+2104
+01:26:59,280 --> 01:27:01,760
+humans about a 1% rate and it is almost
+
+2105
+01:27:01,760 --> 01:27:03,520
+inevitable that one of them does not
+
+2106
+01:27:03,520 --> 01:27:06,159
+survive meanwhile there's a whole world
+
+2107
+01:27:06,159 --> 01:27:08,560
+of primate species with this profile
+
+2108
+01:27:08,560 --> 01:27:12,159
+where the females always
+
+2109
+01:27:12,679 --> 01:27:16,119
+twin finally you are the female and you
+
+2110
+01:27:16,119 --> 01:27:18,679
+are con contemplating bailing out on
+
+2111
+01:27:18,679 --> 01:27:20,760
+your kids and disappearing because
+
+2112
+01:27:20,760 --> 01:27:22,960
+there's some really hot guy over there
+
+2113
+01:27:22,960 --> 01:27:24,800
+who you want to mate with
+
+2114
+01:27:24,800 --> 01:27:26,600
+and you are trying to figure out this
+
+2115
+01:27:26,600 --> 01:27:29,159
+strategy so you are going to leave and
+
+2116
+01:27:29,159 --> 01:27:31,800
+abandon your kids in which species do
+
+2117
+01:27:31,800 --> 01:27:33,040
+you see that
+
+2118
+01:27:33,040 --> 01:27:35,320
+behavior the one on the right the one on
+
+2119
+01:27:35,320 --> 01:27:37,600
+the right because you bail out and the
+
+2120
+01:27:37,600 --> 01:27:39,239
+male is there taking care of them you
+
+2121
+01:27:39,239 --> 01:27:41,440
+bail out in here and you've lost your
+
+2122
+01:27:41,440 --> 01:27:43,159
+investment and copies of your genes for
+
+2123
+01:27:43,159 --> 01:27:45,400
+the Next Generation you see female
+
+2124
+01:27:45,400 --> 01:27:48,159
+cuckoldry this great Victorian term you
+
+2125
+01:27:48,159 --> 01:27:50,760
+see females cheating on the fathers in
+
+2126
+01:27:50,760 --> 01:27:53,400
+this species but not in species like
+
+2127
+01:27:53,400 --> 01:27:56,119
+this because the father is long gone in
+
+2128
+01:27:56,119 --> 01:27:58,000
+you know three other counties there
+
+2129
+01:27:58,000 --> 01:28:00,360
+according somebody else and doesn't
+
+2130
+01:28:00,360 --> 01:28:01,600
+matter you're not going to get any help
+
+2131
+01:28:01,600 --> 01:28:04,080
+from him in primate species of this
+
+2132
+01:28:04,080 --> 01:28:07,360
+profile you always see twinning and they
+
+2133
+01:28:07,360 --> 01:28:09,760
+both survive and what Studies have shown
+
+2134
+01:28:09,760 --> 01:28:11,320
+in these species and we'll get to them
+
+2135
+01:28:11,320 --> 01:28:14,480
+shortly is after birth in fact the males
+
+2136
+01:28:14,480 --> 01:28:17,000
+are expending more calories taking care
+
+2137
+01:28:17,000 --> 01:28:19,440
+of The Offspring than the females go
+
+2138
+01:28:19,440 --> 01:28:21,800
+bail out on him and go find some other
+
+2139
+01:28:21,800 --> 01:28:23,840
+hot guy which in your species counts as
+
+2140
+01:28:23,840 --> 01:28:25,639
+some guy who looks even more like you
+
+2141
+01:28:25,639 --> 01:28:27,840
+than he does in terms of what you want
+
+2142
+01:28:27,840 --> 01:28:30,280
+out of the individual so that so what
+
+2143
+01:28:30,280 --> 01:28:31,639
+have we done here we've just gone
+
+2144
+01:28:31,639 --> 01:28:33,760
+through applying these principles in
+
+2145
+01:28:33,760 --> 01:28:35,920
+this logical way and everybody from the
+
+2146
+01:28:35,920 --> 01:28:37,760
+very first step was getting the right
+
+2147
+01:28:37,760 --> 01:28:41,119
+outcome and go and these are exactly the
+
+2148
+01:28:41,119 --> 01:28:43,600
+profiles you find in certain species
+
+2149
+01:28:43,600 --> 01:28:45,760
+among social mammals these would be
+
+2150
+01:28:45,760 --> 01:28:48,800
+referred to as a tornament species a
+
+2151
+01:28:48,800 --> 01:28:50,960
+tornament species whereas the one on the
+
+2152
+01:28:50,960 --> 01:28:54,320
+right is referred to as a pair bonding a
+
+2153
+01:28:54,320 --> 01:28:57,360
+monogamous species because in this one
+
+2154
+01:28:57,360 --> 01:28:59,400
+males and females stay together because
+
+2155
+01:28:59,400 --> 01:29:01,920
+they both have equivalent investment in
+
+2156
+01:29:01,920 --> 01:29:04,239
+taking care of the kids all of that what
+
+2157
+01:29:04,239 --> 01:29:06,119
+you have here is this contrast between
+
+2158
+01:29:06,119 --> 01:29:09,080
+tornament species and pair bonding
+
+2159
+01:29:09,080 --> 01:29:12,280
+species tornament species these are all
+
+2160
+01:29:12,280 --> 01:29:15,360
+the species where you get males with big
+
+2161
+01:29:15,360 --> 01:29:18,560
+bright plumage these are peacocks these
+
+2162
+01:29:18,560 --> 01:29:20,639
+are all those bird and fish species
+
+2163
+01:29:20,639 --> 01:29:22,760
+where the males are all brightly colored
+
+2164
+01:29:22,760 --> 01:29:25,080
+what are the females choosing for
+
+2165
+01:29:25,080 --> 01:29:27,080
+peacock feathers does not make for a
+
+2166
+01:29:27,080 --> 01:29:30,040
+good peacock mother peacock feathers are
+
+2167
+01:29:30,040 --> 01:29:32,159
+signs of being healthy enough that you
+
+2168
+01:29:32,159 --> 01:29:34,159
+can waste lots of energy on these big
+
+2169
+01:29:34,159 --> 01:29:36,560
+stupid pointless feathers that's a sign
+
+2170
+01:29:36,560 --> 01:29:38,920
+of Health that's a sign of all I'm
+
+2171
+01:29:38,920 --> 01:29:41,159
+getting from this peacock as jeans I
+
+2172
+01:29:41,159 --> 01:29:43,040
+might as well go for good ones that's
+
+2173
+01:29:43,040 --> 01:29:44,560
+the world of peacocks that's the world
+
+2174
+01:29:44,560 --> 01:29:46,920
+of chickens with pecking orders
+
+2175
+01:29:46,920 --> 01:29:49,320
+dominating like that lots of aggression
+
+2176
+01:29:49,320 --> 01:29:52,080
+that's the world of primates where as in
+
+2177
+01:29:52,080 --> 01:29:54,400
+Savannah baboons the male is twice as
+
+2178
+01:29:54,400 --> 01:29:57,320
+big as the female tornament species
+
+2179
+01:29:57,320 --> 01:30:00,320
+where a lot of passing on of genes is
+
+2180
+01:30:00,320 --> 01:30:03,080
+decided by male male aggression in the
+
+2181
+01:30:03,080 --> 01:30:05,800
+context of tournaments producing massive
+
+2182
+01:30:05,800 --> 01:30:06,840
+amounts of
+
+2183
+01:30:06,840 --> 01:30:09,400
+variability in reproductive success
+
+2184
+01:30:09,400 --> 01:30:11,360
+where males are being selected for being
+
+2185
+01:30:11,360 --> 01:30:13,119
+good like this so they sure being
+
+2186
+01:30:13,119 --> 01:30:15,239
+selected for having big bodies which
+
+2187
+01:30:15,239 --> 01:30:17,080
+winds up meaning a shortened lifespan
+
+2188
+01:30:17,080 --> 01:30:18,520
+for a bunch of reasons females are
+
+2189
+01:30:18,520 --> 01:30:20,560
+choosing for that these are guys who are
+
+2190
+01:30:20,560 --> 01:30:22,159
+not using their energy on Parental
+
+2191
+01:30:22,159 --> 01:30:24,159
+Behavior thus you do not want to have
+
+2192
+01:30:24,159 --> 01:30:26,280
+twins if you were a female baboon and
+
+2193
+01:30:26,280 --> 01:30:28,000
+you do not want to bail out on the kids
+
+2194
+01:30:28,000 --> 01:30:29,239
+because nobody else is going to take
+
+2195
+01:30:29,239 --> 01:30:31,639
+care of them go and look at a new
+
+2196
+01:30:31,639 --> 01:30:34,320
+primate species and see this much of a
+
+2197
+01:30:34,320 --> 01:30:36,719
+difference in skull size and you've just
+
+2198
+01:30:36,719 --> 01:30:38,679
+be able to derive everything else about
+
+2199
+01:30:38,679 --> 01:30:41,800
+its social behavior meanwhile these guys
+
+2200
+01:30:41,800 --> 01:30:44,119
+on the right peir bonding species these
+
+2201
+01:30:44,119 --> 01:30:46,400
+are found among South American monkeys
+
+2202
+01:30:46,400 --> 01:30:48,840
+Mar missets tamarinds you put up a
+
+2203
+01:30:48,840 --> 01:30:50,600
+picture of them which I will do if I
+
+2204
+01:30:50,600 --> 01:30:52,239
+ever Master PowerPoint in some
+
+2205
+01:30:52,239 --> 01:30:54,159
+subsequent lecture you put up a picture
+
+2206
+01:30:54,159 --> 01:30:56,719
+of a maret pair and you can't tell who's
+
+2207
+01:30:56,719 --> 01:30:58,880
+the male and the female this is not the
+
+2208
+01:30:58,880 --> 01:31:01,560
+world of mandrel baboons with males with
+
+2209
+01:31:01,560 --> 01:31:03,920
+big bright bizarre coloration on the
+
+2210
+01:31:03,920 --> 01:31:06,280
+face and with antlers when the females
+
+2211
+01:31:06,280 --> 01:31:08,719
+don't and that whole world of sexual
+
+2212
+01:31:08,719 --> 01:31:10,760
+dimorphism you can't tell which one is
+
+2213
+01:31:10,760 --> 01:31:12,080
+the male and which one is the female
+
+2214
+01:31:12,080 --> 01:31:14,520
+maret by looking at them you can't tell
+
+2215
+01:31:14,520 --> 01:31:16,560
+by seeing how long they live you can't
+
+2216
+01:31:16,560 --> 01:31:18,360
+tell by how much they're taking care of
+
+2217
+01:31:18,360 --> 01:31:20,280
+the kids you can't tell in terms of
+
+2218
+01:31:20,280 --> 01:31:22,639
+their reproductive variability that's a
+
+2219
+01:31:22,639 --> 01:31:25,119
+whole different world of selection all
+
+2220
+01:31:25,119 --> 01:31:26,960
+of the South American Tamarind and
+
+2221
+01:31:26,960 --> 01:31:30,119
+marmosets the females always twin they
+
+2222
+01:31:30,119 --> 01:31:32,000
+have a higher rate of aldry of
+
+2223
+01:31:32,000 --> 01:31:34,400
+abandoning the kids the males take as
+
+2224
+01:31:34,400 --> 01:31:36,040
+much care if not more of the kids than
+
+2225
+01:31:36,040 --> 01:31:38,000
+the female does very low levels of
+
+2226
+01:31:38,000 --> 01:31:40,520
+aggression same body size same lifespan
+
+2227
+01:31:40,520 --> 01:31:42,159
+all the males have low degree of
+
+2228
+01:31:42,159 --> 01:31:44,440
+variability how come because if you're
+
+2229
+01:31:44,440 --> 01:31:47,320
+some maret male you don't want to get 47
+
+2230
+01:31:47,320 --> 01:31:50,000
+maret females pregnant because you are
+
+2231
+01:31:50,000 --> 01:31:51,440
+going to have to take care of all the
+
+2232
+01:31:51,440 --> 01:31:54,000
+kids because as we will see way down on
+
+2233
+01:31:54,000 --> 01:31:55,600
+the line in lectures on Parental
+
+2234
+01:31:55,600 --> 01:31:58,400
+Behavior the wiring there as such as
+
+2235
+01:31:58,400 --> 01:32:00,480
+bonding with The Offspring and taking
+
+2236
+01:32:00,480 --> 01:32:03,080
+care of them no wonder among species
+
+2237
+01:32:03,080 --> 01:32:05,800
+like these you have very low variability
+
+2238
+01:32:05,800 --> 01:32:08,199
+all the males reproduce once or twice
+
+2239
+01:32:08,199 --> 01:32:10,360
+this is the world of 5% of the guys
+
+2240
+01:32:10,360 --> 01:32:13,080
+accounting for 95% of the matings this
+
+2241
+01:32:13,080 --> 01:32:16,360
+is totally remarkable because again that
+
+2242
+01:32:16,360 --> 01:32:18,600
+starting point you start off here and
+
+2243
+01:32:18,600 --> 01:32:20,159
+you look at these and oh you can tell if
+
+2244
+01:32:20,159 --> 01:32:22,000
+they were bipedal and or they diseased
+
+2245
+01:32:22,000 --> 01:32:24,639
+and Mal nourish simply by a applying
+
+2246
+01:32:24,639 --> 01:32:27,320
+these principles of individual selection
+
+2247
+01:32:27,320 --> 01:32:30,360
+reciprocity all of that one factoid you
+
+2248
+01:32:30,360 --> 01:32:32,880
+see a new primate species and you see
+
+2249
+01:32:32,880 --> 01:32:35,080
+one nursing and one with a penis and
+
+2250
+01:32:35,080 --> 01:32:36,840
+they're the same size or there is
+
+2251
+01:32:36,840 --> 01:32:38,440
+different to the size and you already
+
+2252
+01:32:38,440 --> 01:32:41,440
+know all about their social system very
+
+2253
+01:32:41,440 --> 01:32:43,840
+consistent across Birds
+
+2254
+01:32:43,840 --> 01:32:47,440
+across fish across primates of all of
+
+2255
+01:32:47,440 --> 01:32:49,719
+those this dichotomy between tornament
+
+2256
+01:32:49,719 --> 01:32:52,600
+species and parab bonding species as we
+
+2257
+01:32:52,600 --> 01:32:55,239
+will see way down the line among some
+
+2258
+01:32:55,239 --> 01:32:58,280
+species types of vs rodents that are
+
+2259
+01:32:58,280 --> 01:33:00,600
+famous in Hallmark cards for their pair
+
+2260
+01:33:00,600 --> 01:33:03,000
+bonding for their monogamy so we'll see
+
+2261
+01:33:03,000 --> 01:33:04,760
+they're not quite as monogamous as you
+
+2262
+01:33:04,760 --> 01:33:07,040
+would think but nonetheless a general
+
+2263
+01:33:07,040 --> 01:33:08,440
+structure like
+
+2264
+01:33:08,440 --> 01:33:12,560
+this so one asks expectedly where do
+
+2265
+01:33:12,560 --> 01:33:15,400
+humans fit in on this one where do
+
+2266
+01:33:15,400 --> 01:33:18,280
+humans fit and the answer is
+
+2267
+01:33:18,280 --> 01:33:20,800
+complicatedly are we a tornament species
+
+2268
+01:33:20,800 --> 01:33:23,360
+are we a parab bonding species what's up
+
+2269
+01:33:23,360 --> 01:33:24,280
+with that
+
+2270
+01:33:24,280 --> 01:33:27,480
+what we will see is we're kind of in
+
+2271
+01:33:27,480 --> 01:33:29,800
+between when you look at the degree of
+
+2272
+01:33:29,800 --> 01:33:32,119
+sexual dimorphism we are not like
+
+2273
+01:33:32,119 --> 01:33:33,639
+baboons but we're sure not like
+
+2274
+01:33:33,639 --> 01:33:36,159
+marmosets we're somewhere in the middle
+
+2275
+01:33:36,159 --> 01:33:38,440
+variability is somewhere in the middle
+
+2276
+01:33:38,440 --> 01:33:41,639
+there I'm not going near that one
+
+2277
+01:33:41,639 --> 01:33:44,119
+lifespan the dimorphism and lifespan
+
+2278
+01:33:44,119 --> 01:33:47,360
+tends to be in between and parental
+
+2279
+01:33:47,360 --> 01:33:49,360
+behavior and likelihood all of those you
+
+2280
+01:33:49,360 --> 01:33:51,880
+look at a number of measures and by next
+
+2281
+01:33:51,880 --> 01:33:53,800
+lecture we will be looking at some
+
+2282
+01:33:53,800 --> 01:33:56,600
+genetics of what monogamous species and
+
+2283
+01:33:56,600 --> 01:33:59,119
+tornament species look like and we're
+
+2284
+01:33:59,119 --> 01:34:02,360
+right in the middle in other words that
+
+2285
+01:34:02,360 --> 01:34:05,600
+explains like 90% of literature because
+
+2286
+01:34:05,600 --> 01:34:07,679
+we're not a classic tornament species
+
+2287
+01:34:07,679 --> 01:34:09,360
+and we're not a classic parab bonding
+
+2288
+01:34:09,360 --> 01:34:11,679
+one we are terribly confused in the
+
+2289
+01:34:11,679 --> 01:34:14,840
+middle there and everything about
+
+2290
+01:34:14,840 --> 01:34:18,280
+anthropology supports that most people
+
+2291
+01:34:18,280 --> 01:34:21,719
+on the planet right now are in a form of
+
+2292
+01:34:21,719 --> 01:34:24,280
+monogamous relationships in a culture
+
+2293
+01:34:24,280 --> 01:34:26,960
+that allows that demands
+
+2294
+01:34:26,960 --> 01:34:29,280
+monogamy an awful lot of people who are
+
+2295
+01:34:29,280 --> 01:34:31,000
+in monogamous relationships in such
+
+2296
+01:34:31,000 --> 01:34:33,000
+cultures aren't really monogamous
+
+2297
+01:34:33,000 --> 01:34:35,400
+relationships traditionally most
+
+2298
+01:34:35,400 --> 01:34:38,880
+cultures on this planet allowed polygamy
+
+2299
+01:34:38,880 --> 01:34:41,199
+nonetheless in most of those polygamous
+
+2300
+01:34:41,199 --> 01:34:43,639
+cultures the majority of individuals
+
+2301
+01:34:43,639 --> 01:34:46,080
+were parab bonded and monogamous you get
+
+2302
+01:34:46,080 --> 01:34:47,800
+two different versions of polygamy in
+
+2303
+01:34:47,800 --> 01:34:50,040
+different social systems of humans one
+
+2304
+01:34:50,040 --> 01:34:53,119
+is economic polygamy which is your
+
+2305
+01:34:53,119 --> 01:34:55,119
+basically sitting around and the
+
+2306
+01:34:55,119 --> 01:34:57,920
+wealthiest guy in the village is the one
+
+2307
+01:34:57,920 --> 01:35:00,600
+who can have the largest number of wives
+
+2308
+01:35:00,600 --> 01:35:02,320
+an enormous skew and reproductive
+
+2309
+01:35:02,320 --> 01:35:04,960
+success that's driven by economics the
+
+2310
+01:35:04,960 --> 01:35:07,440
+other type is demographic you have a
+
+2311
+01:35:07,440 --> 01:35:09,679
+culture where for example you have a
+
+2312
+01:35:09,679 --> 01:35:12,440
+warrior class guys spent 10 years as
+
+2313
+01:35:12,440 --> 01:35:15,280
+Warriors Warriors Warriors New York City
+
+2314
+01:35:15,280 --> 01:35:17,800
+accent as Warriors they don't worry
+
+2315
+01:35:17,800 --> 01:35:19,280
+there's no anxiety but they eventually
+
+2316
+01:35:19,280 --> 01:35:20,719
+worry about getting a wife because by
+
+2317
+01:35:20,719 --> 01:35:22,440
+the time they're done being a warrior
+
+2318
+01:35:22,440 --> 01:35:24,159
+they're like 25
+
+2319
+01:35:24,159 --> 01:35:26,400
+and they marry someone who's 13 which is
+
+2320
+01:35:26,400 --> 01:35:27,840
+what you see in a lot of traditional
+
+2321
+01:35:27,840 --> 01:35:30,920
+cultures that follow that pattern and at
+
+2322
+01:35:30,920 --> 01:35:33,040
+that point you got a problem which is an
+
+2323
+01:35:33,040 --> 01:35:35,199
+awful lot of those guys have been killed
+
+2324
+01:35:35,199 --> 01:35:37,719
+over the course of 10 years of being
+
+2325
+01:35:37,719 --> 01:35:39,719
+involved in high levels of aggression
+
+2326
+01:35:39,719 --> 01:35:41,679
+and 10 more years of life expectancy to
+
+2327
+01:35:41,679 --> 01:35:43,679
+catch up with you there's a shortage of
+
+2328
+01:35:43,679 --> 01:35:46,560
+males so you see polygamy there driven
+
+2329
+01:35:46,560 --> 01:35:49,480
+by demographics and you see polygamy
+
+2330
+01:35:49,480 --> 01:35:51,520
+driven by economics and other types of
+
+2331
+01:35:51,520 --> 01:35:53,920
+society so most cultures on the this
+
+2332
+01:35:53,920 --> 01:35:56,440
+planet allow traditionally before the
+
+2333
+01:35:56,440 --> 01:35:58,520
+missionaries got them most cultures on
+
+2334
+01:35:58,520 --> 01:36:01,239
+this planet allow polygamy nonetheless
+
+2335
+01:36:01,239 --> 01:36:03,719
+within most polygamous cultures the
+
+2336
+01:36:03,719 --> 01:36:06,600
+majority of people are not polygamous we
+
+2337
+01:36:06,600 --> 01:36:09,600
+have one really confused screwed up
+
+2338
+01:36:09,600 --> 01:36:12,320
+Species here because we are halfway in
+
+2339
+01:36:12,320 --> 01:36:15,400
+between in all sorts of these measures
+
+2340
+01:36:15,400 --> 01:36:17,840
+okay so what do we have next which we
+
+2341
+01:36:17,840 --> 01:36:19,880
+will pick up on on Friday what we've
+
+2342
+01:36:19,880 --> 01:36:21,800
+just started with here is the first case
+
+2343
+01:36:21,800 --> 01:36:24,280
+of using all these principles individual
+
+2344
+01:36:24,280 --> 01:36:25,760
+selection kin selection reciprocal
+
+2345
+01:36:25,760 --> 01:36:28,119
+altruism to understand all sorts of
+
+2346
+01:36:28,119 --> 01:36:30,560
+aspects of behavior we will then move on
+
+2347
+01:36:30,560 --> 01:36:33,040
+to seeing how they explain other aspects
+
+2348
+01:36:33,040 --> 01:36:35,679
+of animal behavior some ones which if
+
+2349
+01:36:35,679 --> 01:36:37,400
+you are behaving for the good of the
+
+2350
+01:36:37,400 --> 01:36:40,239
+species circa 1960 there's no
+
+2351
+01:36:40,239 --> 01:36:42,400
+explanation at all because you're doing
+
+2352
+01:36:42,400 --> 01:36:44,520
+things like killing other members of
+
+2353
+01:36:44,520 --> 01:36:46,960
+your species and then finally we will
+
+2354
+01:36:46,960 --> 01:36:49,440
+see how this applies to humans and some
+
+2355
+01:36:49,440 --> 01:36:51,840
+of the witheringly
+
+2356
+01:36:51,840 --> 01:36:54,600
+appropriate for more please visit us at
+
+2357
+01:36:54,600 --> 01:36:57,600
+stanford.edu
+
