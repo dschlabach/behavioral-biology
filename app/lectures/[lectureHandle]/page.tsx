@@ -49,15 +49,25 @@ const LecturePage = ({ params }: { params: { lectureHandle: string } }) => {
               {lecture.title} | Lecture {parseInt(params.lectureHandle)}
             </h1>
             <div className="flex gap-1 text-xs text-stone-400">
-              <Link href={`/lectures/${parseInt(params.lectureHandle) - 1}`} className="flex items-center gap-0.5">
-                <SkipBack className="size-3" />
-                <div>Prev</div>
-              </Link>
+              {parseInt(params.lectureHandle) > 1 && (
+                <Link
+                  href={`/lectures/${parseInt(params.lectureHandle) - 1}`}
+                  className="flex items-center gap-0.5 transition-colors hover:text-stone-200"
+                >
+                  <SkipBack className="size-3" />
+                  <div>Prev</div>
+                </Link>
+              )}
 
-              <Link href={`/lectures/${parseInt(params.lectureHandle) + 1}`} className="flex items-center gap-0.5">
-                <span>Next</span>
-                <SkipForward className="size-3" />
-              </Link>
+              {parseInt(params.lectureHandle) < lectures.length && (
+                <Link
+                  href={`/lectures/${parseInt(params.lectureHandle) + 1}`}
+                  className="flex items-center gap-0.5 transition-colors hover:text-stone-200"
+                >
+                  <span>Next</span>
+                  <SkipForward className="size-3" />
+                </Link>
+              )}
             </div>
           </div>
           <Video videoId={lecture.videoId} onTimeUpdate={setCurrentTime} onPlay={setIsPlaying} />
