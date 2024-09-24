@@ -1,3 +1,4 @@
+import Book, { BookProps } from '@/components/Book'
 import Explanation, { ExplanationProps } from '@/components/Explanation'
 import Illustration, { IllustrationProps } from '@/components/Illustration'
 import KeyPoint, { KeyPointProps } from '@/components/KeyPoint'
@@ -13,7 +14,8 @@ type AnnotationType = 'person' | 'book' | 'study' | 'wiki' | 'key-point' | 'illu
 
 interface BaseAnnotation {
   type: AnnotationType
-  start: string | number
+  start: `${string}:${string},${string}` | number
+  end?: `${string}:${string},${string}` | number
   duration?: string | number
   comp?: React.ReactNode
 }
@@ -50,6 +52,10 @@ interface ExplanationAnnotation extends BaseAnnotation, ExplanationProps {
   type: 'explanation'
 }
 
+interface BookAnnotation extends BaseAnnotation, BookProps {
+  type: 'book'
+}
+
 // ... similar interfaces for BookAnnotation, StudyAnnotation, WikiAnnotation
 export type Annotation =
   | PersonAnnotation
@@ -59,6 +65,7 @@ export type Annotation =
   | IllustrationAnnotation
   | QuoteAnnotation
   | ExplanationAnnotation
+  | BookAnnotation
 
 export const renderAnnotation = (annotation: Annotation): React.ReactNode => {
   switch (annotation.type) {
@@ -78,6 +85,17 @@ export const renderAnnotation = (annotation: Annotation): React.ReactNode => {
       return <Quote text={annotation.text} author={annotation.author} photo={annotation.photo} />
     case 'explanation':
       return <Explanation text={annotation.text} link={annotation.link} photo={annotation.photo} />
+    case 'book':
+      return (
+        <Book
+          title={annotation.title}
+          author={annotation.author}
+          published={annotation.published}
+          summary={annotation.summary}
+          link={annotation.link}
+          photo={annotation.photo}
+        />
+      )
   }
 }
 
@@ -88,7 +106,7 @@ export const prepareAnnotation = (annotation: Annotation): Annotation & { end: n
   return {
     ...annotation,
     start,
-    end: start + duration,
+    end: typeof annotation.end === 'string' ? timestampToSeconds(annotation.end) : annotation.end ?? start + duration,
     comp: renderAnnotation(annotation),
   }
 }

@@ -1,7 +1,8 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import { ArrowUpRight } from 'lucide-react'
 
-interface BookProps {
+export interface BookProps {
   title: string
   author: string
   published: string
@@ -10,10 +11,18 @@ interface BookProps {
   photo?: any
 }
 
-const Book = ({ title, author, published, summary, link }: BookProps) => {
+const Book = ({ title, author, published, summary, link, photo }: BookProps) => {
   return (
     <div className="flex gap-4">
-      <div className="aspect-[3/4] h-40 rounded bg-stone-500" />
+      {photo && (
+        <Image
+          src={photo}
+          alt={title}
+          className="aspect-[3/4] shrink-0 overflow-hidden rounded border border-stone-800 object-cover"
+          width={120}
+          height={160}
+        />
+      )}
       <div className="flex flex-col gap-1.5">
         <h3 className="font-serif text-lg leading-none text-stone-300">{title}</h3>
         <p className="text-xs text-stone-400/90">
