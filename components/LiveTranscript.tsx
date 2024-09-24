@@ -4,6 +4,7 @@ import { parseSRT, type ParsedCaptions, type Subtitle } from '@/utils/subtitles'
 import { AnimatePresence, motion } from 'framer-motion'
 
 const DevRegenerateSubtitles = ({ onRegenerate }: { onRegenerate: () => void }) => {
+  if (process.env.NEXT_PUBLIC_VERCEL_ENV !== 'development') return null
   return (
     <button
       onClick={onRegenerate}
@@ -31,9 +32,9 @@ export const LiveTranscript = ({ srtPath, currentTime }: { srtPath: string; curr
         .then(response => response.text())
         .then(srtData => {
           const parsedParagraphs = parseSRT(srtData)
-          console.log('parsedParagraphs:', parsedParagraphs)
           setParagraphs(parsedParagraphs)
         })
+        // eslint-disable-next-line no-console
         .catch(err => console.error('Error fetching SRT file:', err))
     }
   }, [srtPath, regenerateKey])

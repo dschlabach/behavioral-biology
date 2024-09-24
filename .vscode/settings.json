@@ -1,4 +1,5 @@
 {
-    "prettier.prettierPath": "",
-    "prettier.withNodeModules": false
+  "prettier.prettierPath": "",
+  "prettier.withNodeModules": false,
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

@@ -70,7 +70,7 @@ const LecturePage = ({ params }: { params: { lectureHandle: string } }) => {
         <div className="flex flex-col gap-6">
           <AnimatePresence mode="popLayout">
             {lecture.annotations
-              ?.filter(annotation => annotation.start < currentTime && annotation.end > currentTime)
+              ?.filter(annotation => Number(annotation.start) < currentTime && Number(annotation.end) > currentTime)
               .map(annotation => {
                 return (
                   <motion.div
